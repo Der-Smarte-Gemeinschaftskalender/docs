@@ -1,46 +1,157 @@
-# Get Started
+# Dokumentation zum Smarten Gemeinschaftskalender
 
-This is a normal page, which contains VuePress basics.
+**Willkommen in der Dokumentation zum Smarten Gemeinschaftskalender!**
 
-## Pages
+Diese Anleitung hilft Menschen, die den Kalender nutzen wollen und Veranstalter:innen, den Kalender optimal zu verwenden – von der Suche und Benachrichtigungen bis zum Anlegen und Verwalten eigener Veranstaltungen.
 
-You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.
+Auch Entwickler*innen finden hier Informationen zum Hosting, den offenen Weiterentwicklungsmöglichkeiten und den verwendeten Technologien.
 
-See [routing][] for more details.
+## Einführung: Der Smarte Gemeinschaftskalender
 
-## Content
+Erfahren Sie mehr über die  
+* Besonderheiten,
+* die Förderung durch den DigitalHub.SH und die Kooperation mit dem Amt Süderbrarup
+* und die Funktion des föderierten Systems mit einzelnen Instanzen
 
-Every markdown file [will be rendered to HTML, then converted to a Vue SFC][content].
+<a href="Einführung/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über die Kalenderfunktionen»
+</a>
 
-VuePress support basic markdown syntax and [some extensions][synatex-extensions], you can also [use Vue features][vue-feature] in it.
+## Kalenderfunktionen für Nutzer*innen
+Lernen Sie die wichtigsten Funktionen des *Smarten Gemeinschaftskalenders* kennen – und wie Sie ihn ganz einfach für sich nutzen können.
 
-## Configuration
+<a href="DSG%20Funktionen/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über die Kalenderfunktionen»
+</a>
 
-VuePress use a `.vuepress/config.js`(or .ts) file as [site configuration][config], you can use it to config your site.
+## Barrierefreie Gestaltungsprinzipien
 
-For [client side configuration][client-config], you can create `.vuepress/client.js`(or .ts).
+Barrierefreiheit ist ein **zentrales Ziel** des Smarten Gemeinschaftskalenders. Sie ermöglicht allen Menschen **Teilhabe**.
+Lesen Sie nach, wie Sie Inhalte so aufbereiten, dass sie möglichst viele Menschen erreichen.
 
-Meanwhile, you can also add configuration per page with [frontmatter][].
+<a href="Barrierefreiheit/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über Barrierefreiheit »
+</a>
 
-## Layouts and customization
+## Terminverwaltung für Veranstalter*innen
+### Einzeltermine
+Erstellen Sie einmalige Veranstaltungen oder Events ohne festen Rhythmus und verwalten Sie alle Details.
 
-Here are common configuration controlling layout of `@vuepress/theme-default`:
+<a href="Terminverwaltung/Einzeltermine/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über Einzeltermine »
+</a>
 
-- [navbar][]
-- [sidebar][]
+### Serientermine
 
-Check [default theme docs][default-theme] for full reference.
+Legen Sie Veranstaltungen mit festen Wiederholungsintervallen an und passen Sie einzelne Termine nach Bedarf an.
 
-You can [add extra style][style] with `.vuepress/styles/index.scss` file.
+<a href="Terminverwaltung/Serientermine/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über Serientermine »
+</a>
 
-[routing]: https://vuejs.press/guide/page.html#routing
-[content]: https://vuejs.press/guide/page.html#content
-[synatex-extensions]: https://vuejs.press/guide/markdown.html#syntax-extensions
-[vue-feature]: https://vuejs.press/guide/markdown.html#using-vue-in-markdown
-[config]: https://vuejs.press/guide/configuration.html#client-config-file
-[client-config]: https://vuejs.press/guide/configuration.html#client-config-file
-[frontmatter]: https://vuejs.press/guide/page.html#frontmatter
-[navbar]: https://vuejs.press/reference/default-theme/config.html#navbar
-[sidebar]: https://vuejs.press/reference/default-theme/config.html#sidebar
-[default-theme]: https://vuejs.press/reference/default-theme/
-[style]: https://vuejs.press/reference/default-theme/styles.html#style-file
+### iCal-Dateien hochladen 
+
+Importieren Sie Termine aus externen digitalen Kalenderdateien und übernehmen Sie sie in den Gemeinschaftskalender.
+
+<a href="Terminverwaltung/iCal-Dateien/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über iCal-Dateien »
+</a>
+
+### Kalenderintegration mit iCal-URLs
+
+Binden Sie externe Kalender per URL ein und halten Sie Termine automatisch aktuell.
+
+<a href="Terminverwaltung/Kalenderintegration/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über Kalenderintegrationen »
+</a>
+
+## Werbemittelgenerator
+
+Generieren Sie Ankündigungen für einzelne Veranstaltungen oder Übersichten mehrerer anstehender Termine – ideal zum Teilen auf Social Media.
+
+<a href="Werbemittelgenerator/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über den Werbemittelgenerator »
+</a>
+
+## Dokumentation für Entwickler*innen
+
+Dieser Bereich richtet sich an Entwickler*innen, die den Smarten Gemeinschaftskalender weiterentwickeln, integrieren oder technisch verstehen möchten. 
+
+### Hosting
+
+Hier erfahren Sie, wie Sie eine eigene Instanz des Smarten Gemeinschaftskalenders betreiben können.
+
+<a href="/Entwicklungsbereich/Hosting/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;"> Mehr über das Hosting »
+</a>
+
+### Repositories
+Greifen Sie auf die Open-Source-Repositories zu und tragen Sie zur Weiterentwicklung des Smarten gemeinschaftskalenders bei.
+
+<a href="/Entwicklungsbereich/Repositories/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;"> Mehr über die Repositories »
+</a>
+
+
+### Technologien
+
+Erfahren Sie mehr über den technischen Aufbau, eingesetzte Frameworks und UX-Prinzipien der Plattform.
+
+<a href="/Entwicklungsbereich/Technologien/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;"> Mehr über die Technologien »
+</a>

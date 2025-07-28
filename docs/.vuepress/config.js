@@ -5,13 +5,12 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  description: 'Der Smarte Gemeinschaftskalender',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'DSG%20Logo%20Dokumentaion.png',
 
-    navbar: ['/', '/get-started'],
+    navbar: ['/', 'Termin'],
   }),
 
   bundler: viteBundler(),
