@@ -10,7 +10,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: 'DSG%20Logo%20Dokumentaion.png',
 
-    navbar: ['/', 'Termin'],
+    navbar: ['/'],
   }),
 
   bundler: viteBundler(),
