@@ -17,7 +17,7 @@ Im Seitenmenü der Terminverwaltung unter der Rubrik **Einzeltermine** können S
 Diese Dokumentation führt Sie **Schritt für Schritt** durch den gesamten Prozess – von der Erstellung bis zur Aktualisierung Ihrer Einzeltermine.
 
 
-## Einzeltermine anlegen
+## Einzeltermine erstellen
 
 Um einen neuen Einzeltermin zu erstellen, klicken Sie auf den Button *+ Einzeltermin anlegen* (oben rechts).
 
