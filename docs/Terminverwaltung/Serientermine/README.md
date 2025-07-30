@@ -12,20 +12,20 @@ Im Seitenmenü der Terminverwaltung unter der Rubrik **Serientermine** können S
 Diese Dokumentation führt Sie Schritt für Schritt durch das Anlegen und Bearbeiten von Serienterminen.
 
 
-## Serientermin anlegen
+## Serientermin erstellen
 
 Um einen neuen Serientermin zu erstellen, klicken Sie auf den Button *+ Serientermin anlegen*.
 
 Es öffnet sich ein Formular – viele Felder funktionieren **identisch wie bei den Einzelterminen**, andere sind spezifisch für Terminserien.
 
 
-## Titel und Beschreibung
+### Titel und Beschreibung
 
 Der hier eingegebene Titel und die Beschreibung gelten **für alle Termine der Serie**. Sie sollten diese daher nicht auf einen bestimmten Termin auslegen. Sollte es nötig sein, die Beschreibung oder den Titel für einzelne Termine anzupassen, können Sie diese im nachhinein [bearbeiten](/Terminverwaltung/Serientermine/#einzelne-termine-anpassen).
 
 Weitere Hinweise zur sinnvollen Formulierung finden Sie in der Dokumentation zu [Titel](/Terminverwaltung/Einzeltermine/#titel) und [Beschreibung](/Terminverwaltung/Einzeltermine/#beschreibung) bei Einzelterminen.
 
-## Zeitraum und Intervall festlegen
+### Zeitraum und Intervall festlegen
 
 Im Gegensatz zum Einzeltermin wählen Sie hier zunächst das **Start- und Enddatum** der gesamten Serie fest (z. B. 28.07.–18.08.).
 
@@ -44,7 +44,7 @@ Zusätzlich legen die das gewünschte **Intervall** fest – z. B. wöchentlich 
 >*Jede 3. Woche des Monats:* An jedem 3. Montag des Monats wird ein Termin bis zum Enddatum der Serie angelegt. Der erste Termin der Serie wäre  der 18.08.2025. 
 
 
-## Weitere Angaben
+### Weitere Angaben
 
 Die folgenden Felder funktionieren identisch wie beim Einzeltermin:
 
