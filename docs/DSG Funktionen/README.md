@@ -25,7 +25,7 @@ Die *klassische Veranstaltungssuche* bietet eine schnelle Möglichkeit, gezielt 
   - **Status der Veranstaltung:** Filtern Sie nach bestätigten, vorläufigen oder abgesagten Veranstaltungen.  
   - **Sprachen:** Begrenzen Sie Ihre Suche auf Veranstaltungen mit bestimmten Veranstaltungssprachen.  
 
-Klicken Sie auf Suchen, neben der oberen Suchleiste. Nun werden Ihnen alle Veranstaltungen angezeigt, die Ihren Kriterien entsprechen. 
+Klicken Sie auf Suchen, neben der oberen Suchbegriffsleiste. Nun werden Ihnen alle Veranstaltungen angezeigt, die Ihren Kriterien entsprechen. 
 
 #### Kalenderansicht
 
@@ -54,8 +54,6 @@ Die Filterfunktionen **Instanz, Status, Sprache und Kategorie** funktionieren an
 | Wirtschaft & Bildung        | Wissenschaft & Technologie, Bildung, Wirtschaft & Unternehmen|
 
 **Hinweis:** Eine Veranstaltung ist immer genau einer der 30 Kategorien zugeordnet.
-
----
 
 Die Kalenderansicht passt sich dynamisch an Ihre Auswahl an. So erhalten Sie jederzeit eine **aktuelle Übersicht** Ihrer Auswahl.
 

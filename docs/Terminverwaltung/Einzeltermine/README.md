@@ -30,6 +30,24 @@ Der Titel ist das, was potenzielle Teilnehmer*innen als erstes von Ihrer Veranst
 
 **Hinweis:** Halten Sie den Titel so kurz wie möglich, aber so lang wie nötig, damit er in Übersichten gut lesbar bleibt und gleichzeitig Interesse weckt.
 
+### Bild
+
+Ein Veranstaltungsbild kann die Art und den Charakter Ihrer Veranstaltung **visuell hervorheben**. Es wird sowohl als Vorschaubild auf der Kalenderstartseite und in den Suchergebnissen als auch auf der Detailseite der jeweiligen Veranstaltung angezeigt.  
+Wenn Sie kein Bild hochladen, wird automatisch der **Standard-Farbverlauf des Smarten Gemeinschaftskalenders** hinterlegt.
+
+Klicken Sie auf das Feld *Datei auswählen*, um in Ihren Ordnern das gewünschte Bild auszuwählen, oder ziehen Sie es per **Drag & Drop** direkt in das Eingabefeld.  
+
+**Empfehlungen für das Bild:**  
+- Wählen Sie ein **aussagekräftiges Motiv** im **Querformat**.  
+- Verzichten Sie auf kleine Schriften, da diese insbesondere in der Voschau schlecht lesbar sind.  
+- Verwenden Sie das Bild nicht für Detailinformationen – diese gehören in die Veranstaltungsbeschreibung.  
+
+Nach dem Hochladen erscheint eine **Vorschau** rechts neben dem Eingabefeld.  
+- Um das Bild zu ersetzen, laden Sie einfach ein neues hoch.  
+- Mit dem **Löschen-Button** in der Vorschau können Sie das aktuelle Bild jederzeit entfernen.
+
+![Beispiel eines hochgeladenen Bildes mit Pfeil, welcher den Löschen-Button anzeigt](./Bilder/Bild.png)
+
 ### Beschreibung
 
 Fügen Sie hier detaillierte Informationen zu Ihrem Termin hinzu, die für Teilnehmende wichtig sind, z. B.:

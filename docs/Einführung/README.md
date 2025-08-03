@@ -9,7 +9,7 @@
 ## Was macht den Kalender besonders?
 
 **Personalisierte Benachrichtigungen:** 
-Um über anstehende Veranstaltungen informiert zu bleiben ist in der Regel Eigeninitiative gefragt – regelmäßig muss selbst recherchiert werden. Das wollen wir mit dem Smarten Gemeinschaftskalender ändern. Mit der Möglichkeit, Veranstaltungsbenachrichtigungen zu abonnieren, werden Nutzer*innen regelmäßig über anstehende Termine informiert – beispielsweise per E-Mail oder SMS. Dabei kann das Abonnement in der Regelmäßigkeit und nach Interessengebieten an die persönlichen Vorlieben angepasst werden. 
+Um über anstehende Veranstaltungen informiert zu bleiben ist in der Regel Eigeninitiative gefragt – regelmäßig muss selbst recherchiert werden. Das wollen wir mit dem Smarten Gemeinschaftskalender ändern. Mit der Möglichkeit, Veranstaltungsbenachrichtigungen zu abonnieren, werden Nutzer*innen regelmäßig über anstehende Termine informiert – beispielsweise per E-Mail. Dabei kann das Abonnement in der Regelmäßigkeit und nach Interessengebieten an die persönlichen Vorlieben angepasst werden. 
 
 So wird eine Informationsflut vermieden und Veranstalter*innen erreichen genau die richtigen Menschen!
 
