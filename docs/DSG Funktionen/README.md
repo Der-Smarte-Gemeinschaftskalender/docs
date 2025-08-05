@@ -57,25 +57,65 @@ Die Filterfunktionen **Instanz, Status, Sprache und Kategorie** funktionieren an
 
 Die Kalenderansicht passt sich dynamisch an Ihre Auswahl an. So erhalten Sie jederzeit eine **aktuelle Übersicht** Ihrer Auswahl.
 
-
 ## Kalender abonnieren
 
-**Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
+Der *Smarte Gemeinschaftskalender* ist **offen und flexibel gestaltet**, sodass seine Schnittstellen vielseitig genutzt und weiterentwickelt werden können.  
+
+Zentral ist die Möglichkeit, **E-Mail-Benachrichtigungen** zu abonnieren: So bleiben Sie automatisch über neue Veranstaltungen informiert – ganz nach Ihren persönlichen Interessen.  
+
+Auch Veranstalter*innen können ihre **eigenen Termine** abonnieren und diese beispielsweise auf ihrer Website einbinden ([siehe Kalender auf eigener Webseite integrieren](#kalender-auf-eigener-webseite-integrieren-script)).  
 
 ### E-Mail-Benachrichtigungen
 
-### Kalender auf eigener Webseite einbinden 
+Mit den E-Mail-Benachrichtigungen erhalten Sie regelmäßig eine Übersicht über für Sie relevante Veranstaltungen – personalisiert nach Ihren Wünschen.
 
-#### Einbindung als iFrame
+**So funktioniert’s:**
 
-#### Einbindung als Script
+1. **Intervall wählen:**  
+   Wählen Sie, ob Sie **wöchentlich (Montag morgen)** oder **monatlich (zum 1. des Monats)** informiert werden möchten.
 
-### Termine auf Informationstafeln anzeigen
+2. **Kategorien filtern:**  
+   Legen Sie fest, ob Sie zu allen **30 Veranstaltungskategorien** oder einer bestimmen Kategorie Benachrichtigungen erhalten möchten   ([Übersicht der Kategorien](#zuordnung-der-kategorien)).
+
+3. **Wählen die die Veranstaltungsquelle:**  
+   - **Nur Veranstaltungen aus dem aktuellen SG-Kalender:**  
+     Sie erhalten ausschließlich Veranstaltungen des gewählten Kalenders (z. B. Amt Süderbrarup). Zusätzlich können Sie hier **nach Organisationen filtern**. Sie können entweder alle Organisationen abonnieren oder eine bestimmte.  
+   - **Alle Veranstaltungen aus dem Netzwerk anzeigen:**  
+     Mit dieser Option erhalten Sie auch Veranstaltungen aus verbundenen Kalendern. In diesem Fall wird eine **Umkreissuche** aktiviert, über die Sie Veranstaltungen aus angrenzende Gemeinden, Ortschaften und Organisationen einbeziehen können.
+
+4. **E-Mail-Adresse angeben:**  
+   Geben Sie Ihre E-Mail-Adresse in das entsprechende Feld ein und klicken Sie auf **E-Mail-Benachrichtigungen jetzt abonnieren**.
+
+5. **Bestätigung:**  
+   Sie erhalten eine **Bestätigungsmail** (dies kann einige Minuten dauern; bitte prüfen Sie auch Ihren Spam-Ordner).  
+   Klicken Sie auf den **Bestätigungslink** in der Mail. Es öffnet sich ein Browser-Fenster. Aktivieren Sie hier Ihr Abonnement.
+
+#### Wann erhalte ich meine erste Benachrichtigung?  
+Ab dem Zeitpunkt der Bestätigung erhalten Sie Benachrichtigungen im gewählten Intervall.  
+Die erste E-Mail wird zum nächsten geplanten Versandtermin versendet – Montag morgen oder am 01. des kommenden Monats.
 
 
-### Veranstaltungsdatei exportieren
+### Kalender auf eigener Webseite integrieren 
 
-**Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
+
+## Veranstaltungsdatei exportieren
+
+In der Detailansicht jeder Veranstaltung können Sie diese als **.ics-Datei** herunterladen und so zu Ihrem persönlichen digitalen Kalender hinzufügen.  
+Klicken Sie dafür auf den Button **Zum Kalender hinzufügen**.
+
+<img src="./Bilder/iCal-download.png" alt="Button + Einzeltermin anlegen" style="width:400px;">
+
+### Was ist eine .ics-Datei?
+Eine **.ics-Datei** ist ein universelles Kalenderformat, das von nahezu allen gängigen Kalenderprogrammen unterstützt wird, z. B.:
+- **Google Kalender**
+- **Apple Kalender**
+- **Microsoft Outlook**
+- und viele weitere.
+
+#### Wie füge ich die Datei meinem Kalender hinzu?
+In der Regel genügt es, die heruntergeladene Datei **mit Ihrem Kalenderprogramm zu öffnen**. Der Termin wird dann automatisch importiert beziehungsweise werden Sie gefragt, ob Sie diesen hinzufügen wollen.
+
+**Hinweis:** Die genaue Vorgehensweise kann je nach Programm leicht variieren.
 
 
 
