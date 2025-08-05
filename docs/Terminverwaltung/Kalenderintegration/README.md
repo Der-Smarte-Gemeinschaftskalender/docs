@@ -14,9 +14,9 @@ Eine iCal-URL ist ein **privater Kalenderlink**, der in nahezu allen gängigen S
 - und viele weitere.
 
 Diese Funktion eignet sich besonders, wenn:  
-- alle Termine eines **Vereins- oder Organisationskalender** kontinuierlich im *Smarten Gemeinschaftskalender* angezeigt werden sollen.  
+- alle Termine eines **Vereins- oder Organisationskalenders** kontinuierlich im *Smarten Gemeinschaftskalender* angezeigt werden sollen.  
 - Sie einen **gepflegten und aktuellen Kalender** betreiben.
-- eine Doppelpflege zweier Kalender vermieden werden soll. So verjindern Sie zudem, dass sich bei der manuellen Terminübertragung Fehler einschleichen.  
+- eine Doppelpflege zweier Kalender vermieden werden soll. So verhindern Sie zudem, dass sich bei der manuellen Terminübertragung Fehler einschleichen.  
 
 Im Seitenmenü der Terminverwaltung unter der Rubrik **Kalenderintegration** können Sie:  
 - Neue Kalender per [iCal-URL anbinden](#kalender-integrieren-ical-url-anbinden) 
@@ -28,15 +28,15 @@ Diese Dokumentation führt Sie Schritt für Schritt durch den Prozess der Integr
 
 ## Kalender integrieren: iCal-URL anbinden
 
-Um einen Kalender anzubinden, öffnen Sie in der Terminverwaltung den Bereich **Kalenderintegration.**. Dorkt klicken Sie auf den Button **+ iCal-URL**, um das Formular aufzurufen. Hier fügen Sie die **URL Ihres externen Kalenders** ein. 
-   > Diese finden Sie in der Regel in den Freigabeeinstellungen Ihres Kalenders (z. B. **„Privater Link“**, **Interner Link** oder **„iCal-Link“**).  Weitere Informationen finden Sie in der Hilfe Ihres jeweiligen Kalendersystems.  
+Um einen Kalender anzubinden, öffnen Sie in der Terminverwaltung den Bereich **Kalenderintegration**. Dort klicken Sie auf den Button **+ iCal-URL**, um das Formular aufzurufen. Hier fügen Sie die **URL Ihres externen Kalenders** ein. 
+   > Diese finden Sie in der Regel in den Freigabeeinstellungen Ihres Kalenders (z. B. **Abonnement-Link** oder **„iCal-Link“**).  Weitere Informationen finden Sie in der Hilfe Ihres jeweiligen Kalendersystems.  
 
 
 Alle Veranstaltungsinformationen (z. B. **Titel, Datum, Uhrzeit und Beschreibung**) werden automatisch aus Ihrem Quellkalender übernommen. So vermeiden Sie Übertragungsfehler, die bei einer manuellen Eingabe häufig auftreten können. Die Felder  **Titel, Datum, Uhrzeit** sind daher in dem Formular nicht vorhanden.
 
 Neben der URL können Sie zusätzliche Angaben machen. Beachten Sie jedoch, dass alle Angaben, die Sie im Formular eintragen (z. B. **Kategorie**, **Anmeldeoptionen**, **Sprache**, etc.), **für alle hochgeladenen Termine** gelten. Sie können jedoch einzelne Termine im Nachgang individuell anpassen und **bearbeiten**.  
 
-Eine Besonderheit ist die **Beschreibung:** – sie wird angezeigt, falls ein Termin im Quellkalender keine eigene Beschreibung enthält. Bestehende Beschreibungen aus dem Quellkalender werden nicht überschrieben 
+Eine Besonderheit ist die **Beschreibung** – sie wird angezeigt, falls ein Termin im Quellkalender keine eigene Beschreibung enthält. Bestehende Beschreibungen aus dem Quellkalender werden nicht überschrieben. 
 
 Detailinformationen zu den Eingabefeldern können im Bereich der Einzeltermine eingesehen werden, da diese analog funktionieren:
 
@@ -57,17 +57,17 @@ In der Übersichtstabelle im Bereich **Terminverwaltung** unter dem Reiter **Kal
 - **die URL** der Integration,
 - **den Status** aktiv oder inaktiv,
 - **die Anzahl der Termine**, die aktuell über diese Integration übernommen wurden
-- und den **Zeitpunkt der letzte Synchronisation**
+- und den **Zeitpunkt der letzte Synchronisation**.
 
 ![Bildschirmausnahme der Übersichtstabelle im Bereich Kalenderintegration.](./Bilder/Übersicht.png)
 
 ## Integration aktivieren und deaktivieren
 
 Sie können die Kalenderintegrationen jederzeit aktivieren oder deaktivieren:  
-- **Deaktivieren:** Stoppt die Synchronisation neuer Termine. Bereits eingepflegte Termine bleiben im *smarten gemeinschaftskalender* bestehen.   
-- **Aktivieren:**  Startet die Synchronisation und füht neue Termine dem *Smarten Gemeinschaftskalender** hinzu.
+- **Deaktivieren:** Stoppt die Synchronisation neuer Termine. Bereits eingepflegte Termine bleiben im *Smarten Gemeinschaftskalender* bestehen.   
+- **Aktivieren:**  Startet die Synchronisation und führt neue Termine dem *Smarten Gemeinschaftskalender** hinzu.
 
-Zum Ändern des Status klicken Sie im Bereich **Kalenderintegration** der Terminverwaltung auf "Ansehen" der jeweligen Integration in der Tabelle. So gelangen Sie zur Detailansicht. Oben rechts befindet sich ein Button zum aktivieren oder deaktivieren ihrer Integration. 
+Zum Ändern des Status klicken Sie im Bereich **Kalenderintegration** der Terminverwaltung auf "Ansehen" der jeweligen Integration in der Tabelle. So gelangen Sie zur Detailansicht. Oben rechts befindet sich ein Button zum Aktivieren oder Deaktivieren ihrer Integration. 
 
 ![Bildschirmausnahme der Detailansicht einer Kalenderintegration.](./Bilder/Status.png)
 
@@ -84,8 +84,8 @@ Dafür stehen Ihnen zwei Wege zur Verfügung:
 2. **Über die Terminverwaltung:**  
    In der Rubrik **Kalenderintegration** finden Sie eine Übersicht aller Kalenderintegrationen.
   
-     Wählen Sie die entsprechende Integration in der Tabella aus um zur **Detailansicht** zu gelangen, wo Sie eine Übersicht aller übernommener Termine finden. Klicken Sie auf das **Bearbeiten-Symbol** in der jeweiligen Terminzeile, um den Termin anzupassen.
+     Wählen Sie die entsprechende Integration in der Tabelle aus um zur **Detailansicht** zu gelangen, wo Sie eine Übersicht aller übernommener Termine finden. Klicken Sie auf das **Bearbeiten-Symbol** in der jeweiligen Terminzeile, um den Termin anzupassen.
 
-Sie gelangen jeweils in die Bearbeiten-Ansicht für Einzeltermine. Die Änderungen werden ausschließlich für den ausgewählten Termin übernommen – nicht für die gesamte Kalenderintegration. Die Änderungen übernehmen Sie, indem Sie am Ende des Formulars aus den Button **Änderungen speichern** klicken.  
+Sie gelangen jeweils in die Bearbeiten-Ansicht für Einzeltermine. Die Änderungen werden ausschließlich für den ausgewählten Termin übernommen – nicht für die gesamte Kalenderintegration. Die Änderungen übernehmen Sie, indem Sie am Ende des Formulars auf den Button **Änderungen speichern** klicken.  
 
 Die Integration als Ganzes kann nicht bearbeitet werden. 

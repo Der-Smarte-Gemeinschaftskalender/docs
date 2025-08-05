@@ -9,7 +9,7 @@ Eine **.ics-Datei** ist ein universelles Kalenderformat, das von nahezu allen g�
 - **Microsoft Outlook**
 - und viele weitere.
 
-Sie können iCal-Dateien beispielsweise aus ihrem persönlichen digitalen Kalender exportieren. Dabei können **einzelne Termine** sowie ganze Kalender mit einer **Terminsammlung** exportiert werden. 
+Sie können iCal-Dateien beispielsweise aus Ihrem persönlichen digitalen Kalender exportieren. Dabei können **einzelne Termine** sowie ganze Kalender mit einer **Terminsammlung** exportiert werden. 
 
 iCal-Dateien eignen sich, um **einzelne oder mehrere Veranstaltungen auf einmal** in den *Smarten Gemeinschaftskalender* zu importieren, die bereits an anderer Stelle eingepflegt wurden – schnell, effizient und ohne manuelle Flüchtigkeitsfehler.  
 Im Gegensatz zu Einzel- oder Serienterminen laden Sie eine vorbereitete **iCal-Datei (.ics)** mit den entsprechenden Veranstaltungsdaten hoch und vermeiden das händische Abschreiben von Termindaten.  
@@ -32,13 +32,13 @@ Diese Dokumentation führt Sie Schritt für Schritt durch diese Prozesse.
 
 Um eine iCal-Datei hochzuladen, öffnen Sie in der Terminverwaltung den Bereich **iCal-Dateien**. Über den Button **iCal-Datei hochladen** rufen Sie das entsprechende Formular auf.
 
-Hier können Sie eine vorbereitete **.ics-Datei** entweder über die Schaltfläche **Datei auswählen** hochladen oder sie per **Drag & Drop** direkt in das Feld zum hochladen ziehen. 
+Hier können Sie eine vorbereitete **.ics-Datei** entweder über die Schaltfläche **Datei auswählen** hochladen oder sie per **Drag & Drop** direkt in das Feld zum Hochladen ziehen. 
 
 Alle Veranstaltungsinformationen (z. B. **Titel, Datum, Uhrzeit und Beschreibung**) werden automatisch aus der Datei übernommen. So vermeiden Sie Übertragungsfehler, die bei einer manuellen Eingabe häufig auftreten können. Die Felder  **Titel, Datum, Uhrzeit** sind daher in dem Formular nicht vorhanden.
 
 Die **Beschreibung** bildet eine Ausnahme: Sie können eine einheitliche Beschreibung angeben. Diese wird ausschließlich für Veranstaltungen übernommen, die keinen Beschreibungstext in der iCal-Datei hinterlegt haben. 
 
-Darüberhinaus können Sie zusätliche Angaben für ihre iCal-Datei-Termine im Formular machen. Beachten Sie jedoch, dass alle Angaben, die Sie im Formular eintragen (z. B. **Kategorie**, **Anmeldeoptionen**, **Sprache**, etc.), **für alle hochgeladenen Termine** gelten. Sie können diese jedoch nach dem Anlegen **individuell anpassen** und die einzelnen Termine **bearbeiten**.
+Darüber hinaus können Sie zusätzliche Angaben für Ihre iCal-Datei-Termine im Formular machen. Beachten Sie jedoch, dass alle Angaben, die Sie im Formular eintragen (z. B. **Kategorie**, **Anmeldeoptionen**, **Sprache**, etc.), **für alle hochgeladenen Termine** gelten. Sie können diese jedoch nach dem Anlegen **individuell anpassen** und die einzelnen Termine **bearbeiten**.
 
 Detailinformationen zu den Eingabefeldern können im Bereich der Einzeltermine eingesehen werden, da diese analog funktionieren:
 
@@ -55,14 +55,14 @@ Detailinformationen zu den Eingabefeldern können im Bereich der Einzeltermine e
 Nachdem Sie die Datei hochgeladen und die gewünschten Angaben ergänzt haben, klicken Sie auf **„Veranstaltungen anzeigen“**.  
 Es öffnet sich eine **Übersichtstabelle**, in der alle Termine der iCal-Datei aufgelistet sind. 
 
- ![Bildschirmaufnahme der Vorschau der Termine die durch die iCal-Datei hochgeladen werden](./Bilder/Vorschau.png)
+ ![Bildschirmaufnahme der Vorschau der Termine, die durch die iCal-Datei hochgeladen werden](./Bilder/Vorschau.png)
 
 Prüfen Sie die Angaben und klicken Sie anschließend auf **Vorschautermine anlegen**, um die Veranstaltungen im *Smarten Gemeinschaftskalender* zu speichern.
 
 ### Bereits vorhandene Termine
 Wenn Termine der iCal-Datei bereits im Kalendersystem hinterlegt sind, werden diese in einer separaten Tabelle ausgewiesen. Nur tatsächlich neue Termine können hochgeladen werden. 
 
- ![Bilschirmausnahme der beiden Tabellen: Neu anzulegende Termine und bereits vorhandene Termine](./Bilder/Doppelpflege.png)
+ ![Bilschirmaufnahme der beiden Tabellen: Neu anzulegende Termine und bereits vorhandene Termine](./Bilder/Doppelpflege.png)
 
 
 ## Hochgeladene iCal-Termine bearbeiten
@@ -83,6 +83,6 @@ Dafür stehen Ihnen zwei Wege zur Verfügung:
    ![Bildschirmaufnahme der Terminübersicht einer iCal-Datei](./Bilder/terminübersicht.png)
    Klicken Sie auf das **Bearbeiten-Symbol** in der jeweiligen Terminzeile, um den Termin anzupassen.
 
-Sie gelangen jeweils in die Bearbeiten-Ansicht für Einzeltermine. Die Änderungen werden ausschließlich für den ausgewählten Termin übernommen – nicht für die gesamte Datei. Die Änderungen übernehmen Sie, indem Sie am Ende des Formulars aus den Button **Änderungen speichern** klicken.  
+Sie gelangen jeweils in die Bearbeiten-Ansicht für Einzeltermine. Die Änderungen werden ausschließlich für den ausgewählten Termin übernommen – nicht für die gesamte Datei. Die Änderungen übernehmen Sie, indem Sie am Ende des Formulars auf den Button **Änderungen speichern** klicken.  
 
 Die Datei als Ganzes kann nicht bearbeitet werden. 
