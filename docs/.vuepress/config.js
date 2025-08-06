@@ -4,7 +4,6 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'de-DE',
-
   description: 'Der Smarte Gemeinschaftskalender',
 
   theme: defaultTheme({

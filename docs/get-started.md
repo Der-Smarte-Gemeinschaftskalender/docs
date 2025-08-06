@@ -1,6 +1,6 @@
-# Dokumentation zum Smarten Gemeinschaftskalender
+# Handbuch zum Smarten Gemeinschaftskalender
 
-**Willkommen in der Dokumentation zum Smarten Gemeinschaftskalender!**
+**Willkommen im Handbuch zum Smarten Gemeinschaftskalender!**
 
 Diese Anleitung hilft Menschen, die den Kalender nutzen wollen und Veranstalter:innen, den Kalender optimal zu verwenden – von der Suche und Benachrichtigungen bis zum Anlegen und Verwalten eigener Veranstaltungen.
 
