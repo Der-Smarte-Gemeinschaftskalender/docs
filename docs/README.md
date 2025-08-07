@@ -3,7 +3,7 @@ home: true
 title: Übersicht
 heroImage: /DSG-Icon.png
 heroText: Der Smarte Gemeinschaftskalender
-tagline: Barrierefrei vernetzt – die Open-Source-Lösung für eine starke Gemeinschaft
+tagline: Alle Termine im Blick – die Open-Source-Lösung für eine starke Gemeinschaft
 actions:
   - text: Zum Handbuch
     link: /get-started.html
@@ -24,11 +24,11 @@ features:
     details: Austomatisierte Importe, Serientermine, Werbemittelgenerator und vieles mehr.
   - title: Einfach & intuitiv
     details: Eine Benutzerfreundliche Oberfläche die Nutzer*innen und Veranstalter*innen gerne benutzen.
-footer: Dokumentation von 54 Grad Software GmbH
+footer: Dokumentation von 54 Grad Software GmbH 
 ---
 <img src="./DSG-Kooperation.png" alt="Logos der 3 Kooperationspartner" style="width:500px;"> 
 
-**Ein Projekt von der [54 Grad Software GmbH](54gradsoftware.de), [Smart City Amt Süderbrarup](https://smartcityamtsuederbrarup.de/) und dem [Amt Süderbrarup](https://www.amt-suederbrarup.de/)**
+Ein Projekt von der [**54 Grad Software GmbH**](54gradsoftware.de), [**Smart City Amt Süderbrarup**](https://smartcityamtsuederbrarup.de/) und dem [**Amt Süderbrarup**](https://www.amt-suederbrarup.de/)**
 
 <a href="./Einführung/" style="
   display:inline-block;
@@ -43,7 +43,7 @@ footer: Dokumentation von 54 Grad Software GmbH
 
 Der *Smarte Gemeinschaftskalender* ist eine **Open-Source-Lösung**, die darauf abzielt, die **Planung und Kommunikation von Veranstaltungen in Gemeinden und Organisationen zu optimieren**. Verschiedenste Funktionen und Automatisierungen unterstützen Veranstalter\*innen bei der Verbreitung ihrer Angebote – [Einzel](./Terminverwaltung/Einzeltermine/README.md)- und [Serientermine](./Terminverwaltung/Serientermine/README.md), [iCal-Importe](./Terminverwaltung/iCal-Dateien/README.md) oder Kalenderintegrationen.
 
-Gleichzeitig gewährleistet die Integration unterschiedlicher **barrierearmer Kommunikationskanäle** – von Webanwendung über personalisierte [**E-Mail-benachrichtigungen**](./DSG%20Funktionen/#E-Mail-Benachrichtigungen) und Infotafelanbindungen** –, dass alle interessierten Bürger\*innen, **unabhängig von ihren technischen Fähigkeiten**, über aktuelle Veranstaltungen informiert werden. 
+Gleichzeitig gewährleistet die Integration unterschiedlicher **barrierearmer Kommunikationskanäle** – von Webanwendung über personalisierte [**E-Mail-Benachrichtigungen**](./DSG%20Funktionen/#E-Mail-Benachrichtigungen) und Infotafelanbindungen** –, dass alle interessierten Bürger\*innen, **unabhängig von Ihren technischen Fähigkeiten**, über aktuelle Veranstaltungen informiert werden. 
 
 Damit trägt unser Projekt zur gesellschaftlichen Teilhabe für **alle Menschen** bei und verfolgt das Ziel der Inklusion und gelebter Diversität. 
 
