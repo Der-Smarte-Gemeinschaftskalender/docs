@@ -108,13 +108,13 @@ Wir empfehlen, mit einer passenden Positionierungvorlage zu arbeiten, an welcher
 **Positionierungsvorlagen für Veranstaltungsübersichten**
 * [PNG-Positionierungsvorlage für Social-Media-Beitröge herunterladen](/vorlagen/veranstaltungsuebersicht_ig_post_1080x1350.png)
 * [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/vorlagen/veranstaltungsuebersicht_ig_story_1080x1920.png)
-* [PNG-Positionierungsvorlage für Full DH herunterladen](/vorlagen/veranstaltungsuebersicht_HD.png)
+* [PNG-Positionierungsvorlage für Full HD herunterladen](/vorlagen/veranstaltungsuebersicht_HD.png)
 
 
 **Positionierungsvorlagen für einzelne Veranstaltungsankündigungen**
 * [PNG-Positionierungsvorlage für Social-Media-Beiträge herunterladen](/vorlagen/veranstaltungsankuendigung_ig_post_1080x1350.png)
 * [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/vorlagen/veranstaltungsankuendigung_ig_story_1080x1920.png)
-* [PNG-Positionierungsvorlage für Full DH herunterladen](/vorlagen/veranstaltungsankuendigung_HD.png)
+* [PNG-Positionierungsvorlage für Full HD herunterladen](/vorlagen/veranstaltungsankuendigung_HD.png)
 
 ### Hintergründe für Veranstaltungsübersichten gestalten
 
@@ -127,7 +127,12 @@ Diese eignen sich ideal für die gängigen Plattformen wie Instagram, WhatsApp &
 
 **Wichtig:** Sie sind grundsätzlich frei in der Gestaltung der Hintergründe, sollten jedoch unbedingt die [barrierefreien Gestaltungsprinzipien](/Barrierefreiheit/) berücksichtigen. 
 
-Nachfolgend visualisieren die Gestaltungsvorlagen, wie unser Generator die Inhalte platziert.
+Die folgenden Gestaltungsvorlagen zeigen an, wie unser Generator die Inhalte platziert.
+
+**Allgemeine Hinweise – Veranstaltungsübersichten:**
+Sie können eine Überschrift und/oder Ihr Logo in die Hintergrundvorlage integrieren. Alternativ kann der **Titel** direkt im Generator bearbeitet werden. Ihr **Logo** wird im Bereich *Organisation* gespeichert, welches Optional in den Werbemitteln sichbar gemacht werden kann. Wenn Überschrift und/ oder Logo über den Generator hinzugefügt werden sollen, lassen Sie diese Bereiche Ihres Hintergrundes einfach frei.
+
+Da die Veranstaltungsübersichten sehr text- und informationslastig sind, empfehlen wir eine möglichst **schlichte Hintergrundgestaltung**.
 
 #### Social-Media-Beitrag (1080 x 1350 px) – Veranstaltungsübersicht
  ![Gestaltungsrichtlinie für die Hintergrunderstellung für Veranstaltungsübersichten (Beitragsformat 1080 × 1350 px). Der Seitenrand beträgt links und rechts 56 px. Der Titelbereich ganz oben hat eine Höhe von 280 px. Zwischen Titelbereich und der Übersicht liegt ein Abstand von 40 px. Die Höhe der Veranstaltungsübersicht beträgt 766 px (maximal 10 Veranstaltungen werden angezeigt). Darunter folgt ein Abstand von 40 px zum 224 px hohen Kontaktbereich. Im Kontaktbereich ist links ausgerichtet Platz für die Organisationsinformationen, rechts ausgerichtet ist Platz für ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px.](./Bilder/VU%20Post.png)
@@ -138,10 +143,8 @@ Nachfolgend visualisieren die Gestaltungsvorlagen, wie unser Generator die Inhal
 #### Full DH (1920 x 1080 px) – Veranstaltungsübersicht
 ![Gestaltungsrichtlinie für die Hintergrunderstellung für Veranstaltungsübersichten (Full HD 1080 × 1920 px). Der Seitenrand beträgt links und rechts 120 px; oben und unten 56 px. Der Titelbereich ist 236 px hoch und 1280 px breit. Rechts daneben ist Platz für das Logo mit 400 px Breite und 180 px Höhe. Unter dem Headerbereich liegt die Veranstaltungsübersicht mit den Maßen 766 px und einer Breite von 958 px (maximal 10 Veranstaltungen werden angezeigt). Rechts daneben ist mit einem horizintalen Abstand von 56 px Platz für ein Bild mit 666 x 610 px. Darunter folgt der 666 px Breite und der 178 Hohe Kontaktbereich. ](./Bilder/VU%20HD.png)
 
-**Hinweise:**
-Sie können eine Überschrift und/oder Ihr Logo in die Hintergrundvorlage integrieren. Alternativ kann der **Titel** direkt im Generator bearbeitet werden. Ihr **Logo** wird im Bereich *Organisation* gespeichert, welches Optional in den Werbemitteln sichbar gemacht werden kann. Wenn Überschrift und/ oder Logo über den Generator hinzugefügt werden sollen, lassen Sie diese Bereiche Ihres Hintergrundes einfach frei.
+Der QR-Code wird automatisch generiert, ist jedoch optional anzeigbar. Wenn dieser nicht angezeigt werden soll, kann der Bereich für ein Bild genutzt werden. 
 
-Da die Veranstaltungsübersichten sehr text- und informationslastig sind, empfehlen wir eine möglichst **schlichte Hintergrundgestaltung**.
 
 ### Ankündigungen für eine einzelne Veranstaltung
 
@@ -152,7 +155,12 @@ Sie können auch für eine einzelne Veranstaltung ein Werbemittel erstellen. Auc
 
 **Wichtig:** Bei der Gestaltung der Hintergründe sollten unbedingt die [barrierefreien Gestaltungsprinzipien](/Barrierefreiheit/) berücksichtigt werden. 
 
-Nachfolgend visualisieren die Gestaltungsvorlagen, wie unser Generator die Inhalte platziert.
+Die folgenden Gestaltungsvorlagen zeigen, wie unser Generator die Inhalte platziert.
+
+ **Allgemeine Hinweise – Ankündigungen einzelner Veranstaltungen:**
+  Das Logo kann grundsätzlich frei auf dem Hintergrund platziert werden. Wenn das Logo über den Generator hinzugefügt werden soll, lassen Sie diese Bereiche Ihres Hintergrundes einfach frei. Ihr **Logo** hinterlegen Sie im Bereich *Organisation*. Es kann dann Optional in den Werbemitteln sichbar gemacht werden kann. 
+
+ Es empfiehlt sich ein zu Ihren Veranstaltungen passendes Bild für den Hintergrund zu wählen, welches die gesamte Fläche füllt. Beachten Sie, dass Sie für eine Veröffentlichung über die nötigen **Bildrechte** verfügen müssen.
 
 #### Social-Media-Beitrag (1080 x 1350 px) – Veranstaltungsankündigung
 
@@ -163,14 +171,12 @@ Nachfolgend visualisieren die Gestaltungsvorlagen, wie unser Generator die Inhal
 
  ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Story-Format 1080 × 1920 px). Der Seitenrand beträgt links und rechts 56 px. Der obere Bereich mit Höhe 144 px wird für die Anzeige des Profilnamens freigelassen. Darunter am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Ganz links ausgerichtet mit 192 px Abstand vom unteren Rand ist ein Textinformationsblock mit den Maßen 800 px x 800 px.](./Bilder/EZ%20Story.png)
 
-  #### Full DH (1920 x 1080 px) – Veranstaltungsankündigung
+  #### Full HD (1920 x 1080 px) – Veranstaltungsankündigung
 
- ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Full DH 1920 × 1080 px). Der Seitenrand beträgt links und rechts 120 px; oben und unten 56 px. Rechts oben am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Links unten am Seitenrand ausgerichtet ist ein Textinformationsblock mit den Maßen 800 px x 720 px.](./Bilder/EZ%20HD.png)
+ ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Full HD 1920 × 1080 px). Der Seitenrand beträgt links und rechts 120 px; oben und unten 56 px. Rechts oben am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Links unten am Seitenrand ausgerichtet ist ein Textinformationsblock mit den Maßen 800 px x 720 px.](./Bilder/EZ%20HD.png)
 
- **Hinweise:**
-  Das Logo kann grundsätzlich frei auf dem Hintergrund platziert werden. Wenn das Logo über den Generator hinzugefügt werden soll, lassen Sie diese Bereiche Ihres Hintergrundes einfach frei. Ihr **Logo** hinterlegen Sie im Bereich *Organisation*. Es kann dann Optional in den Werbemitteln sichbar gemacht werden kann. 
+ Der QR-Code wird automatisch generiert, ist jedoch optional anzeigbar. Wenn dieser nicht angezeigt werden soll, dann bleibt dieser Bereich des Hintergrundbildes sichtbar.
 
- Es empfiehlt sich ein zu Ihren Veranstaltungen passendes Bild für den Hintergrund zu wählen, welches die gesamte Fläche füllt. Beachten Sie, dass Sie für eine Veröffentlichung über die nötigen **Bildrechte** verfügen müssen.
 
 ### Beispielhintergründe für den Chaos Computer Club Flensburg e. V.
 

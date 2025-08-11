@@ -1,17 +1,17 @@
 [« Zurück](/get-started)
 
-## Kalenderfunktionen
+# Kalenderfunktionen
 
 Der *Smarte Gemeinschaftskalender* ermöglicht es Ihnen, für Sie interessante **Veranstaltungen schnell zu finden und automatisiert informiert** zu bleiben.  
 Ob per E-Mail-Benachrichtigung, Integration in Ihren privaten Kalender oder Einbindung auf Ihrer eigenen Website – so bleiben Sie immer auf dem Laufenden.
 
 In diesem Dokumentationsbereich erfahren Sie, wie Sie diese Funktionen nutzen und auf Ihre Bedürfnisse anpassen können.
 
-### Veranstaltungen suchen und filtern
+## Veranstaltungen suchen und filtern
 
 Um schnell die für Sie relevanten Veranstaltungen zu finden, können Sie die *klassische Veranstaltungssuche* oder die *Kalenderansicht* nutzen. Auf beide Suchen können Sie über die **obere Menüleiste**  (Header-Navigation) zugreifen. 
 
-#### Klassische Veranstaltungssuche
+### Klassische Veranstaltungssuche
 
 Die *klassische Veranstaltungssuche* bietet eine schnelle Möglichkeit, gezielt nach Terminen zu suchen und Ergebnisse einzugrenzen. Sie erreichen Sie über die **Navigationsleiste** im oberen Seitenbereich über den Reiter *Veranstaltungen*.  
 
@@ -27,7 +27,7 @@ Die *klassische Veranstaltungssuche* bietet eine schnelle Möglichkeit, gezielt 
 
 Klicken Sie auf Suchen, neben der oberen Suchbegriffsleiste. Nun werden Ihnen alle Veranstaltungen angezeigt, die Ihren Kriterien entsprechen. 
 
-#### Kalenderansicht
+### Kalenderansicht
 
 Die **Kalenderansicht** bietet Ihnen eine übersichtliche Darstellung der Veranstaltungen. Sie erreichen Sie über die *Navigationsleiste* im oberen Seitenbereich über den Reiter *Kalender*. 
 
@@ -43,7 +43,7 @@ Die **Kalenderansicht** bietet Ihnen eine übersichtliche Darstellung der Verans
 Die Filterfunktionen **Instanz, Status, Sprache und Kategorie** funktionieren analog zur [klassischen Veranstaltungssuche](/DSG%20Funktionen/#Klassische-Veranstaltungssuche), mit der Besonderheit, dass die 30 Veranstaltungskategorien zu **5 Oberkategorien** zusammengefasst werden. Hintergrund ist die Übersichtlichkeit, da die einzelnen Kategorien Farben zugeordnet sind und eine visuelle Unterscheidbarkeit gewährleistet werden muss.  
   
 
-##### Zuordnung der Kategorien
+#### Zuordnung der Kategorien
 
 | Oberkategorie                | Enthaltene Kategorien (Beispiele)          |
 |-----------------------------|--------------------------------------------|
@@ -96,7 +96,11 @@ Die erste E-Mail wird zum nächsten geplanten Versandtermin versendet – Montag
 
 
 ### Kalender auf eigener Webseite integrieren 
+**Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
 
+## Anmeldung & Profilverwaltung (Nutzer*innen)
+
+**Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
 
 ## Veranstaltungsdatei exportieren
 

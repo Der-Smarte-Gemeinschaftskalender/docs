@@ -28,7 +28,9 @@ footer: Dokumentation von 54 Grad Software GmbH
 ---
 <img src="./DSG-Kooperation.png" alt="Logos der 3 Kooperationspartner" style="width:500px;"> 
 
-Ein Projekt von der [**54 Grad Software GmbH**](54gradsoftware.de), [**Smart City Amt Süderbrarup**](https://smartcityamtsuederbrarup.de/) und dem [**Amt Süderbrarup**](https://www.amt-suederbrarup.de/)**
+Ein Projekt von der [**54 Grad Software GmbH**](54gradsoftware.de), [**Smart City Amt Süderbrarup**](https://smartcityamtsuederbrarup.de/) und dem [**Amt Süderbrarup**](https://www.amt-suederbrarup.de/)
+
+**Hinweis:** Der Smarte Gemeinschaftskalender befindet sich aktuell noch in der Entwicklung.
 
 <a href="./Einführung/" style="
   display:inline-block;
@@ -60,7 +62,7 @@ Damit unterstützt das Land Schleswig‑Holstein **Open-Source-Projekte**, die d
 
 ## Open Source & Selbst-Hosting
 
-Der Kalender ist unter einer **MIT-Lizenz** veröffentlicht:  
+Der Kalender ist wird unter einen **Open-Source-Lizenz** veröffentlicht:  
 - **Kostenfrei nutzbar** und **offen für Weiterentwicklung**  
 - **Selbst hostbar** – volle Kontrolle über Daten und Anpassungen  
 - **Modular erweiterbar**, um regionale Anforderungen zu erfüllen  
