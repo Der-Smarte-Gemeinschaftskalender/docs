@@ -1,6 +1,6 @@
 [« Zurück](/get-started)
 # Werbemittelgenerator
-Mit dem Werbemittelgenerator können Sie visuelle Ankündigungen für Ihre Veranstaltungen erstellen – ideal zum Teilen in den sozialen Medien. Dies ist nicht nur ein effizienter Weg Werbemittel zu erstellen, durch die direkte Übernahme der Veranstaltungsinformationen vermeiden Sie auch Fehlerquellen bei der Informationsübertragung.
+Mit dem Werbemittelgenerator können Sie visuelle Ankündigungen für Ihre Veranstaltungen erstellen – ideal zum Teilen in den sozialen Medien und auf digitalen Anzeigen. Dies ist nicht nur ein effizienter Weg Werbemittel zu erstellen, durch die direkte Übernahme der Veranstaltungsinformationen vermeiden Sie auch Fehlerquellen bei der Informationsübertragung.
 
 Dieser Dokumentationsbereich führt Sie Schritt für Schritt durch die Funktionen und Gestaltungsmöglichkeiten.
 
@@ -38,7 +38,7 @@ Mit dem **Werbemittelgenerator für Veranstaltungsübersichten** können Sie bis
 Der Generator bietet verschiedene Optionen, um Ihre Übersicht individuell zu gestalten. Sofern Designvorgaben Ihrer Organisation im [Markenkit](#markenkit) hinterlegt wurden, werden diese automatisch geladen.
 
 1. **Format:**  
-   Wählen Sie zunächst das gewünschte Format – Social-Media-Post oder Story.
+   Wählen Sie zunächst das gewünschte Format – Social-Media-Post, Story oder Full DH.
 
 2. **Zeitraum:**  
    Definieren Sie den Zeitraum, für den die Veranstaltungen angezeigt werden sollen.  
@@ -55,7 +55,7 @@ Der Generator bietet verschiedene Optionen, um Ihre Übersicht individuell zu ge
    Alternativ können Logos auch direkt im Hintergrundbild frei platziert werden.
 
 5. **Überschrift (optional):**  
-   - Direkt im generator kann eine Überschrift eintragen werden. Das kann insbesondere sinnvoll sein, wenn Sie den Monat oder die Woche der Veranstaltungsübersicht in den Titel integrieren und sich dieser mit jeder Nutzung ändert.  
+   - Direkt im Generator kann eine Überschrift eintragen werden. Das kann insbesondere sinnvoll sein, wenn Sie den Monat oder die Woche der Veranstaltungsübersicht in den Titel integrieren und sich dieser mit jeder Nutzung ändert.  
    -  Sie können die **Textfarbe** anpassen, indem Sie auf das Farbsymbol klicken. Die Farbe kann über die Palette gewählt werden oder Sie fügen die RGB-, HEX- oder HSL-Werte der gewünschten Farbe ein. Sie können das Format über den Pfeil neben der Formatangabe ändern.
    <img src="./Bilder/Farbanpassung.png" alt="Beispiel Ausrichtungsprozess einer Veranstaltungsübersicht im Story-Format für den Chaos Computer Club Flensburg e. V. und entfernen der Vorlage vor dem Herunterladen" style="width:200px;">
    - Zudem können Sie aus verschiedenen **Schriftarten** wählen.
@@ -108,25 +108,35 @@ Wir empfehlen, mit einer passenden Positionierungvorlage zu arbeiten, an welcher
 **Positionierungsvorlagen für Veranstaltungsübersichten**
 * [PNG-Positionierungsvorlage für Social-Media-Beitröge herunterladen](/vorlagen/veranstaltungsuebersicht_ig_post_1080x1350.png)
 * [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/vorlagen/veranstaltungsuebersicht_ig_story_1080x1920.png)
+* [PNG-Positionierungsvorlage für Full DH herunterladen](/vorlagen/veranstaltungsuebersicht_HD.png)
 
 
 **Positionierungsvorlagen für einzelne Veranstaltungsankündigungen**
 * [PNG-Positionierungsvorlage für Social-Media-Beiträge herunterladen](/vorlagen/veranstaltungsankuendigung_ig_post_1080x1350.png)
 * [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/vorlagen/veranstaltungsankuendigung_ig_story_1080x1920.png)
+* [PNG-Positionierungsvorlage für Full DH herunterladen](/vorlagen/veranstaltungsankuendigung_HD.png)
 
 ### Hintergründe für Veranstaltungsübersichten gestalten
 
-Beim Generieren von Veranstaltungsübersichten werden **bis zu 10 Veranstaltungen** Ihrer Organisation im Bereich Veranstaltungsübersicht angezeigt. Sie haben aktuell die Möglichkeit zwischen den Formaten **Social-Media-Beitrag** (1080 x 1350 px) und **Social-Media-Story** (1080 x 1920 px) zu wählen. Diese können auf den gängigen Plattformen wie Instagram, WhatsApp & Co. veröffentlicht werden.
+Beim Generieren von Veranstaltungsübersichten werden **bis zu 10 Veranstaltungen** Ihrer Organisation im Bereich Veranstaltungsübersicht angezeigt. Sie haben aktuell die Möglichkeit zwischen den folgenden Formaten zu wählen:
+* **Social-Media-Beitrag** (1080 x 1350 px)
+* **Social-Media-Story** (1080 x 1920 px) 
+* **Full DH** (1920 x 1080 px).
+
+Diese eignen sich ideal für die gängigen Plattformen wie Instagram, WhatsApp & Co sowie digitale Anzeigetafeln.
 
 **Wichtig:** Sie sind grundsätzlich frei in der Gestaltung der Hintergründe, sollten jedoch unbedingt die [barrierefreien Gestaltungsprinzipien](/Barrierefreiheit/) berücksichtigen. 
 
 Nachfolgend visualisieren die Gestaltungsvorlagen, wie unser Generator die Inhalte platziert.
 
-**Social-Media-Beitrag (1080 x 1350 px) – Veranstaltungsübersicht**:
+#### Social-Media-Beitrag (1080 x 1350 px) – Veranstaltungsübersicht
  ![Gestaltungsrichtlinie für die Hintergrunderstellung für Veranstaltungsübersichten (Beitragsformat 1080 × 1350 px). Der Seitenrand beträgt links und rechts 56 px. Der Titelbereich ganz oben hat eine Höhe von 280 px. Zwischen Titelbereich und der Übersicht liegt ein Abstand von 40 px. Die Höhe der Veranstaltungsübersicht beträgt 766 px (maximal 10 Veranstaltungen werden angezeigt). Darunter folgt ein Abstand von 40 px zum 224 px hohen Kontaktbereich. Im Kontaktbereich ist links ausgerichtet Platz für die Organisationsinformationen, rechts ausgerichtet ist Platz für ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px.](./Bilder/VU%20Post.png)
 
-**Social-Media-Story (1080 x 1920 px) – Veranstaltungsübersicht**:
-![Gestaltungsrichtlinie für die Hintergrunderstellung für Veranstaltungsübersichten (Story-Format 1080 × 1920 px). Der Seitenrand beträgt links und rechts 56 px. Der obere Bereich mit Höhe 144 px wird für die Anzeige des Profilnamens freigelassen. Darunter liegt der Titelbereich mit 1080 px Höhe. Zwischen Titelbereich und der Übersicht liegt ein Abstand von 40 px. Die Höhe der Veranstaltungsübersicht beträgt 1096 px (maximal 10 Veranstaltungen werden angezeigt). Darunter folgt ein Abstand von 40 px zum 320px hohen Kontaktbereich. Im Kontaktbereich ist links ausgerichtet Platz für die Organisationsinformationen, rechts ausgerichtet ist Platz für ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px.](./Bilder/VU%20Story.png)
+#### Social-Media-Story (1080 x 1920 px) – Veranstaltungsübersicht
+![Gestaltungsrichtlinie für die Hintergrunderstellung für Veranstaltungsübersichten (Story-Format 1080 × 1920 px). Der Seitenrand beträgt links und rechts 56 px. Der obere Bereich mit Höhe 144 px wird für die Anzeige des Profilnamens freigelassen. Darunter liegt der Titelbereich mit 424 px Höhe. Zwischen Titelbereich und der Übersicht liegt ein Abstand von 40 px. Die Höhe der Veranstaltungsübersicht beträgt 1096 px (maximal 10 Veranstaltungen werden angezeigt). Darunter folgt ein Abstand von 40 px zum 320px hohen Kontaktbereich. Im Kontaktbereich ist links ausgerichtet Platz für die Organisationsinformationen, rechts ausgerichtet ist Platz für ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px.](./Bilder/VU%20Story.png)
+
+#### Full DH (1920 x 1080 px) – Veranstaltungsübersicht
+![Gestaltungsrichtlinie für die Hintergrunderstellung für Veranstaltungsübersichten (Full HD 1080 × 1920 px). Der Seitenrand beträgt links und rechts 120 px; oben und unten 56 px. Der Titelbereich ist 236 px hoch und 1280 px breit. Rechts daneben ist Platz für das Logo mit 400 px Breite und 180 px Höhe. Unter dem Headerbereich liegt die Veranstaltungsübersicht mit den Maßen 766 px und einer Breite von 958 px (maximal 10 Veranstaltungen werden angezeigt). Rechts daneben ist mit einem horizintalen Abstand von 56 px Platz für ein Bild mit 666 x 610 px. Darunter folgt der 666 px Breite und der 178 Hohe Kontaktbereich. ](./Bilder/VU%20HD.png)
 
 **Hinweise:**
 Sie können eine Überschrift und/oder Ihr Logo in die Hintergrundvorlage integrieren. Alternativ kann der **Titel** direkt im Generator bearbeitet werden. Ihr **Logo** wird im Bereich *Organisation* gespeichert, welches Optional in den Werbemitteln sichbar gemacht werden kann. Wenn Überschrift und/ oder Logo über den Generator hinzugefügt werden sollen, lassen Sie diese Bereiche Ihres Hintergrundes einfach frei.
@@ -135,20 +145,27 @@ Da die Veranstaltungsübersichten sehr text- und informationslastig sind, empfeh
 
 ### Ankündigungen für eine einzelne Veranstaltung
 
-Sie können auch für eine einzelne Veranstaltung ein Werbemittel erstellen. Auch hier kann zwischen den Formaten **Social-Media-Beitrag** (1080 x 1350 px) und **Social-Media-Story** (1080 x 1920 px) gewählt werden. 
+Sie können auch für eine einzelne Veranstaltung ein Werbemittel erstellen. Auch hier kann zwischen den folgenden Formaten gewählt werden: 
+* **Social-Media-Beitrag** (1080 x 1350 px)
+* **Social-Media-Story** (1080 x 1920 px) 
+* **Full DH** (1920 x 1080 px). 
 
 **Wichtig:** Bei der Gestaltung der Hintergründe sollten unbedingt die [barrierefreien Gestaltungsprinzipien](/Barrierefreiheit/) berücksichtigt werden. 
 
 Nachfolgend visualisieren die Gestaltungsvorlagen, wie unser Generator die Inhalte platziert.
 
-**Social-Media-Beitrag (1080 x 1350 px) – Veranstaltungsankündigung:**
+#### Social-Media-Beitrag (1080 x 1350 px) – Veranstaltungsankündigung
 
- ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Beitragsformat 1080 × 1350 px). Der Seitenrand beträgt rundherum 56 px. Rechts oben am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Ganz links sowie am unteren Seitenrand ausgerichtet ist ein Textinformationsblock mit den Maßen 800 px x 600 px. Der Text in dem Block sollte links am Seitenrand ausgerichtet werden](./Bilder/EZ%20Post.png)
+ ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Beitragsformat 1080 × 1350 px). Der Seitenrand beträgt rundherum 56 px. Rechts oben am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Ganz links sowie am unteren Seitenrand ausgerichtet ist ein Textinformationsblock mit den Maßen 800 px x 600 px.](./Bilder/EZ%20Post.png)
 
 
- **Social-Media-Story (1080 x 1920 px) – Veranstaltungsankündigung:**
+ #### Social-Media-Story (1080 x 1920 px) – Veranstaltungsankündigung
 
- ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Story-Format 1080 × 1920 px). Der Seitenrand beträgt links und rechts 56 px. Der obere Bereich mit Höhe 144 px wird für die Anzeige des Profilnamens freigelassen. Darunter am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Ganz links ausgerichtet mit 192 px Abstand vom unteren Rand ist ein Textinformationsblock mit den Maßen 800 px x 800 px. Der Text in dem Block sollte links am Seitenrand ausgerichtet werden](./Bilder/EZ%20Story.png)
+ ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Story-Format 1080 × 1920 px). Der Seitenrand beträgt links und rechts 56 px. Der obere Bereich mit Höhe 144 px wird für die Anzeige des Profilnamens freigelassen. Darunter am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Ganz links ausgerichtet mit 192 px Abstand vom unteren Rand ist ein Textinformationsblock mit den Maßen 800 px x 800 px.](./Bilder/EZ%20Story.png)
+
+  #### Full DH (1920 x 1080 px) – Veranstaltungsankündigung
+
+ ![Gestaltungsrichtlinie für die Hintergrunderstellung für Ankündigungen einer einzelnen Veranstaltung (Full DH 1920 × 1080 px). Der Seitenrand beträgt links und rechts 120 px; oben und unten 56 px. Rechts oben am Seitenrand ausgerichtet ist ein Logo mit einer Maximalhöhe von 180 px und einer Maximalbreite von 400 px vorgesehen. Links unten am Seitenrand ausgerichtet ist ein Textinformationsblock mit den Maßen 800 px x 720 px.](./Bilder/EZ%20HD.png)
 
  **Hinweise:**
   Das Logo kann grundsätzlich frei auf dem Hintergrund platziert werden. Wenn das Logo über den Generator hinzugefügt werden soll, lassen Sie diese Bereiche Ihres Hintergrundes einfach frei. Ihr **Logo** hinterlegen Sie im Bereich *Organisation*. Es kann dann Optional in den Werbemitteln sichbar gemacht werden kann. 
@@ -174,19 +191,19 @@ Sie entsprechen unseren [Gestaltungsrichtlinien für Hintergründe](#richtlinien
 
 ### Hintergründe für Veranstaltungsübersichten
 
-| Beitrags-Vorschau | Story-Vorschau|
-|----------|-----------|
-| <img src="./Bilder/VU_Hintergrund/DSG%20Beitrag%20Veranstaltungsübersicht.png" alt="Hintergrund Beitrag. Header und Footer jeweils Mintgrün. Der Bereich dür die Veranstaltungsinformationen ist weiß. Zwischen Mintgrün und weiß ist jeweils ein Strich mit grün-blauem Farbverlauf" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/VU_Hintergrund/DSG%20Beitrag%20Veranstaltungsübersicht.png)| <img src="./Bilder/VU_Hintergrund/DSG%20Story%20Veranstaltungsübersicht.png" alt="Hintergrund Story. Header und Footer jeweils Mintgrün. Der Bereich dür die Veranstaltungsinformationen ist weiß. Zwischen Mintgrün und weiß ist jeweils ein Strich mit grün-blauem Farbverlauf" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/VU_Hintergrund/DSG%20Story%20Veranstaltungsübersicht.png) 
+| Beitrags-Vorschau | Story-Vorschau| Full-HD-Vorschau |
+|----------|-----------|----|
+| <img src="./Bilder/VU_Hintergrund/DSG%20Beitrag%20Veranstaltungsübersicht.png" alt="Hintergrund Beitrag. Header und Footer jeweils Mintgrün. Der Bereich für die Veranstaltungsinformationen ist weiß. Zwischen Mintgrün und weiß ist jeweils ein Strich mit grün-blauem Farbverlauf" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/VU_Hintergrund/DSG%20Beitrag%20Veranstaltungsübersicht.png)| <img src="./Bilder/VU_Hintergrund/DSG%20Story%20Veranstaltungsübersicht.png" alt="Hintergrund Story. Header und Footer jeweils Mintgrün. Der Bereich für die Veranstaltungsinformationen ist weiß. Zwischen Mintgrün und weiß ist jeweils ein Strich mit grün-blauem Farbverlauf" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/VU_Hintergrund/DSG%20Story%20Veranstaltungsübersicht.png) |<img src="./Bilder/VU_Hintergrund/DSG%20HD%20Veranstaltungsübersicht.png" alt="Hintergrund Full HD. Header und Organisationsbereich jeweils Mintgrün. Der Bereich für die Veranstaltungsinformationen ist weiß. Zwischen Mintgrün und weiß ist jeweils ein Strich mit grün-blauem Farbverlauf. Rechts ist ein Foto eines Papier-Kalenders" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/VU_Hintergrund/DSG%20HD%20Veranstaltungsübersicht.png)
 
 ### Hintergründe für Akündigungen einzelner Veranstaltungen
 
-| Kategorie | Beitrags-Vorschau | Story-Vorschau|
-|---------------------------|----------|-----------|
-| Kultur & Kreatives | <img src="./Bilder/EA_Hintergrund_Beitrag/Kultur_Kreatives.png" alt="Hintergrund Beitrag Kultur & Kreatives mit vielen fliegenden Regenschirmen in verschiedenen Farben" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Kultur_Kreatives.png) | <img src="./Bilder/EA_Hintergrund_Story/Kultur_Kreatives.png" alt="Hintergrund Story Kultur & Kreatives mit vielen fliegenden Regenschirmen in verschiedenen Farben" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Kultur_Kreatives.png) | [Story herunterladen](/vorlagen/hg_kultur_story.png)
-| Gemeinschaft & Engagement | <img src="./Bilder/EA_Hintergrund_Beitrag/Gemeinschaft_Engagement.png" alt="Hintergrund Beitrag Gemeinschaft & Engagement mit vielen Händen, die gemeinsam eine Pflanze halten" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Gemeinschaft_Engagement.png) | <img src="./Bilder/EA_Hintergrund_Story/Gemeinschaft_Engagement.png" alt="Hintergrund Story Gemeinschaft & Engagement mit vielen Händen, die gemeinsam eine Pflanze halten" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Gemeinschaft_Engagement.png) | [Story herunterladen](/vorlagen/hg_kultur_story.png)
-| Familie & Freizeit | <img src="./Bilder/EA_Hintergrund_Beitrag/Familie_Freizeit.png" alt="Hintergrund Beitrag Familie & Freizeit. Zwei Eltern die ihre Tochter in die Luft halten. Sie sind auf einer Wiese, im Hintergrund ist ein Walr und alle sind glücklich" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Familie_Freizeit.png) | <img src="./Bilder/EA_Hintergrund_Story/Familie_Freizeit.png" alt="Hintergrund Story Familie & Freizeit. Zwei Eltern die ihre Tochter in die Luft halten. Sie sind auf einer Wiese, im Hintergrund ist ein Walr und alle sind glücklich" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Familie_Freizeit.png) | [Story herunterladen](/vorlagen/Familie_Freizeit.png)
-| Gesundheit & Bewegung | <img src="./Bilder/EA_Hintergrund_Beitrag/Gesundheit_Bewegung.png" alt="Hintergrund Beitrag Gesundheit & Bewegung. 2 juge Männer und eine junge Frau spielen draußen Fußball" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Gesundheit_Bewegung.png) | <img src="./Bilder/EA_Hintergrund_Story/Gesundheit_Bewegung.png" alt="Hintergrund Story Gesundheit & Bewegung. 2 juge Männer und eine junge Frau spielen draußen Fußball" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Gesundheit_Bewegung.png) | [Story herunterladen](/vorlagen/Gesundheit_Bewegung.png)
-| Wirtschaft & Bildung | <img src="./Bilder/EA_Hintergrund_Beitrag/Wirtschaft_Bildung.png" alt="Hintergrund Beitrag Wirtschaft & Bildung. Ein Stapel mit vielen Büchern und einem verwommenen Hintergund der einen Blick durchs Fenster ins Grüne andeutet" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Wirtschaft_Bildung.png) | <img src="./Bilder/EA_Hintergrund_Story/Wirtschaft_Bildung.png" alt="Hintergrund Story Wirtschaft & Bildung. Ein Stapel mit vielen Büchern und einem verwommenen Hintergund der einen Blick durchs Fenster ins Grüne andeutet" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Wirtschaft_Bildung.png) | [Story herunterladen](/vorlagen/Wirtschaft_Bildung.png)
+| Kategorie | Beitrags-Vorschau | Story-Vorschau| Full-HD-Vorschau|
+|------------------|----------|-----------|----|
+| Kultur & Kreatives | <img src="./Bilder/EA_Hintergrund_Beitrag/Kultur_Kreatives.png" alt="Hintergrund Beitrag Kultur & Kreatives mit vielen fliegenden Regenschirmen in verschiedenen Farben" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Kultur_Kreatives.png) | <img src="./Bilder/EA_Hintergrund_Story/Kultur_Kreatives.png" alt="Hintergrund Story Kultur & Kreatives mit vielen fliegenden Regenschirmen in verschiedenen Farben" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Kultur_Kreatives.png) | <img src="./Bilder/EA_Hintergrund_HD/Kultur_Kreatives.png" alt="Hintergrund Full HD Kultur & Kreatives mit vielen fliegenden Regenschirmen in verschiedenen Farben" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_HD/Kultur_Kreatives.png) | 
+| Gemeinschaft & Engagement | <img src="./Bilder/EA_Hintergrund_Beitrag/Gemeinschaft_Engagement.png" alt="Hintergrund Beitrag Gemeinschaft & Engagement mit vielen Händen, die gemeinsam eine Pflanze halten" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Gemeinschaft_Engagement.png) | <img src="./Bilder/EA_Hintergrund_Story/Gemeinschaft_Engagement.png" alt="Hintergrund Story Gemeinschaft & Engagement mit vielen Händen, die gemeinsam eine Pflanze halten" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Gemeinschaft_Engagement.png) | <img src="./Bilder/EA_Hintergrund_HD/Gemeinschaft_Engagement.png" alt="Hintergrund Full HD Gemeinschaft & Engagement mit vielen Händen, die gemeinsam kleine Pflanze halten" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_HD/Gemeinschaft_Engagement.png) |
+| Familie & Freizeit | <img src="./Bilder/EA_Hintergrund_Beitrag/Familie_Freizeit.png" alt="Hintergrund Beitrag Familie & Freizeit. Zwei Eltern die ihre Tochter in die Luft halten. Sie sind auf einer Wiese, im Hintergrund ist ein Walr und alle sind glücklich" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Familie_Freizeit.png) | <img src="./Bilder/EA_Hintergrund_Story/Familie_Freizeit.png" alt="Hintergrund Story Familie & Freizeit. Zwei Eltern die ihre Tochter in die Luft halten. Sie sind auf einer Wiese, im Hintergrund ist ein Walr und alle sind glücklich" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Familie_Freizeit.png) | <img src="./Bilder/EA_Hintergrund_HD/Familie_Freizeit.png" alt="Hintergrund Full HD Familie & Freizeit. Ein Erwachsener mit einem Kind spazieren durch den Wald" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_HD/Familie_Freizeit.png) |
+| Gesundheit & Bewegung | <img src="./Bilder/EA_Hintergrund_Beitrag/Gesundheit_Bewegung.png" alt="Hintergrund Beitrag Gesundheit & Bewegung. 2 juge Männer und eine junge Frau spielen draußen Fußball" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Gesundheit_Bewegung.png) | <img src="./Bilder/EA_Hintergrund_Story/Gesundheit_Bewegung.png" alt="Hintergrund Story Gesundheit & Bewegung. 2 juge Männer und eine junge Frau spielen draußen Fußball" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Gesundheit_Bewegung.png) | <img src="./Bilder/EA_Hintergrund_HD/Gesundheit_Bewegung.png" alt="Hintergrund Full HD Gesundheit & Bewegung. Mehrere fahrende professionelle Rennradfahrende" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_/Gesundheit_Bewegung.png) |
+| Wirtschaft & Bildung | <img src="./Bilder/EA_Hintergrund_Beitrag/Wirtschaft_Bildung.png" alt="Hintergrund Beitrag Wirtschaft & Bildung. Ein Stapel mit vielen Büchern und einem verwommenen Hintergund der einen Blick durchs Fenster ins Grüne andeutet" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Beitrag/Wirtschaft_Bildung.png) | <img src="./Bilder/EA_Hintergrund_Story/Wirtschaft_Bildung.png" alt="Hintergrund Story Wirtschaft & Bildung. Ein Stapel mit vielen Büchern und einem verwommenen Hintergund der einen Blick durchs Fenster ins Grüne andeutet" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_Story/Wirtschaft_Bildung.png) | <img src="./Bilder/EA_Hintergrund_HD/Wirtschaft_Bildung.png" alt="Hintergrund Full HD Wirtschaft & Bildung. Ein volles Bücherregal" style="width:100px;"> [Herunterladen](/Werbemittelgenerator/Bilder/EA_Hintergrund_HD/Wirtschaft_Bildung.png) |
 
 
 ### Markenkit
