@@ -53,6 +53,20 @@ Als offene Lösung ermöglicht unsere Softwarelösung eine [**dezentrale Vernetz
 
 Unsere Vision ist ein Netzwerk, durch das Bürger*innen einen umfassenden Überblick anstehender Veranstaltungen erhalten – über Gemeindegrenzen hinweg. Als positiver Nebeneffekt profitiert der regionale Tourismus und es wird ein Raum geschaffen, der zur Kollaboration zwischen Gemeinden anregt.
 
+
+> **Interesse am Smarten Gemeinschaftskalender?**  
+> Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben,  
+> können uns einfach unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) erreichen.
+
+<a href="mailto:kontakt@54gradsoftware.de" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Jetzt Kontakt aufnehmen »
+</a>
+
 ## Gefördert durch das Land
 
 Dieses Projekt wird im Rahmen des [**Landesprogramms Offene Innovation**](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation)  

@@ -155,3 +155,8 @@ Erfahren Sie mehr über den technischen Aufbau, eingesetzte Frameworks und UX-Pr
   text-decoration:none;
   border-radius:4px;"> Mehr über die Technologien »
 </a>
+
+---
+
+> 💌 **Interesse am Smarten Gemeinschaftskalender?**  
+> Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben, können uns einfach unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) anschreiben.
