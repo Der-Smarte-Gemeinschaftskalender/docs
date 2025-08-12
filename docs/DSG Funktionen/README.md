@@ -25,7 +25,7 @@ Die *klassische Veranstaltungssuche* bietet eine schnelle Möglichkeit, gezielt 
   - **Status der Veranstaltung:** Filtern Sie nach bestätigten, vorläufigen oder abgesagten Veranstaltungen.  
   - **Sprachen:** Begrenzen Sie Ihre Suche auf Veranstaltungen mit bestimmten Veranstaltungssprachen.  
 
-Klicken Sie auf Suchen, neben der oberen Suchbegriffsleiste. Nun werden Ihnen alle Veranstaltungen angezeigt, die Ihren Kriterien entsprechen. 
+Klicken Sie auf *Suchen*, neben der oberen Suchbegriffsleiste. Nun werden Ihnen alle Veranstaltungen angezeigt, die Ihren Kriterien entsprechen. 
 
 ### Kalenderansicht
 
@@ -96,10 +96,6 @@ Die erste E-Mail wird zum nächsten geplanten Versandtermin versendet – Montag
 
 
 ### Kalender auf eigener Webseite integrieren 
-**Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
-
-## Anmeldung & Profilverwaltung (Nutzer*innen)
-
 **Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
 
 ## Veranstaltungsdatei exportieren
