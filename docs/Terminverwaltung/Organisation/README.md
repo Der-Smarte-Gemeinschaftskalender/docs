@@ -5,7 +5,7 @@
 
 **Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
 
-## Zugang für Veranstalter*innen
+## Registrierung für Veranstalter*innen
 **Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
 
 ## Profil- und Organisationsverwaltung

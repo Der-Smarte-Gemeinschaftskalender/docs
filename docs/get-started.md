@@ -25,6 +25,10 @@ Erfahren Sie mehr über die
 ## Kalenderfunktionen für Nutzer*innen
 Lernen Sie die wichtigsten Funktionen des *Smarten Gemeinschaftskalenders* kennen – und wie Sie ihn ganz einfach für sich nutzen können.
 
+- **Veranstaltungen finden** – schnell und gezielt nach Terminen in Ihrer Region oder zu bestimmten Themen suchen.
+- **Personalisierte Benachrichtigungen** – Veranstaltungen abonnieren, um automatisch per E-Mail informiert zu werden.
+- **Kalenderexport** – interessante Veranstaltungen direkt in Ihren eigenen digitalen Kalender (z. B. Outlook, Google Kalender) übernehmen.
+
 <a href="DSG%20Funktionen/" style="
   display:inline-block;
   padding:8px 16px;
@@ -34,19 +38,23 @@ Lernen Sie die wichtigsten Funktionen des *Smarten Gemeinschaftskalenders* kenne
   border-radius:4px;">Mehr über die Kalenderfunktionen»
 </a>
 
-## Barrierefreie Gestaltungsprinzipien
+## Organisation verwalten
 
-Barrierefreiheit ist ein **zentrales Ziel** des Smarten Gemeinschaftskalenders. Sie ermöglicht allen Menschen **Teilhabe**.
-Lesen Sie nach, wie Sie Inhalte so aufbereiten, dass sie möglichst viele Menschen erreichen.
+Sie möchten Veranstaltungen auf dem *Smarten Gemeinschaftskalender* veröffentlichen?
+Hier erfahren Sie, wie Sie:
+- als Organisation Zugang erhalten,
+- sich als Einzelperson registrieren und einer Organisation beitreten.  
 
-<a href="Barrierefreiheit/" style="
+Zudem werden Sie durch die Funktionen der Organisations- und Profilverwaltung geleitet.
+
+<a href="./Terminverwaltung/Organisation/" style="
   display:inline-block;
   padding:8px 16px;
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;">Mehr über Barrierefreiheit »
-</a>
+  border-radius:4px;">Zur Organisationsverwaltung »</a>
+
 
 ## Terminverwaltung für Veranstalter*innen
 ### Einzeltermine
@@ -111,6 +119,20 @@ Generieren Sie Ankündigungen für einzelne Veranstaltungen oder Übersichten me
   color:white;
   text-decoration:none;
   border-radius:4px;">Mehr über den Werbemittelgenerator »
+</a>
+
+## Barrierefreie Gestaltungsprinzipien
+
+Barrierefreiheit ist ein **zentrales Ziel** des Smarten Gemeinschaftskalenders. Sie ermöglicht allen Menschen **Teilhabe**.
+Lesen Sie nach, wie Sie Inhalte so aufbereiten, dass sie möglichst viele Menschen erreichen.
+
+<a href="Barrierefreiheit/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über Barrierefreiheit »
 </a>
 
 ## Dokumentation für Entwickler*innen
