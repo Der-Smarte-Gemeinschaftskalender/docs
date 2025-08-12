@@ -2,7 +2,7 @@
 
 **Willkommen im Handbuch zum Smarten Gemeinschaftskalender!**
 
-Diese Anleitung hilft Menschen, die den Kalender nutzen wollen und Veranstalter:innen, den Kalender optimal zu verwenden – von der Suche und Benachrichtigungen bis zum Anlegen und Verwalten eigener Veranstaltungen.
+Diese Anleitung hilft Menschen, die den Kalender nutzen wollen und Veranstalter*innen, den Kalender optimal zu verwenden – von der Suche und Benachrichtigungen bis zum Anlegen und Verwalten eigener Veranstaltungen.
 
 Auch Entwickler*innen finden hier Informationen zum Hosting, den offenen Weiterentwicklungsmöglichkeiten und den verwendeten Technologien.
 
@@ -19,7 +19,7 @@ Erfahren Sie mehr über die
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;">Mehr über die Kalenderfunktionen»
+  border-radius:4px;">Mehr über den Smarten Gemeinschaftskalender »
 </a>
 
 ## Kalenderfunktionen für Nutzer*innen
@@ -35,7 +35,7 @@ Lernen Sie die wichtigsten Funktionen des *Smarten Gemeinschaftskalenders* kenne
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;">Mehr über die Kalenderfunktionen»
+  border-radius:4px;">Mehr über die Kalenderfunktionen »
 </a>
 
 ## Organisation verwalten
@@ -153,7 +153,7 @@ Hier erfahren Sie, wie Sie eine eigene Instanz des Smarten Gemeinschaftskalender
 </a>
 
 ### Repositories
-Greifen Sie auf die Open-Source-Repositories zu und tragen Sie zur Weiterentwicklung des Smarten gemeinschaftskalenders bei.
+Greifen Sie auf die Open-Source-Repositories zu und tragen Sie zur Weiterentwicklung des Smarten Gemeinschaftskalenders bei.
 
 <a href="/Entwicklungsbereich/Repositories/" style="
   display:inline-block;

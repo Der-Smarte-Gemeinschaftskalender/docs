@@ -39,7 +39,7 @@ Klicken Sie auf das Feld *Datei auswählen*, um in Ihren Ordnern das gewünschte
 
 **Empfehlungen für das Bild:**  
 - Wählen Sie ein **aussagekräftiges Motiv** im **Querformat**.  
-- Verzichten Sie auf kleine Schriften, da diese insbesondere in der Voschau schlecht lesbar sind.  
+- Verzichten Sie auf kleine Schriften, da diese insbesondere in der Vorschau schlecht lesbar sind.  
 - Verwenden Sie das Bild nicht für Detailinformationen – diese gehören in die Veranstaltungsbeschreibung.  
 
 Nach dem Hochladen erscheint eine **Vorschau** rechts neben dem Eingabefeld.  
@@ -55,7 +55,7 @@ Fügen Sie hier detaillierte Informationen zu Ihrem Termin hinzu, die für Teiln
 * Ablauf und Inhalte
 * Zielgruppe (Alter, Vorkenntnisse)
 * Voraussetzungen oder mitzubringende Ausstattungen
-* weitere Veranstaltungsspezifische Details
+* weitere veranstaltungsspezifische Details
 
 **Hinweis:** Halten Sie die Beschreibung übersichtlich strukturiert und leicht verständlich, damit Sie den Teilnehmer*innen hilft, sich ein genaues Bild vom Termin zu machen.
 
@@ -73,7 +73,7 @@ Legen Sie fest, **wann** und **wie lange** Ihr Einzeltermin stattfindet.
 
 ### Organisation
 
-Da Sie Teil mehrerer Organisationen sein können, wird Ihnen an dieser Stelle die Organisation angezeigt, für die sie gerade den Einzeltermin anlegen. Sie können die Organisation im Formular nicht bearbeiten – sie wird Ihnen ausgegraut angezeigt. 
+Da Sie Teil mehrerer Organisationen sein können, wird Ihnen an dieser Stelle die Organisation angezeigt, für die Sie gerade den Einzeltermin anlegen. Sie können die Organisation im Formular nicht bearbeiten – sie wird Ihnen ausgegraut angezeigt. 
 
 <img src="./Bilder/Organisation.png" alt="Ausgegraute Organisation im Formular" style="width:400px;">
 
@@ -138,7 +138,7 @@ Wenn Sie bereits Einzeltermine angelegt haben und einen ähnlichen weiteren Term
 
 In der Rubrik Einzeltermine verwalten finden Sie eine Übersicht aller angelegten Einzeltermine. Suchen Sie die Veranstaltung, die Sie als Vorlage nutzen möchten und klicken in der jeweiligen Zeile den Button mit dem *Duplizieren-Symbol*.
 
-![Bildschirmaufnahme der Rubrik Einzeltermine in der Terminverwaltung mit Hovereffekt auf dem Duplizierenbutton in der Tabelle](./Bilder/Duplizieren.png)
+![Bildschirmaufnahme der Rubrik Einzeltermine in der Terminverwaltung mit Hovereffekt auf dem Duplizieren-Button in der Tabelle](./Bilder/Duplizieren.png)
 
 Es öffnet sich das vorausgefüllte Formular, welches Sie nach Bedarf anpassen können. Anschließend veröffentlichen Sie über den Button *Einzeltermin anlegen* Ihre Veranstaltung.
 
@@ -158,7 +158,7 @@ Wenn Sie in Ihrem Benutzerkonto eingeloggt sind, können Sie eine Veranstaltung 
 
 In beiden Fällen öffnet sich das bereits vorausgefüllte *Bearbeitungsformular*, in dem Sie einzelne Angaben anpassen und anschließend aktualisieren können. 
 
-Wenn Sie alle gewünschten Änderungen vorgenommen haben, speichern Sie Ihre diese über den Button am Ende des Formulars. 
+Wenn Sie alle gewünschten Änderungen vorgenommen haben, speichern Sie diese über den Button am Ende des Formulars. 
 
 ### Status ändern
 **Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.

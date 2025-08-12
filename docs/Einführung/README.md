@@ -9,7 +9,7 @@
 ## Was macht den Kalender besonders?
 
 **Personalisierte Benachrichtigungen:** 
-Um über anstehende Veranstaltungen informiert zu bleiben ist in der Regel Eigeninitiative gefragt – regelmäßig muss selbst recherchiert werden. Das wollen wir mit dem Smarten Gemeinschaftskalender ändern. Mit der Möglichkeit, Veranstaltungsbenachrichtigungen zu abonnieren, werden Nutzer*innen regelmäßig über anstehende Termine informiert – beispielsweise per E-Mail. Dabei kann das Abonnement in der Regelmäßigkeit und nach Interessengebieten an die persönlichen Vorlieben angepasst werden. 
+Um über anstehende Veranstaltungen informiert zu bleiben, ist in der Regel Eigeninitiative gefragt – regelmäßig muss selbst recherchiert werden. Das wollen wir mit dem Smarten Gemeinschaftskalender ändern. Mit der Möglichkeit, Veranstaltungsbenachrichtigungen zu abonnieren, werden Nutzer*innen regelmäßig über anstehende Termine informiert – beispielsweise per E-Mail. Dabei kann das Abonnement in der Regelmäßigkeit und nach Interessengebieten an die persönlichen Vorlieben angepasst werden. 
 
 So wird eine Informationsflut vermieden und Veranstalter*innen erreichen genau die richtigen Menschen!
 
@@ -23,22 +23,22 @@ Häufig bleiben regionale Veranstaltungskalender lückenhaft – denn kleinen un
 * Externe digitale Kalender können automatisch angebunden und synchronisiert werden.
 * Bereits angelegte Termine können als Datei hochgeladen werden, sodass die Informationen nicht manuell eingetragen werden müssen.
 * Mit Serienterminen müssen regelmäßig stattfindende Veranstaltungen nur einmalig angelegt werden.
-* Der Werbemittelgenerator bietet eine einfache Möglichkeit Veranstaltungsübersichten oder Ankündigungen für einzelne Veranstaltungen zu erstellen, um diese beispielsweise auf sozialen Medien zu verbreiten. 
+* Der Werbemittelgenerator bietet eine einfache Möglichkeit, Veranstaltungsübersichten oder Ankündigungen für einzelne Veranstaltungen zu erstellen, um diese beispielsweise auf sozialen Medien zu verbreiten. 
 
 Diese und weitere Funktionen ermöglichen eine einfache und effiziente Terminverwaltung. So wird die Nutzung des Smarten Gemeinschaftskalenders attraktiver gestaltet und ein vollständigeres Bild der Veranstaltungen geschaffen.
 
 **Open-Source-Lizenz und Souveränität:** 
 Der Smarte Gemeinschaftskalender ist unter der MIT-Lizenz veröffentlicht. Das bedeutet, dass der Quellcode öffentlich zugänglich ist und alle Interessierten diesen einsehen und kostenfrei nutzen können. Jede Organisation kann eine Kalenderinstanz auf einem eigenen Server betreiben – das hat den großen Vorteil, dass dauerhaft keine Lizenzgebühren anfallen. Zudem ermöglicht diese Lösung die vollständige Datenhoheit und somit einen datenschutzkonformen Betrieb sowie Unabhängigkeit gegenüber amerikanischen Tech-Konzernen.
 
-**Offen und Erweiterbar:** 
+**Offen und erweiterbar:** 
 Durch eine moderne, offene Architektur ist der Smarte Gemeinschaftskalender langfristig ausbaufähig und lässt sich flexibel an lokale Bedürfnisse anpassen. 
 
 
 ## Förderung & Kooperation 
 
-Das Projekt *Der Smarte Gemeinschaftskalender* wird im Rahmen des [Landesprogramms Offene Innovation](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation) durch den [DigitalHub.SH](https://digitalhub.sh) gefördert. Der Call for Concepts wurde 2024 erstmals ausgerufen: gesucht wurden Ideen für **Open-Source-Softwarelösungen**, die spezifische Bedürfnisse öffentlicher und gemeinnütziger Organisationen in Schleswig-Holstein adressieren. Ziel dieser Förderung ist es, nachhaltige digitale Projekte mit echtem Mehrwert zu ermöglichen, die Flexibilität, Effizienz und langfristige Unabhängigkeit sicherstellen. 
+Das Projekt *Der Smarte Gemeinschaftskalender* wird im Rahmen des [Landesprogramms Offene Innovation](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation) durch den [DigitalHub.SH](https://digitalhub.sh) gefördert. Der Call for Concepts wurde 2024 erstmals ausgerufen: Gesucht wurden Ideen für **Open-Source-Softwarelösungen**, die spezifische Bedürfnisse öffentlicher und gemeinnütziger Organisationen in Schleswig-Holstein adressieren. Ziel dieser Förderung ist es, nachhaltige digitale Projekte mit echtem Mehrwert zu ermöglichen, die Flexibilität, Effizienz und langfristige Unabhängigkeit sicherstellen. 
 
-Teilnehmen konnten öffentliche Verwaltungen und gemeinnützige Organisationen oder Vereine in Kooperation mit einem Digitalunternehmen aus Schleswig-Holstein als Umsetzungspartner. Der Smarte Gemeinschaftskalender wurde in Zusammenarbeit von [Smart City Amt Süderbrarup](https://smartcityamtsuederbrarup.de) und der [54 Grad Software GmbH](54gradsoftware.de) für die technische Umsetzung realisiert. 
+Teilnehmen konnten öffentliche Verwaltungen und gemeinnützige Organisationen oder Vereine in Kooperation mit einem Digitalunternehmen aus Schleswig-Holstein als Umsetzungspartner. Der Smarte Gemeinschaftskalender wurde in Zusammenarbeit von [Smart City Amt Süderbrarup](https://smartcityamtsuederbrarup.de) und der [54 Grad Software GmbH](https://54gradsoftware.de) für die technische Umsetzung realisiert. 
 
 ### Warum Open Source gefördert wird
 Die Förderung ist bewusst auf Open-Source-Projekte ausgerichtet. So bleiben die entwickelten Lösungen öffentlich zugänglich, nachnutzbar und erweiterbar. Für Schleswig‑Holstein bedeutet das: mehr digitale Souveränität, weniger Doppelentwicklungen und eine skalierbare Innovationsbasis, von der auch andere Kommunen und Organisationen profitieren können. Zugleich wird die regionale Wertschöpfung gestärkt, indem die Projekte in enger Zusammenarbeit mit Unternehmen vor Ort umgesetzt werden.
@@ -64,7 +64,7 @@ Eine besondere Stärke des Smarten Gemeinschaftskalenders ist sein **föderierte
 ### Vorteile der Föderation
 * **Datensouveränität:** Jede Instanz behält die volle Kontrolle über ihre Daten.
 * **Keine Abhängigkeit von kommerziellen Plattformen:** Datenschutz und Transparenz werden gestärkt.
-* **Offen & lizenzfrei:** Der Kalender basiert auf Open-Source-Software (MIT-Lizenz). Der Quellcode ist öffentlich und kann frei genutzt, verändert und weiterentwickelt werden.
+* **Offen & lizenzfrei:** Der Kalender wird als Open-Source-Software veröffentlicht werden. Der Quellcode ist öffentlich und kann frei genutzt, verändert und weiterentwickelt werden.
 
 ### Technische Grundlage: Mobilizon
 Der Smarte Gemeinschaftskalender baut auf der Open-Source-Software [Mobilizon](https://mobilizon.org) auf.

@@ -57,9 +57,9 @@ In der Übersichtstabelle im Bereich **Terminverwaltung** unter dem Reiter **Kal
 - **die URL** der Integration,
 - **den Status** aktiv oder inaktiv,
 - **die Anzahl der Termine**, die aktuell über diese Integration übernommen wurden
-- und den **Zeitpunkt der letzte Synchronisation**.
+- und den **Zeitpunkt der letzten Synchronisation**.
 
-![Bildschirmausnahme der Übersichtstabelle im Bereich Kalenderintegration.](./Bilder/Übersicht.png)
+![Bildschirmaufnahme der Übersichtstabelle im Bereich Kalenderintegration.](./Bilder/Übersicht.png)
 
 ## Integration aktivieren und deaktivieren
 
@@ -67,9 +67,9 @@ Sie können die Kalenderintegrationen jederzeit aktivieren oder deaktivieren:
 - **Deaktivieren:** Stoppt die Synchronisation neuer Termine. Bereits eingepflegte Termine bleiben im *Smarten Gemeinschaftskalender* bestehen.   
 - **Aktivieren:**  Startet die Synchronisation und führt neue Termine dem *Smarten Gemeinschaftskalender** hinzu.
 
-Zum Ändern des Status klicken Sie im Bereich **Kalenderintegration** der Terminverwaltung auf "Ansehen" der jeweligen Integration in der Tabelle. So gelangen Sie zur Detailansicht. Oben rechts befindet sich ein Button zum Aktivieren oder Deaktivieren ihrer Integration. 
+Zum Ändern des Status klicken Sie im Bereich **Kalenderintegration** der Terminverwaltung auf "Ansehen" der jeweiligen Integration in der Tabelle. So gelangen Sie zur Detailansicht. Oben rechts befindet sich ein Button zum Aktivieren oder Deaktivieren Ihrer Integration. 
 
-![Bildschirmausnahme der Detailansicht einer Kalenderintegration.](./Bilder/Status.png)
+![Bildschirmaufnahme der Detailansicht einer Kalenderintegration.](./Bilder/Status.png)
 
 ## Termine der Kalenderintegration bearbeiten
 
@@ -84,7 +84,7 @@ Dafür stehen Ihnen zwei Wege zur Verfügung:
 2. **Über die Terminverwaltung:**  
    In der Rubrik **Kalenderintegration** finden Sie eine Übersicht aller Kalenderintegrationen.
   
-     Wählen Sie die entsprechende Integration in der Tabelle aus um zur **Detailansicht** zu gelangen, wo Sie eine Übersicht aller übernommener Termine finden. Klicken Sie auf das **Bearbeiten-Symbol** in der jeweiligen Terminzeile, um den Termin anzupassen.
+     Wählen Sie die entsprechende Integration in der Tabelle aus, um zur **Detailansicht** zu gelangen, wo Sie eine Übersicht aller übernommenen Termine finden. Klicken Sie auf das **Bearbeiten-Symbol** in der jeweiligen Terminzeile, um den Termin anzupassen.
 
 Sie gelangen jeweils in die Bearbeiten-Ansicht für Einzeltermine. Die Änderungen werden ausschließlich für den ausgewählten Termin übernommen – nicht für die gesamte Kalenderintegration. Die Änderungen übernehmen Sie, indem Sie am Ende des Formulars auf den Button **Änderungen speichern** klicken.  
 

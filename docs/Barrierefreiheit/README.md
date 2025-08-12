@@ -28,7 +28,7 @@ Dabei wird gerne unterschätzt, wie viele Menschen betroffen sind. In Deutschlan
 
 Barrierefreie Gestaltung betrifft also nicht nur eine Minderheit. Dazu kommt: 100 % der Menschen profitieren von barrierefreien Angeboten. Ein klassisches Beispiel sind **abgesenkte Bordsteine:** 
 
-> Ursprünglich für Menschen mit Behinderung entwickelt, erleichtern sie heute nicht nur Menschen im Rollstuhl sondern auch Eltern mit Kinderwagen, Fahrradfahrerinnen und Menschen mit Rollkoffern den Alltag.
+> Ursprünglich für Menschen mit Behinderung entwickelt, erleichtern sie heute nicht nur Menschen im Rollstuhl, sondern auch Eltern mit Kinderwagen, Fahrradfahrerinnen und Menschen mit Rollkoffern den Alltag.
 >
  > Dieses Beispiel wurde zum Namensgeber eines Phänomens: der *Curb-Cut-Effekt* (auch *Bordsteinkanteneffekt*). Er beschreibt, dass barrierefreie Lösungen, die für eine bestimmte Gruppe von Menschen mit Behinderungen entwickelt wurden, oft auch für viele weitere Bevölkerungsgruppen von Vorteil sind.
  
@@ -63,7 +63,7 @@ Barrierefreiheit beginnt bereits bei der **Gestaltung von Inhalten**.  In diesem
 
 Diese Prinzipien bilden den Rahmen für barrierefreie Gestaltung im Smarten Gemeinschaftskalender und lassen sich auch auf andere digitale Angebote übertragen.
 
->**Hinweis:** Diese Umsetzungsbeispiele sind *nicht abschließend*. Sie bietet jedoch *zentrale Orientierungspunkte*, die Sie bei der Erstellung barrierefreier Inhalte unterstützen. Sie sind daher kein Garant für eine vollständig rechtskonforme Umsetzung jeglicher Rechtsnormen.
+>**Hinweis:** Diese Umsetzungsbeispiele sind *nicht abschließend*. Sie bieten jedoch *zentrale Orientierungspunkte*, die Sie bei der Erstellung barrierefreier Inhalte unterstützen. Sie sind daher kein Garant für eine vollständig rechtskonforme Umsetzung jeglicher Rechtsnormen.
 
 
 ### Wahrnehmbar
@@ -72,17 +72,17 @@ Alle Menschen müssen die Inhalte wahrnehmen können, **unabhängig von ihren se
 
 **Alt-Texte (Alternativtexte) für Bilder:** Hierbei handelt es sich um kurze Beschreibungen von Bildern, die für Menschen mit Sehbehinderung gedacht sind. Sie können beispielsweise von Screenreadern vorgelesen werden. Auch wenn Bilder nicht geladen werden können, ermöglichen Sie es Nutzer*innen, Inhalte dennoch zu erfassen. 
 
-Beschreiben Sie Bilder und Grafiken (z. B. Veranstaltungsplakate) verständlich, informativ aber nicht unnötig ausschweifend.
+Beschreiben Sie Bilder und Grafiken (z. B. Veranstaltungsplakate) verständlich, informativ, aber nicht unnötig ausschweifend.
 
 Alt-Texte von Word- und PDF-Dateien können beispielsweise mit einem Rechtsklick über "Alt-Text bearbeiten" hinzugefügt werden. Auch HTML auf Ihrer Webseite ermöglicht die Integration und viele Social-Media-Plattformen bieten ein Bearbeitungsfeld vor dem Hochladen an.
 
 **Untertitel:**
-Stellen Sie Untertitel für Videos oder Transkripte beziehungsweise kurze schriftliche Zusammenfassungen für Audioinhalte bereit.
+Stellen Sie Untertitel für Videos oder Transkripte, beziehungsweise kurze schriftliche Zusammenfassungen für Audioinhalte bereit.
 
 **Ausreichende Kontraste:**
 Verwenden Sie Kombinationen aus Schrift- und Hintergrundfarben, die gut lesbar sind (mindestens 4,5:1 Kontrastverhältnis).
 
-Ein kostenloses Online-Tool zur Überprüfung von Farbkontrasten ist der [Color Contrast Checker](https://color-contrast-checker.deque.com/). Hier können Sie gleich mehrere Farbkombinationen anhand von HEX und RGB Farbcodes gleichzeitig überprüfen. 
+Ein kostenloses Online-Tool zur Überprüfung von Farbkontrasten ist der [Color Contrast Checker](https://color-contrast-checker.deque.com/). Hier können Sie gleich mehrere Farbkombinationen anhand von HEX- und RGB-Farbcodes gleichzeitig überprüfen. 
 
 ### Bedienbar
 Inhalte und Funktionen müssen einfach und ohne Hürden bedienbar sein – für alle Nutzer*innen und mit verschiedenen Eingabemethoden.
@@ -106,7 +106,7 @@ Vermeiden Sie komplizierte Formulierungen und Fachjargon, besonders in Veranstal
 Nutzen Sie neben einer klaren Überschriftenstruktur (H1–H3), verständliche und beschreibende Titel. So kann anhand der Überschrift erfasst werden, ob Unterüberschriften oder Texte potenziell relevant sind oder ob ganze Sektionen übersprungen werden können. So wird eine effiziente Navigation ermöglicht.
 
 **Konsistenz:** 
-Halten Sie Begriffe, Layouts und Interaktionen über alle Seiten und Inhalte hinweg konsistent. Das trägt gleichzeitig auch zu Ihrerer Markenwiedererkennung“ bei. 
+Halten Sie Begriffe, Layouts und Interaktionen über alle Seiten und Inhalte hinweg konsistent. Das trägt gleichzeitig auch zu Ihrer Markenwiedererkennung“ bei. 
 
 ### Robust 
 

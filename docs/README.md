@@ -17,18 +17,19 @@ features:
   - title: Barrierefreiheit
     details: Veranstaltungsinformationen, die für alle zugänglich sind. Inklusiv und benutzerfreundlich mit Kern-UX-Grundlage.
   - title: Vernetzte Kalenderlandschaft
-    details: Veranstaltungen über die Instanz-Grenzen hinaus entdecken. Die unabhängigen Kalender können miteinander vernetzt werden.
+    details: Veranstaltungen über die Kalenderinstanz-Grenzen hinaus entdecken. Die unabhängig geführten Kalender lassen sich miteinander vernetzen.
   - title: Open Source & Souveränität
     details: Quelloffen, weiterentwickelbar und ohne Lizenzgebühren – volle Datenhoheit für Betreiber*innen.
   - title: Effiziente Verwaltung
-    details: Austomatisierte Importe, Serientermine, Werbemittelgenerator und vieles mehr.
+    details: Automatisierte Importe, Serientermine, Werbemittelgenerator und vieles mehr.
   - title: Einfach & intuitiv
-    details: Eine Benutzerfreundliche Oberfläche die Nutzer*innen und Veranstalter*innen gerne benutzen.
+    details: Eine benutzerfreundliche Oberfläche, die Nutzer*innen und Veranstalter*innen gerne benutzen.
 footer: Dokumentation von 54 Grad Software GmbH 
 ---
+
 <img src="./DSG-Kooperation.png" alt="Logos der 3 Kooperationspartner" style="width:500px;"> 
 
-Ein Projekt von der [**54 Grad Software GmbH**](54gradsoftware.de), [**Smart City Amt Süderbrarup**](https://smartcityamtsuederbrarup.de/) und dem [**Amt Süderbrarup**](https://www.amt-suederbrarup.de/)
+Ein Projekt von der [**54 Grad Software GmbH**](https://54gradsoftware.de), [**Smart City Amt Süderbrarup**](https://smartcityamtsuederbrarup.de/) und dem [**Amt Süderbrarup**](https://www.amt-suederbrarup.de/).
 
 **Hinweis:** Der Smarte Gemeinschaftskalender befindet sich aktuell noch in der Entwicklung.
 
@@ -45,7 +46,7 @@ Ein Projekt von der [**54 Grad Software GmbH**](54gradsoftware.de), [**Smart Cit
 
 Der *Smarte Gemeinschaftskalender* ist eine **Open-Source-Lösung**, die darauf abzielt, die **Planung und Kommunikation von Veranstaltungen in Gemeinden und Organisationen zu optimieren**. Verschiedenste Funktionen und Automatisierungen unterstützen Veranstalter\*innen bei der Verbreitung ihrer Angebote – [Einzel](./Terminverwaltung/Einzeltermine/README.md)- und [Serientermine](./Terminverwaltung/Serientermine/README.md), [iCal-Importe](./Terminverwaltung/iCal-Dateien/README.md) oder Kalenderintegrationen.
 
-Gleichzeitig gewährleistet die Integration unterschiedlicher **barrierearmer Kommunikationskanäle** – von Webanwendung über personalisierte [**E-Mail-Benachrichtigungen**](./DSG%20Funktionen/#E-Mail-Benachrichtigungen) und Infotafelanbindungen** –, dass alle interessierten Bürger\*innen, **unabhängig von Ihren technischen Fähigkeiten**, über aktuelle Veranstaltungen informiert werden. 
+Gleichzeitig gewährleistet die Integration unterschiedlicher **barrierearmer Kommunikationskanäle** – von Webanwendung über personalisierte [**E-Mail-Benachrichtigungen**](./DSG%20Funktionen/#E-Mail-Benachrichtigungen) und **Infotafelanbindungen** –, dass alle interessierten Bürger\*innen, **unabhängig von ihren technischen Fähigkeiten**, über aktuelle Veranstaltungen informiert werden. 
 
 Damit trägt unser Projekt zur gesellschaftlichen Teilhabe für **alle Menschen** bei und verfolgt das Ziel der Inklusion und gelebter Diversität. 
 
@@ -56,7 +57,8 @@ Unsere Vision ist ein Netzwerk, durch das Bürger*innen einen umfassenden Überb
 
 > **Interesse am Smarten Gemeinschaftskalender?**  
 > Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben,  
-> können uns einfach unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) erreichen.
+> können uns unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) erreichen.
+> Wir freuen uns auf Ihre Nachricht!
 
 <a href="mailto:kontakt@54gradsoftware.de" style="
   display:inline-block;
@@ -76,7 +78,7 @@ Damit unterstützt das Land Schleswig‑Holstein **Open-Source-Projekte**, die d
 
 ## Open Source & Selbst-Hosting
 
-Der Kalender ist wird unter einen **Open-Source-Lizenz** veröffentlicht:  
+Der Kalender wird unter einer **Open-Source-Lizenz** veröffentlicht:  
 - **Kostenfrei nutzbar** und **offen für Weiterentwicklung**  
 - **Selbst hostbar** – volle Kontrolle über Daten und Anpassungen  
 - **Modular erweiterbar**, um regionale Anforderungen zu erfüllen  

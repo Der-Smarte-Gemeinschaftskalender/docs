@@ -9,7 +9,7 @@ In diesem Dokumentationsbereich erfahren Sie, wie Sie diese Funktionen nutzen un
 
 ## Veranstaltungen suchen und filtern
 
-Um schnell die für Sie relevanten Veranstaltungen zu finden, können Sie die *klassische Veranstaltungssuche* oder die *Kalenderansicht* nutzen. Auf beide Suchen können Sie über die **obere Menüleiste**  (Header-Navigation) zugreifen. 
+Um schnell die für Sie relevanten Veranstaltungen zu finden, können Sie die *klassische Veranstaltungssuche* oder die *Kalenderansicht* nutzen. Auf beide Suchen können Sie über die **obere Menüleiste** (Header-Navigation) zugreifen. 
 
 ### Klassische Veranstaltungssuche
 
@@ -40,7 +40,7 @@ Die **Kalenderansicht** bietet Ihnen eine übersichtliche Darstellung der Verans
 - Über den Button **„Heute“** gelangen Sie jederzeit zurück zum aktuellen Tag.  
 
 **Filteroptionen:**  
-Die Filterfunktionen **Instanz, Status, Sprache und Kategorie** funktionieren analog zur [klassischen Veranstaltungssuche](/DSG%20Funktionen/#Klassische-Veranstaltungssuche), mit der Besonderheit, dass die 30 Veranstaltungskategorien zu **5 Oberkategorien** zusammengefasst werden. Hintergrund ist die Übersichtlichkeit, da die einzelnen Kategorien Farben zugeordnet sind und eine visuelle Unterscheidbarkeit gewährleistet werden muss.  
+Die Filterfunktionen **Instanz, Status, Sprache und Kategorie** funktionieren analog zur [klassischen Veranstaltungssuche](/DSG%20Funktionen/#Klassische-Veranstaltungssuche), mit der Besonderheit, dass die 30 Veranstaltungskategorien zu **fünf Oberkategorien** zusammengefasst werden. Hintergrund ist die Übersichtlichkeit, da die einzelnen Kategorien Farben zugeordnet sind und eine visuelle Unterscheidbarkeit gewährleistet werden muss.  
   
 
 #### Zuordnung der Kategorien
@@ -72,16 +72,16 @@ Mit den E-Mail-Benachrichtigungen erhalten Sie regelmäßig eine Übersicht übe
 **So funktioniert’s:**
 
 1. **Intervall wählen:**  
-   Wählen Sie, ob Sie **wöchentlich (Montag morgen)** oder **monatlich (zum 1. des Monats)** informiert werden möchten.
+   Wählen Sie, ob Sie **wöchentlich (Montagmorgen)** oder **monatlich (zum 1. des Monats)** informiert werden möchten.
 
 2. **Kategorien filtern:**  
    Legen Sie fest, ob Sie zu allen **30 Veranstaltungskategorien** oder einer bestimmen Kategorie Benachrichtigungen erhalten möchten   ([Übersicht der Kategorien](#zuordnung-der-kategorien)).
 
-3. **Wählen die die Veranstaltungsquelle:**  
+3. **Wählen Sie die Veranstaltungsquelle:**  
    - **Nur Veranstaltungen aus dem aktuellen SG-Kalender:**  
      Sie erhalten ausschließlich Veranstaltungen des gewählten Kalenders (z. B. Amt Süderbrarup). Zusätzlich können Sie hier **nach Organisationen filtern**. Sie können entweder alle Organisationen abonnieren oder eine bestimmte.  
    - **Alle Veranstaltungen aus dem Netzwerk anzeigen:**  
-     Mit dieser Option erhalten Sie auch Veranstaltungen aus verbundenen Kalendern. In diesem Fall wird eine **Umkreissuche** aktiviert, über die Sie Veranstaltungen aus angrenzende Gemeinden, Ortschaften und Organisationen einbeziehen können.
+     Mit dieser Option erhalten Sie auch Veranstaltungen aus verbundenen Kalendern. In diesem Fall wird eine **Umkreissuche** aktiviert, über die Sie Veranstaltungen aus angrenzenden Gemeinden, Ortschaften und Organisationen einbeziehen können.
 
 4. **E-Mail-Adresse angeben:**  
    Geben Sie Ihre E-Mail-Adresse in das entsprechende Feld ein und klicken Sie auf **E-Mail-Benachrichtigungen jetzt abonnieren**.
@@ -92,7 +92,7 @@ Mit den E-Mail-Benachrichtigungen erhalten Sie regelmäßig eine Übersicht übe
 
 #### Wann erhalte ich meine erste Benachrichtigung?  
 Ab dem Zeitpunkt der Bestätigung erhalten Sie Benachrichtigungen im gewählten Intervall.  
-Die erste E-Mail wird zum nächsten geplanten Versandtermin versendet – Montag morgen oder am 01. des kommenden Monats.
+Die erste E-Mail wird zum nächsten geplanten Versandtermin versendet – Montagmorgen oder am 1. des kommenden Monats.
 
 
 ### Kalender auf eigener Webseite integrieren 

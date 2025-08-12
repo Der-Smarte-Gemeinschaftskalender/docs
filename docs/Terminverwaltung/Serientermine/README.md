@@ -21,13 +21,13 @@ Es öffnet sich ein Formular – viele Felder funktionieren **identisch wie bei 
 
 ### Titel und Beschreibung
 
-Der hier eingegebene Titel und die Beschreibung gelten **für alle Termine der Serie**. Sie sollten diese daher nicht auf einen bestimmten Termin auslegen. Sollte es nötig sein, die Beschreibung oder den Titel für einzelne Termine anzupassen, können Sie diese im nachhinein [bearbeiten](/Terminverwaltung/Serientermine/#einzelne-termine-anpassen).
+Der hier eingegebene Titel und die Beschreibung gelten **für alle Termine der Serie**. Sie sollten diese daher nicht auf einen bestimmten Termin auslegen. Sollte es nötig sein, die Beschreibung oder den Titel für einzelne Termine anzupassen, können Sie diese im Nachhinein [bearbeiten](/Terminverwaltung/Serientermine/#einzelne-termine-anpassen).
 
 Weitere Hinweise zur sinnvollen Formulierung finden Sie in der Dokumentation zu [Titel](/Terminverwaltung/Einzeltermine/#titel) und [Beschreibung](/Terminverwaltung/Einzeltermine/#beschreibung) bei Einzelterminen.
 
 ### Zeitraum und Intervall festlegen
 
-Im Gegensatz zum Einzeltermin wählen Sie hier zunächst das **Start- und Enddatum** der gesamten Serie fest (z. B. 28.07.–18.08.).
+Im Gegensatz zum Einzeltermin legen Sie hier zunächst das **Start- und Enddatum** der gesamten Serie fest (z. B. 28.07.–18.08.).
 
 ![Bildschirmaufnahme Zeitpunkt und Intervall eines Serientermins im Formular festlegen](./Bilder/Serientermin%20Intervall.png)
 
@@ -35,9 +35,9 @@ Anschließend tragen Sie die Uhrzeit ein, zu welcher die Veranstaltung beginnen 
 
 Der Screenshot zeigt beispielsweise eine Veranstaltung, welche um 9:30 Uhr beginnt und 2 Stunden stattfindet, sodass diese jeweils um 11:30 Uhr endet.
 
-Zusätzlich legen die das gewünschte **Intervall** fest – z. B. wöchentlich oder monatlich. Der Wochentag des Startdatums gilt als Ausgangspunkt für das Intervall. 
+Zusätzlich legen Sie das gewünschte **Intervall** fest – z. B. wöchentlich oder monatlich. Der Wochentag des Startdatums gilt als Ausgangspunkt für das Intervall. 
 
-> **Beispiel:** Startdatum des Serientermins ist Montag der 28.07.2025.
+> **Beispiel:** Startdatum des Serientermins ist Montag, der 28.07.2025.
 >
 > *Wöchentliches Intervall:* Die Termine der Serie werden für jeden Montag vom 28.07. bis zum Enddatum angelegt.
 >
@@ -69,7 +69,7 @@ Jede Veranstaltung innerhalb der Serie kann nachträglich **individuell bearbeit
 Dafür stehen Ihnen zwei Wege zur Verfügung:
 
 **1. Über die Einzelansicht:**  
-Wenn sie im öffentlichen Bereich eine einzelne Veranstaltung ihrer Serie aufrufen und eingeloggt sind, erscheint im Headerbereich rechts unten das **Bearbeiten-Symbol**.  
+Wenn Sie im öffentlichen Bereich eine einzelne Veranstaltung ihrer Serie aufrufen und eingeloggt sind, erscheint im Headerbereich rechts unten das **Bearbeiten-Symbol**.  
 ![Bildschirmaufnahme des Headers eines Einzeltermins im eingeloggten Zustand mit Option zum Bearbeiten ](./Bilder/bearbeiten%20Einzelansicht.png)
 
 **2. Über die Terminverwaltung:**  
