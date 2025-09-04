@@ -94,16 +94,91 @@ Mit den E-Mail-Benachrichtigungen erhalten Sie regelmäßig eine Übersicht übe
 Ab dem Zeitpunkt der Bestätigung erhalten Sie Benachrichtigungen im gewählten Intervall.  
 Die erste E-Mail wird zum nächsten geplanten Versandtermin versendet – Montagmorgen oder am 1. des kommenden Monats.
 
+### Termine auf Infotafeln anzeigen
+
+Mit dem *Smarten Gemeinschaftskalender* können Sie Veranstaltungen automatisch und rotierend auf **digitalen Infotafeln oder Bildschirmen** anzeigen lassen – z. B. in Rathäusern, Bürgerbüros oder Gemeinschaftshäusern.  
+Die Anzeige aktualisiert sich fortlaufend und benötigt **keine zusätzliche Pflege**.
+
+Es gibt zwei Möglichkeiten, eine passende URL für die Infotafel-Ansicht zu erzeugen – über die Veranstaltungssuche und über die Organisationsseite
+
+#### 1. URL über die Veranstaltungssuche erzeugen
+
+1. Öffnen Sie die **Veranstaltungssuche**. Diese finden Sie in der Top-Navigation unter dem Reiter *Veranstaltungen*.
+2. Nun können Sie Ihre gewünschten Filterparameter festlegen. Dazu stehen Ihnen zwei Bereiche zur Verfügung:
+* **Die Filterleiste:** Hier legen Sie die Instanz, den Zeitraum, die Kategorien, den Veranstaltungsstatus und die Sprache fest, die angezeigt werden sollen. 
+* **Das Suchfeld:** Hier können Sie relevante Suchbegriffe hinterlegen, aber auch ausgehend von einem Ort einen Suchumkreis festlegen.
+3. Sobald die Einstellungen vorgenommen wurden, klicken Sie auf **Suchen**, um die Filterung zu übernehmen.  
+4. Wählen Sie nun oben rechts das **Info-Icon** im Bereich *Suchergebnis teilen*.  
+5. Es öffnet sich ein Fenster, in dem die Veranstaltungen aus dem Suchergebnis automatisch durchlaufen. Kopieren Sie die angezeigte URL und hinterlegen Sie diese auf der Infotafel oder einem Bildschirm.  
+
+**Hinweis:**  
+Die Ansicht wird **dynamisch aktualisiert**. Wenn Sie z. B. den Zeitraum *Morgen* auswählen, zeigt die URL künftig immer automatisch die Veranstaltungen des kommenden Tages.
+
+#### 2. URL über die Organisationsseite erzeugen
+
+Diese Option ist besonders sinnvoll, wenn alle Veranstaltungen einer Organisation für Sie relevant sind – beispielsweise für eine Infotafel eines konkreten Vereins.
+
+1. Öffnen Sie in der Top-Navigation den Bereich **Organisationen**.  
+2. Wählen Sie die gewünschte Organisation aus.  
+3. Im Abschnitt **Bevorstehende Veranstaltungen** finden Sie rechts die Funktion *Veranstaltungen teilen*.  
+4. Klicken Sie auf das **Info-Icon**, um eine URL zu erzeugen und die Infotafel-Ansicht zu öffnen.  
+5. Kopieren Sie die URL und verwenden Sie diese für die Anzeige auf einem Bildschirm oder einer Infotafel.  
+
+**Hinweis:**
+Die URL bleibt dauerhaft gültig und wird automatisch mit neuen Veranstaltungen der Organisation aktualisiert.
+
+#### Manuelle Anpassung der Anzeigedauer
+
+Standardmäßig wird jede Veranstaltung **30 Sekunden** angezeigt.  
+Falls Sie eine andere Anzeigedauer wünschen, können Sie die erzeugte URL mit einem Parameter am Ende erweitern:
+> &showEventInSeconds=60
+
+Ersetzen Sie dabei `60` durch die gewünschte Anzahl an Sekunden.  
+
 
 ### Kalender auf eigener Webseite integrieren 
 **Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
+
+## Veranstaltungen und Suchergebnis teilen
+
+Veranstaltungen können Sie auf unterschiedliche Weise teilen – direkt in der **Veranstaltungssuche**, von der **Organisationsseite** oder der **Detailansicht einer einzelnen Veranstaltung** aus.  
+
+<img src="./Bilder/teilen.png" alt="Icons die zum Teilen zur Verfügung stehen" style="width:400px;">
+
+### Zugang zu den Funktionen
+- **Veranstaltungssuche:** Über die Top-Navigation im Reiter *Veranstaltungen*. Rechts neben der Suchleiste finden Sie die Funktion *Suchergebnis teilen*.  
+- **Organisationen:** Über die Top-Navigation im Bereich *Organisationen*. Wählen Sie dort die gewünschte Organisation aus. Im Abschnitt *Bevorstehende Veranstaltungen* finden Sie die Funktion *Veranstaltungen teilen*.  
+- **Einzelne Veranstaltung:** Öffnen Sie die Detailansicht einer Veranstaltung. Dort finden Sie ebenfalls die Icons im bereich *Veranstaltung teilen*.
+
+### Verfügbare Optionen
+Mit einem Klick auf eines der Icons öffnet sich die jeweilige Anwendung:  
+- **Mastodon**  
+- **WhatsApp**  
+- **LinkedIn**  
+- **Telegram**  
+- **E-Mail-Postfach**  
+- **Kopieren** (Text wird in die Zwischenablage übernommen)  
+- **Info-Icon:** Erzeugt eine URL für die Anzeige auf Infotafeln. Details dazu finden Sie im Abschnitt [Termine auf Infotafeln anzeigen](#termine-auf-infotafeln-anzeigen).
+
+### Inhalte beim Teilen
+- Über die **Veranstaltungssuche**: Das Teilen bezieht sich auf das aktuelle Suchergebnis. Nutzen Sie die **Filterleiste**, um passende Filterparameter festzulegen: Instanz, Zeitraum, Kategorien, Status der Veranstaltungen und Sprachen. Über das **Suchfeld** können zudem Suchbegriffe und ein Umkreis definiert werden. Die Auswahl bestimmt, welche Veranstaltungen in der geteilten Übersicht erscheinen.  
+  **Hinweis:** Klicken Sie auf *Suchen*, wenn Sie Ihre Suchparameter eingestellt haben, damit diese für die Teilen-Funktionen übernommen werden.  
+
+- Über die **Organisationsseite**: Es werden alle bevorstehenden Veranstaltungen der gewählten Organisation geteilt.  
+
+- Über eine **einzelne Veranstaltung**: Es wird nur die jeweilige Veranstaltung geteilt.  
+
+In allen Fällen erhalten Sie einen Text-Output. Dieser enthält die wichtigsten Veranstaltungsinformationen: **Titel, Datum, Uhrzeit und den Link zur Veranstaltung**.
+
+**Hinweis:**  
+Wenn Sie bei einer Plattform (z. B. LinkedIn, Mastodon oder WhatsApp) auf Ihrem Gerät noch nicht eingeloggt sind, werden Sie beim Klick auf das Symbol zunächst zur Anmeldeseite weitergeleitet.
 
 ## Veranstaltungsdatei exportieren
 
 In der Detailansicht jeder Veranstaltung können Sie diese als **.ics-Datei** herunterladen und so zu Ihrem persönlichen digitalen Kalender hinzufügen.  
 Klicken Sie dafür auf den Button **Zum Kalender hinzufügen**.
 
-<img src="./Bilder/iCal-download.png" alt="Button + Einzeltermin anlegen" style="width:400px;">
+<img src="./Bilder/iCal-download.png" alt="Screenshot von dem Bereich, wo Termine als iCal-Datei heruntergeladen werden können" style="width:600px;">
 
 ### Was ist eine .ics-Datei?
 Eine **.ics-Datei** ist ein universelles Kalenderformat, das von nahezu allen gängigen Kalenderprogrammen unterstützt wird, z. B.:
