@@ -191,7 +191,3 @@ Eine **.ics-Datei** ist ein universelles Kalenderformat, das von nahezu allen g�
 In der Regel genügt es, die heruntergeladene Datei **mit Ihrem Kalenderprogramm zu öffnen**. Der Termin wird dann automatisch importiert beziehungsweise werden Sie gefragt, ob Sie diesen hinzufügen wollen.
 
 **Hinweis:** Die genaue Vorgehensweise kann je nach Programm leicht variieren.
-
-
-
-
