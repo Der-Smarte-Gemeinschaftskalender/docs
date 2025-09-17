@@ -135,6 +135,21 @@ Lesen Sie nach, wie Sie Inhalte so aufbereiten, dass sie möglichst viele Mensch
   border-radius:4px;">Mehr über Barrierefreiheit »
 </a>
 
+## Lizenz & Rechtliches
+
+Der **Smarte Gemeinschaftskalender** ist eine Open-Source-Software und steht unter der  
+GNU Affero General Public License v3 (AGPL-3.0).  
+Lesen Sie nach, was diese Lizenz bedeutet und wie sie für Instanzen des SMarten Gemeinschaftskalenders gilt.
+
+<a href="Lizenz/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über die Lizenz »</a>
+
+
 ## Dokumentation für Entwickler*innen
 
 Dieser Bereich richtet sich an Entwickler*innen, die den Smarten Gemeinschaftskalender weiterentwickeln, integrieren oder technisch verstehen möchten. 
