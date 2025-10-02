@@ -55,7 +55,6 @@ Nachdem Ihr Profil angelegt ist, haben Sie zwei Möglichkeiten:
 
 **Hinweis:** Die Inhalte zu diesem Bereich werden zeitnah ergänzt.
 
-
 ## Organisationsadministration
 
 ### Mitglieder hinzufügen 

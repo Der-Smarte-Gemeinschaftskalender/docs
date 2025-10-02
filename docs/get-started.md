@@ -38,23 +38,6 @@ Lernen Sie die wichtigsten Funktionen des *Smarten Gemeinschaftskalenders* kenne
   border-radius:4px;">Mehr über die Kalenderfunktionen »
 </a>
 
-## Organisation verwalten
-
-Sie möchten Veranstaltungen auf dem *Smarten Gemeinschaftskalender* veröffentlichen?
-Hier erfahren Sie, wie Sie:
-- als Organisation Zugang erhalten,
-- sich als Einzelperson registrieren und einer Organisation beitreten.  
-
-Zudem werden Sie durch die Funktionen der Organisations- und Profilverwaltung geleitet.
-
-<a href="./Terminverwaltung/Organisation/" style="
-  display:inline-block;
-  padding:8px 16px;
-  background-color:#2b2c6a;
-  color:white;
-  text-decoration:none;
-  border-radius:4px;">Zur Organisationsverwaltung »</a>
-
 
 ## Terminverwaltung für Veranstalter*innen
 ### Einzeltermine
@@ -135,20 +118,36 @@ Lesen Sie nach, wie Sie Inhalte so aufbereiten, dass sie möglichst viele Mensch
   border-radius:4px;">Mehr über Barrierefreiheit »
 </a>
 
-## Lizenz & Rechtliches
+## Organisation verwalten
 
-Der **Smarte Gemeinschaftskalender** ist eine Open-Source-Software und steht unter der  
-GNU Affero General Public License v3 (AGPL-3.0).  
-Lesen Sie nach, was diese Lizenz bedeutet und wie sie für Instanzen des SMarten Gemeinschaftskalenders gilt.
+Sie möchten Veranstaltungen auf dem *Smarten Gemeinschaftskalender* veröffentlichen?
+Hier erfahren Sie, wie Sie:
+- als Organisation Zugang erhalten,
+- sich als Einzelperson registrieren und einer Organisation beitreten.  
 
-<a href="Lizenz/" style="
+Zudem werden Sie durch die Funktionen der Organisations- und Profilverwaltung geleitet.
+
+<a href="./Terminverwaltung/Organisation/" style="
   display:inline-block;
   padding:8px 16px;
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;">Mehr über die Lizenz »</a>
+  border-radius:4px;">Zur Organisationsverwaltung »</a>
 
+## Instanzadministration
+
+Sie betreuen eine eigene Instanz des *Smarten Gemeinschaftskalenders* (z. B. für eine Gemeinde oder ein Amt)?  
+
+Hier erfahren Sie, wie Sie Nutzer*innen und Organisationen Ihrer Instanz verwalten und die grundlegenden Instanz-Einstellungen anpassen.
+
+<a href="./Terminverwaltung/Instanz/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Zur Instanzverwaltung »</a>
 
 ## Dokumentation für Entwickler*innen
 
@@ -197,3 +196,17 @@ Erfahren Sie mehr über den technischen Aufbau, eingesetzte Frameworks und UX-Pr
 
 > 💌 **Interesse am Smarten Gemeinschaftskalender?**  
 > Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben, können uns einfach unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) anschreiben.
+
+## Lizenz & Rechtliches
+
+Der **Smarte Gemeinschaftskalender** ist eine Open-Source-Software und steht unter der  
+GNU Affero General Public License v3 (AGPL-3.0).  
+Lesen Sie nach, was diese Lizenz bedeutet und wie sie für Instanzen des SMarten Gemeinschaftskalenders gilt.
+
+<a href="Lizenz/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über die Lizenz »</a>
