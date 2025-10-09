@@ -16,6 +16,7 @@ export default defineUserConfig({
     text: 'Terminmanagement',
     children: [
       { text: 'Organisationsverwaltung', link: '/Terminverwaltung/Organisation/' },
+      { text: 'Instanzadministration', link: '/Terminverwaltung/Instanz/' },
       { text: 'Einzeltermine', link: '/Terminverwaltung/Einzeltermine/' },
       { text: 'Serientermine', link: '/Terminverwaltung/Serientermine/' },
       { text: 'iCal-Dateien', link: '/Terminverwaltung/iCal-Dateien/' },

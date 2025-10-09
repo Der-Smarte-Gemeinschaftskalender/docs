@@ -147,7 +147,7 @@ Hier erfahren Sie, wie Sie Nutzer*innen und Organisationen Ihrer Instanz verwalt
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;">Zur Instanzverwaltung »</a>
+  border-radius:4px;">Zur Instanzadministration »</a>
 
 ## Dokumentation für Entwickler*innen
 
