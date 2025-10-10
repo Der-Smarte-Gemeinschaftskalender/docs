@@ -98,22 +98,12 @@ Jede Organisation verfügt über eine eigene **Organisationsseite** innerhalb de
 Die hier eingetragene Beschreibung erscheint auf dieser Seite und sollte Besucher*innen einen klaren Eindruck darüber geben, wer Sie sind und welche Art von Veranstaltungen zu erwarten ist.  
 Die Beschreibung ist ein **Pflichtfeld**.
 
-#### URL
-Hier können Sie optional die **Webadresse** Ihrer Organisation eintragen. Empfohlen ist die Startseite oder eine Unterseite wie *Über uns*.  
-Die URL wird auf der Organisationsseite verlinkt.
-
-#### Profilbild / Organisationslogo
-Optional können Sie ein **Logo oder Profilbild** Ihrer Organisation hochladen, um Ihren digitalen Markenauftritt zu stärken. Das Logo erscheint auf Ihrer Organisationsseite, in der Übersicht aller Organisationen Ihrer Instanz sowie im **Markenkit des Werbemittelgenerators**.  
-Wir empfehlen eine **hochauflösende Version** Ihres Logos als **PNG- oder SVG-Datei**.
-
-#### Adresse
-Die Adresse ist ein optionales Feld. Sie wird auf der Organisationsseite angezeigt und zusätzlich beim **Werbemittelgenerator** als **Absenderangabe** auf Veranstaltungsübersichten verwendet. 
-
 ### Organisationserstellung anfragen
 
 Nachdem alle Pflichtfelder ausgefüllt sind, klicken Sie auf **Organisationserstellung anfragen**. Nun erscheint Ihre angefragte Organisation in der Tabelle "Angefragte Organisationen".
 Ihre Anfrage wird an die **Instanzadministration** weitergeleitet. Sobald diese genehmigt wurde, wird Ihre Organisation freigeschaltet und kann von Ihnen verwaltet werden.
 Ihre Organisation erscheint dann im Bereich "Meine Organisationen. Nun können Sie Mitglieder einladen, Ihre Organisation verwalten und Veranstaltungen im Namen Ihrer Organisation veröffentlichen.
+Es empfiehlt sich, dass Sie nun Ihere [Organisation bearbeiten](#organisation-bearbeiten), um Informationen wie das Profilbild oder Ihre Adresse zu ergänzen.
 
 
 ## Organisationsadministration
@@ -131,11 +121,17 @@ Die Tabelle zeigt eine Übersicht aller Organisationen, in denen Sie Mitglied si
 ### Organisation bearbeiten
 
 Über den Button **Bearbeiten** gelangen Sie zum Formular, mit dem Sie die Angaben Ihrer Organisation anpassen können.  
-Das Formular ist **identisch aufgebaut** wie das Formular zur Organisationserstellung  
-([siehe Organisation erstellen](./#organisation-erstellen-zugang-fur-veranstalter-innen)).
 
-Hier können Sie unter anderem den **Organisationsnamen**, die **Beschreibung**, das **Profilbild** oder die **Adresse** ändern.  
-Der **Benutzername der Organisation** ist aus Gründen der internen Identifikation nicht veränderbar.  
+Hier können Sie unter anderem den **Organisationsnamen** sowie die **Beschreibung** der Organisation ändern (siehe [Organisationserstellung](#schritt-2-formular-zur-organisationserstellung)). Der **Benutzername der Organisation** ist aus Gründen der internen Identifikation nicht veränderbar. 
+
+Zudem kann ein Profilbild und eine Adresse ergänzt werden:
+
+#### Profilbild / Organisationslogo
+Optional können Sie ein **Profilbild bzw. Logo** Ihrer Organisation hochladen, um Ihren digitalen Markenauftritt zu stärken. Das Logo erscheint auf Ihrer Organisationsseite, in der Übersicht aller Organisationen Ihrer Instanz sowie im **Markenkit des Werbemittelgenerators**.  
+Wir empfehlen eine **hochauflösende Version** Ihres Logos als **PNG- oder SVG-Datei**.
+
+#### Adresse
+Die Adresse ist ein optionales Feld. Sie wird auf der Organisationsseite angezeigt und zusätzlich beim **Werbemittelgenerator** als **Absenderangabe** auf Veranstaltungsübersichten verwendet. 
 
 Sobald Sie die gewünschten Änderungen vorgenommen haben, klicken Sie auf **Änderungen speichern**, um die Anpassungen zu übernehmen.
 
