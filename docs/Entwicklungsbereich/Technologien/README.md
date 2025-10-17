@@ -1,7 +1,7 @@
 
 [« Zurück](/get-started)
 
-#Technologien
+# Technologien
 
 In diesem Projekt kommen verschiedene Technologien zum Einsatz. Wir haben die wichtigsten davon hier einmal kurz aufgelistet und ausgeführt. Detaillierte Informationen zu allen Technologien sind im Software-Repository zu finden.
 
@@ -16,9 +16,13 @@ Mit den Migrationen können wir direkt Veränderungen in der Datenbank vornehmen
 Eine Besonderheit ist, dass alle benutzer- bzw. organisationsbezogenen Interaktionen direkt mit der Mobilizon-Instanz und deren GraphQL-Schnittstelle kommunizieren.Im Software Repository ist das unter der Ordner `/backend` zu finden. 
  
 
-#Frontend: Vue.js
+## Frontend: Vue.js
 
 Im Frontend benutzen wir, genauso wie das Mobilizon-Projekt, [Vue.js](https://vuejs.org/). Vue.js ist ein JavaScript-Framework, das wir nach Möglichkeit typisiert mit [Typescript](https://www.typescriptlang.org/) benutzen. Im Software-Repository ist dies unter dem Ordner `/frontend` zu finden. Die Kommunikation zwischen dem Backend und dem Frontend findet per REST-Schnittstelle statt. Zur Authentifizierung werden JWTs benutzt, wenn sich Benutzer anmelden. Eine Besonderheit des Projekts ist, dass alle öffentlichen Informationen (Suche nach Veranstaltungen, Anzeige einer Einzelveranstaltung usw.) nicht vom Laravel-Backend, sondern direkt von Mobilizon über die GraphQL-Schnittstelle kommen. 
+
+### Karten
+
+Im internen Bereich wird bei der Suche nach Adressen und im öffentlichen Bereich bei der Anzeige von Veranstaltungen und Organisationen, sofern eine Adresse vorhanden ist, diese auch auf einer Karte dargestellt. Dafür wird ein Service von [OpenStreetMap](https://osmfoundation.org) genutzt. Die Nutzung des Services ist kostenlos und wird durch Sponsoren und Spenden finanziert. Es gibt keine Garantie für die Verfügbarkeit. Alle Details dazu gibt es auf Englisch hier: ["Tile Usage Policy"](https://operations.osmfoundation.org/policies/tiles/)
 
 ## Kern UX als barrierefreie Gestaltungsgrundlage
 
@@ -33,5 +37,4 @@ Die bereitgestellten UI-Komponenten entsprechen mindestens dem **AA-Level der BI
 * **Reduktion von Designbrüchen:** Das Design-System bietet Richtlinien, um ein konsistentes Erscheinungsbild öffentlicher Verwaltungsangebote zu sichern und eine gleichbleibende Servicequalität zu garantieren.
 
 * **Zukunftsfähig & nachnutzbar:** Kern UX ist ein wachsender Standard, der Pilotprojekte und Fachcommunity einbindet und eine sukzessive *bundesweite Ausweitung* anstrebt.  
-
 
