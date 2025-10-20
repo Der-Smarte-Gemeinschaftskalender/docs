@@ -137,7 +137,7 @@ Sobald Sie die gewünschten Änderungen vorgenommen haben, klicken Sie auf **Än
 
 ### Mitglieder verwalten
 
-Über den Button **Mitglieder verwalten** gelangen Sie zur Übersicht aller Mitglieder einerOrganisation.  
+Über den Button **Mitglieder verwalten** gelangen Sie zur Übersicht aller Mitglieder einer Organisation.  
 In der Tabelle sehen Sie, welche Personen bereits **aktive Mitglieder** sind und welche lediglich eine **Einladung** erhalten haben.  
 
 #### Mitglieder entfernen
