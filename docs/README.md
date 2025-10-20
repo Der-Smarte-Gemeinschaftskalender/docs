@@ -69,12 +69,10 @@ Unsere Vision ist ein Netzwerk, durch das Bürger*innen einen umfassenden Überb
   border-radius:4px;">Jetzt Kontakt aufnehmen »
 </a>
 
-## Gefördert durch das Land
+## Finanziert durch das Land
 
-Dieses Projekt wird im Rahmen des [**Landesprogramms Offene Innovation**](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation)  
-durch den **DigitalHub.SH** gefördert.  
-Damit unterstützt das Land Schleswig‑Holstein **Open-Source-Projekte**, die digitale Souveränität und Innovation stärken.
-
+Die Entwicklung des Projekts wurde im Rahmen des [**Landesprogramms Offene Innovation der Staatskanzlei Schleswig-Holstein**](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation) finanziert – betreut und begleitet durch den DigitalHub.SH. 
+Damit unterstützt das Land Schleswig‑Holstein **Open-Source-Projekte**, die digitale Souveränität und Innovation stärken. 
 
 ## Open Source & Selbst-Hosting
 
