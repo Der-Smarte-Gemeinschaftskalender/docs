@@ -74,6 +74,8 @@ Unsere Vision ist ein Netzwerk, durch das Bürger*innen einen umfassenden Überb
 Die Entwicklung des Projekts wurde im Rahmen des [**Landesprogramms Offene Innovation der Staatskanzlei Schleswig-Holstein**](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation) finanziert – betreut und begleitet durch den DigitalHub.SH. 
 Damit unterstützt das Land Schleswig‑Holstein **Open-Source-Projekte**, die digitale Souveränität und Innovation stärken. 
 
+<img src="./echtdigital-Dachmarke-RGB.jpg" alt="Logo-Kombination aus Logo echt.digital + Logo Dachmarke des Landes Schleswig-Holstein" style="width:500px;"> 
+
 ## Open Source & Selbst-Hosting
 
 Der Kalender wird unter einer **Open-Source-Lizenz** veröffentlicht:  
