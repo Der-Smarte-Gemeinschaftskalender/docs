@@ -33,20 +33,26 @@ Der Smarte Gemeinschaftskalender ist unter der MIT-Lizenz veröffentlicht. Das b
 **Offen und erweiterbar:** 
 Durch eine moderne, offene Architektur ist der Smarte Gemeinschaftskalender langfristig ausbaufähig und lässt sich flexibel an lokale Bedürfnisse anpassen. 
 
+## Finanzierung & Kooperation
 
-## Förderung & Kooperation 
+Die Entwicklung des *Smarten Gemeinschaftskalenders* wurde im Rahmen des [Landesprogramms Offene Innovation der Staatskanzlei Schleswig-Holstein](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation) finanziert und vom [DigitalHub.SH](https://digitalhub.sh) begleitet und betreut.  
+Der *Call for Concepts* für die Förderinitiative wurde 2024 erstmals ausgerufen – gesucht wurden Ideen für **Open-Source-Softwarelösungen**, die auf die spezifischen Anforderungen öffentlicher und gemeinnütziger Organisationen in Schleswig-Holstein zugeschnitten sind. Ziel der Finanzierung ist es, nachhaltige digitale Projekte mit echtem Mehrwert zu fördern, die **Flexibilität**, **Effizienz** und **langfristige Unabhängigkeit** ermöglichen.
 
-Das Projekt *Der Smarte Gemeinschaftskalender* wird im Rahmen des [Landesprogramms Offene Innovation](https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation) durch den [DigitalHub.SH](https://digitalhub.sh) gefördert. Der Call for Concepts wurde 2024 erstmals ausgerufen: Gesucht wurden Ideen für **Open-Source-Softwarelösungen**, die spezifische Bedürfnisse öffentlicher und gemeinnütziger Organisationen in Schleswig-Holstein adressieren. Ziel dieser Förderung ist es, nachhaltige digitale Projekte mit echtem Mehrwert zu ermöglichen, die Flexibilität, Effizienz und langfristige Unabhängigkeit sicherstellen. 
-
-Teilnehmen konnten öffentliche Verwaltungen und gemeinnützige Organisationen oder Vereine in Kooperation mit einem Digitalunternehmen aus Schleswig-Holstein als Umsetzungspartner. Der Smarte Gemeinschaftskalender wurde in Zusammenarbeit von [Smart City Amt Süderbrarup](https://smartcityamtsuederbrarup.de) und der [54 Grad Software GmbH](https://54gradsoftware.de) für die technische Umsetzung realisiert. 
+Teilnahmeberechtigt waren öffentliche Verwaltungen sowie gemeinnützige Organisationen und Vereine in Kooperation mit einem Digitalunternehmen aus Schleswig-Holstein als Umsetzungspartner.  
+Der *Smarte Gemeinschaftskalender* entstand in Zusammenarbeit des [Smart City Amtes Süderbrarup](https://smartcityamtsuederbrarup.de) und der [54 Grad Software GmbH](https://54gradsoftware.de), die bei der Konzeption unterstützte und die technische Umsetzung realisierte.
 
 ### Warum Open Source gefördert wird
-Die Förderung ist bewusst auf Open-Source-Projekte ausgerichtet. So bleiben die entwickelten Lösungen öffentlich zugänglich, nachnutzbar und erweiterbar. Für Schleswig‑Holstein bedeutet das: mehr digitale Souveränität, weniger Doppelentwicklungen und eine skalierbare Innovationsbasis, von der auch andere Kommunen und Organisationen profitieren können. Zugleich wird die regionale Wertschöpfung gestärkt, indem die Projekte in enger Zusammenarbeit mit Unternehmen vor Ort umgesetzt werden.
+
+Die Initiative ist bewusst auf **Open-Source-Projekte** ausgerichtet:  
+Entwickelte Lösungen bleiben öffentlich zugänglich, nachnutzbar und erweiterbar.  
+Für Schleswig-Holstein bedeutet das **mehr digitale Souveränität**, **weniger Doppelentwicklungen** und eine **skalierbare Innovationsbasis**, von der auch andere Kommunen und Organisationen profitieren können.  
+Zugleich stärkt das Programm die regionale Wertschöpfung, da die Projekte in enger Zusammenarbeit mit lokalen Unternehmen umgesetzt werden.
+
 
 ### Bedeutung für den Smarten Gemeinschaftskalender
-Für den Smarten Gemeinschaftskalender bildet diese Förderung das Fundament: Sie ermöglicht die technische Entwicklung, stellt sicher, dass der Kalender als Open-Source-Software frei verfügbar bleibt und unterstützt die langfristige Vision, eine skalierbare und barrierefreie Plattform für Termine und Veranstaltungen in ganz Schleswig‑Holstein und darüber hinaus zu schaffen.
+Für den Smarten Gemeinschaftskalender bildet die Finanzierung durch die öffentlichen Gelder das Fundament: Sie ermöglicht die technische Entwicklung, stellt sicher, dass der Kalender als Open-Source-Software frei verfügbar bleibt und unterstützt die langfristige Vision, eine skalierbare und barrierefreie Plattform für Termine und Veranstaltungen in ganz Schleswig‑Holstein und darüber hinaus zu schaffen.
 
-## Föderation einzelner Kalenderinstanzen
+## Föderation – vernetzt und doch souverän
 
 Eine besondere Stärke des Smarten Gemeinschaftskalenders ist sein **föderiertes System.** Das Prinzip der Föderation kennen wir aus unserem deutschen Staat: **Der Bund und die Länder sind eigenständig, aber miteinander vernetzt** – genau so funktioniert der Kalender.
 
