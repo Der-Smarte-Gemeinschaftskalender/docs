@@ -166,6 +166,20 @@ Hier erfahren Sie, wie Sie eine eigene Instanz des Smarten Gemeinschaftskalender
   border-radius:4px;"> Mehr über das Hosting »
 </a>
 
+
+### Kalendar einbinden
+
+Hier erfahren Sie, wie Sie die Termine vom Smarten Gemeinschaftskalender auf einer anderen Webseite anzeigen lassen können. 
+
+<a href="/Entwicklungsbereich/Kalender%20einbinden/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;"> Mehr über Kalendar einbinden »
+</a>
+
 ### Repositories
 Greifen Sie auf die Open-Source-Repositories zu und tragen Sie zur Weiterentwicklung des Smarten Gemeinschaftskalenders bei.
 
