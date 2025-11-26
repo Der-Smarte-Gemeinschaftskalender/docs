@@ -1,7 +1,7 @@
 
 [« Zurück](/get-started)
 
-# Kalendar einbinden
+# Kalender einbinden
 
 Du kannst die Termine vom Smarten Gemeinschaftskalender auf anderen Webseiten anzeigen. Damit diese Integration möglichst einfach ist, kannst du auf der Startseite auf „Benachrichtigungen abonnieren” => „Script einbinden” eine einfache Möglichkeit dieses Script zu erstellen.
 
