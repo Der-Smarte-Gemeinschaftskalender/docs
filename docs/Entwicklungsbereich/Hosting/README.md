@@ -65,6 +65,6 @@ Einen Server oder V-Server kann man zum Beispiel - sehr nachhaltig bei z.B. [Win
 
 Wenn ihr das alles richtig konfiguriert habt, müsst ihr einfach nur noch `ansible-playbook -i inventory/tavias.de.yml playbook.yml` ausführen.
 
-** Wichtig: ** Beachtet die Punkte von `Wichtige Infos für die erste Installation`. 
+**Wichtig:** Beachtet die Punkte von `Wichtige Infos für die erste Installation`. 
 
-** Hinweis: ** Den Geocash könnt ihr aus den Geo Koordinaten erstellen. Z.B. [mit diesem Online Tool](https://www.movable-type.co.uk/scripts/geohash.html).
+**Hinweis:** Den Geocash könnt ihr aus den Geo Koordinaten erstellen. Z.B. [mit diesem Online Tool](https://www.movable-type.co.uk/scripts/geohash.html).
