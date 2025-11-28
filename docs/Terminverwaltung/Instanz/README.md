@@ -28,7 +28,7 @@ Damit behalten Administrator*innen jederzeit den Überblick, welche Organisation
 
 ## Nutzer*innen verwalten
 
-Über den Reiter **Nutzer*/innen verwalten** erhalten Administrator*innen eine Übersicht über alle Personen, die Zugriff auf den Veranstaltungskalender der Instanz haben.  
+Über den Reiter **Nutzer*\innen verwalten** erhalten Administrator*innen eine Übersicht über alle Personen, die Zugriff auf den Veranstaltungskalender der Instanz haben.  
 
 ### Nutzer*innen-Übersicht
 In der Tabelle sehen Sie alle vorhandenen Nutzer*innen mit folgenden Angaben:  

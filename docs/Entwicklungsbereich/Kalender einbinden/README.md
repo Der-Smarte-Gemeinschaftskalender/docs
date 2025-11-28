@@ -8,3 +8,7 @@ Du kannst die Termine vom Smarten Gemeinschaftskalender auf anderen Webseiten an
 Es gibt die Möglichkeit, nach **Organisationen** und **Kategorien** zu filtern. Wenn du alle Organisationen und alle Kategorien anzeigen lassen möchtest, musst du nichts verändern.
 
 Im unteren Teil gibt es zwei Ausgaben. Einmal die Einbindung des JavaScript Imports. Dieses kommt idR in die Head Datei deiner Webseite und den HTML Tag. Den HTML Tag solltest du dort platzieren, wo die Anzeige der Termine stattfinden soll. Standardmäßig werden nur 5 Termine angezeigt. Das kannst du aber auch über den Parameter `data-limit` ändern.
+
+<script src="https://demo-dev2.der-smarte-gemeinschaftskalender.de/fetchEvents.js"  data-organisation-username="ALL" data-category="ALL" data-limit="5" id="dsg-event-script" data-dsg-url="https://tavias.de"></script>
+
+<ul id="dsg-event-list"></ul>

@@ -26,7 +26,7 @@ Dort befindet sich der Quellcode der Software sowie begleitende technische Dokum
 
 ## OpenCode
 
-Zukünftig werden die Software-Repositories zusätzlich auf der Open-Source-Plattform des Landes Schleswig-Holstein veröffentlicht:  
-[https://opencode.sh](https://opencode.sh)
+Das Repository wird auch gespiegelt auf OpenCode:
+[https://gitlab.opencode.de/sh/digitalhub-sh/landesprogramm-offene-innovationen/smarter-gemeinschaftskalender](https://gitlab.opencode.de/sh/digitalhub-sh/landesprogramm-offene-innovationen/smarter-gemeinschaftskalender)
 
 Damit sind sie auch im Landeskontext zugänglich, nachnutzbar und transparent dokumentiert.

@@ -167,7 +167,7 @@ Hier erfahren Sie, wie Sie eine eigene Instanz des Smarten Gemeinschaftskalender
 </a>
 
 
-### Kalendar einbinden
+### Kalender einbinden
 
 Hier erfahren Sie, wie Sie die Termine vom Smarten Gemeinschaftskalender auf einer anderen Webseite anzeigen lassen können. 
 
@@ -177,7 +177,7 @@ Hier erfahren Sie, wie Sie die Termine vom Smarten Gemeinschaftskalender auf ein
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;"> Mehr über Kalendar einbinden »
+  border-radius:4px;"> Mehr über Kalender einbinden »
 </a>
 
 ### Repositories
