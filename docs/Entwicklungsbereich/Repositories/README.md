@@ -20,7 +20,7 @@ Wenn Sie einen Fehler entdecken, freuen wir uns über einen [Pull Request](https
 ### Anwendung: Der Smarte Gemeinschaftskalender
 
 Das Repository zur Anwendung selbst finden Sie hier:  
-[https://github.com/Der-Smarte-Gemeinschaftskalender/kalender](https://github.com/Der-Smarte-Gemeinschaftskalender/kalender)
+[https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender)
 
 Dort befindet sich der Quellcode der Software sowie begleitende technische Dokumentation.
 
