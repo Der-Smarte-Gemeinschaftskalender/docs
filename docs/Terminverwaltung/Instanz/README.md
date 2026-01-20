@@ -53,6 +53,11 @@ Dafür geben Sie folgende Informationen an:
 
 Mit einem Klick auf **Benutzer anlegen** wird das Profil gespeichert und steht anschließend in der Übersicht zur Verfügung. Neue Nuttzer*innen können sich dann [mit ihrem Benutzernamen zu einer Organisation einladen lassen](/Terminverwaltung/Organisation/#nachste-schritte). 
 
+## Freigabemodus (Strict Mode)
+
+### Terminfreigabe – (Strict Mode)
+
+### Organisationsfreigabe – (Strict Mode)
 
 ## Instanz verwalten
 
