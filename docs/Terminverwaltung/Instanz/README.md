@@ -53,11 +53,117 @@ Dafür geben Sie folgende Informationen an:
 
 Mit einem Klick auf **Benutzer anlegen** wird das Profil gespeichert und steht anschließend in der Übersicht zur Verfügung. Neue Nuttzer*innen können sich dann [mit ihrem Benutzernamen zu einer Organisation einladen lassen](/Terminverwaltung/Organisation/#nachste-schritte). 
 
-## Freigabemodus (Strict Mode)
+## Strikter Freigabemodus (Strict Mode)
+
+Der strikte Freigabemodus ist eine Konfigurationsoption des Smarten Gemeinschaftskalenders, die der Instanzadministration eine erweiterte Kontrolle über veröffentlichte Inhalte ermöglicht. Anfragen zur Erstellung oder Bearbeitung von Terminen und Organisationen müssen vor der Veröffentlichung durch die Instanzadministration genehmigt werden.
+
+Der Strict Mode stellt eine grundlegende Konfigurationsentscheidung dar und wird beim initialen [Hosting](https://der-smarte-gemeinschaftskalender.de/Entwicklungsbereich/Hosting/) festgelegt.
+
+In diesem Abschnitt werden die Besonderheiten des Freigabemodus sowie der zugehörige Freigabeprozess erläutert.
 
 ### Terminfreigabe – (Strict Mode)
 
+Im **strikten Freigabemodus** steht Instanzadministrator*innen im Administrationsbereich der zusätzliche Menüpunkt **Terminfreigabe** zur Verfügung. Dieser wird ausschließlich angezeigt, wenn der Strict Mode aktiviert ist und eine Anmeldung mit administrativen Rechten erfolgt.
+
+#### Übersicht offener Terminanfragen
+
+Im Bereich Terminfreigabe wird eine Tabellenansicht angezeigt, die **alle offenen Anfragen zur Terminerstellung sowie zur Bearbeitung bereits genehmigter Termine** umfasst. Jede Tabellenzeile repräsentiert eine einzelne Genehmigungsanfrage und enthält unter anderem Informationen zur Art der Aktion, zum Titel des Termins, zur Person, die die Anfrage erzeugt hat sowie zum Zeitpunkt der Anfrage.
+
+Über den Button **„Ansehen“** gelangen Sie zur **Terminfreigabe – Detailansicht**.
+
+#### Terminfreigabe – Detailansicht
+
+In der Detailansicht werden sämtliche Angaben angezeigt, die von der Organisation im Rahmen der Terminerstellung oder -bearbeitung hinterlegt wurden. Die Darstellung entspricht inhaltlich dem Formular zur Terminerstellung und ermöglicht eine vollständige fachliche Prüfung des Termins.
+
+Zusätzlich werden zu Beginn der Ansicht folgende für die Freigabe relevante Metadaten hervorgehoben:
+
+- **Aktion**  
+  Gibt an, ob es sich um eine **neue Terminerstellung** oder um die **Bearbeitung eines bereits genehmigten Termins** handelt.
+
+- **Organisation**  
+  Die Organisation, unter deren Namen der Termin veröffentlicht werden soll bzw. wurde.
+
+- **ID**  
+  Automatisch vergebene einzigartike Kennummer für Termine und Organisationen.
+
+- **Erstellt von**  
+  Der/die Nutzer*in, die den Termin bzw. die Terminänderung erzeugt hat.
+
+- **Erstellt am**  
+  Der Zeitpunkt, zu dem die Genehmigungsanfrage eingereicht wurde.
+
+
+**Funktion: Kommentar der Administration**
+
+Im unteren Bereich der Detailansicht steht ein **optionales Kommentarfeld** zur Verfügung. Dieses ermöglicht der Instanzadministration, der Organisation bzw. dem/der anfragenden Nutzer*in gezielt Rückmeldungen zu übermitteln.
+
+Der Kommentar kann beispielsweise genutzt werden:
+
+- zur Begründung einer **Ablehnung**, um eine überarbeitete, genehmigungsfähige Anfrage zu ermöglichen,
+- zur **Hinweisgebung bei Genehmigungen**, etwa mit der Bitte um ergänzende Angaben (z. B. das Nachreichen eines Bildes),
+- zur allgemeinen fachlichen Rückmeldung.
+
+Der hinterlegte Kommentar wird nach der Entscheidung **automatisch per E-Mail** an die anfragende Stelle übermittelt.
+
+#### Entscheidung über die Anfrage
+
+Am Ende der Detailansicht kann die Terminanfrage über die entsprechenden Aktionen **genehmigt** oder **abgelehnt** werden.  
+Erst nach Genehmigung wird der Termin bzw. die Terminänderung in der **öffentlichen Kalenderansicht** veröffentlicht.
+
+
 ### Organisationsfreigabe – (Strict Mode)
+
+Die **Organisationsfreigabe** ist im Smarten Gemeinschaftskalender grundsätzlich **immer genehmigungspflichtig**. Unabhängig vom aktivierten Modus müssen neu angelegte Organisationen vor ihrer Veröffentlichung durch die Instanzadministration freigegeben werden.  
+
+Im **strikten Freigabemodus (Strict Mode)** wird diese Genehmigungspflicht zusätzlich auf **Änderungen an bestehenden Organisationsinformationen** ausgeweitet. Änderungen an Organisationsdaten werden in diesem Modus erst nach administrativer Freigabe wirksam und öffentlich sichtbar.
+
+#### Übersicht offener Organisationsanfragen
+
+Über den Menüpunkt **Organisationsanfragen** gelangen Instanzadministrator*innen zu einer Tabellenansicht, in der alle offenen Anfragen zur **Organisationserstellung** sowie – bei aktiviertem Strict Mode – zur **Bearbeitung bestehender Organisationen** aufgeführt sind.
+
+Jeder Tabelleneintrag repräsentiert eine einzelne Genehmigungsanfrage. Über den Button **„Ansehen“** wird die **Detailansicht – Organisationsfreigabe** geöffnet.
+
+#### Organisationsfreigabe – Detailansicht
+
+In der Detailansicht werden die von der Organisation hinterlegten Informationen vollständig dargestellt und können fachlich geprüft werden.
+
+**Hinweis:** Bei der **Erstellung einer Organisation** werden zunächst ausschließlich die folgenden Angaben abgefragt:
+
+- **Organisationsname**
+- **Benutzername der Organisation**
+- **Beschreibung**
+
+Weitere Organisationsinformationen können erst **nachträglich durch eine Bearbeitung** ergänzt werden. Dazu zählen:
+
+- **Profilbild**
+- **Adresse**
+
+Diese ergänzenden Angaben unterliegen im Strict Mode ebenfalls der Genehmigungspflicht durch die Instanzadministration.
+
+Zu Beginn der Detailansicht werden zudem folgende Metadaten angezeigt:
+
+- **Aktion**  
+  Kennzeichnet, ob es sich um eine **neue Organisationserstellung** oder um die **Bearbeitung einer bestehenden Organisation** handelt.
+
+- **ID**  
+  Automatisch vergebene einzigartike Kennummer für Termine und Organisationen.
+
+- **Erstellt von**  
+  Der/die Nutzer*in, die die Organisation oder die Änderung angelegt hat.
+
+- **Erstellt am**  
+  Der Zeitpunkt der Einreichung der Genehmigungsanfrage.
+
+#### Kommentar der Administration
+
+Analog zur Terminfreigabe steht in der Detailansicht ein **optionales Kommentarfeld** zur Verfügung. Dieses ermöglicht es der Instanzadministration, der Organisation gezielt Rückmeldungen zu übermitteln, beispielsweise zur Begründung einer Ablehnung oder zur Benennung gewünschter Anpassungen.
+
+Der hinterlegte Kommentar wird nach der Entscheidung **automatisch per E-Mail** an den/die Ersteller*in der Genehmigungsanfrage übermittelt.
+
+#### Entscheidung über die Anfrage
+
+Am Ende der Detailansicht kann die Anfrage zur Organisationserstellung oder -änderung **genehmigt** oder **abgelehnt** werden. Organisationen und geänderte Organisationsinformationen werden erst nach erfolgreicher Freigabe **öffentlich im Kalender angezeigt**.
+
 
 ## Instanz verwalten
 
