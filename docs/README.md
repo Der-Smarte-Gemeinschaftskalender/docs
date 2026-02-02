@@ -13,17 +13,17 @@ actions:
     type: secondary
 features:
   - title: Vielfältige Benachrichtigungen
-    details: Keine Veranstaltung mehr verpassen, dank E-Mail-Abonnements, Webseiten-Integrationen und mehr.
+    details: Termine flexibel verbreiten: per E-Mail-Abonnement für Bürger*innen, über Website-Integrationen sowie durch Infomonitor-Ansichten (per URL) für Veranstalter*innen – alles mit wenigen Klicks personalisierbar.
   - title: Barrierefreiheit
     details: Veranstaltungsinformationen, die für alle zugänglich sind. Inklusiv und benutzerfreundlich mit Kern-UX-Grundlage.
   - title: Vernetzte Kalenderlandschaft
     details: Veranstaltungen über die Kalenderinstanz-Grenzen hinaus entdecken. Die unabhängig geführten Kalender lassen sich miteinander vernetzen.
   - title: Open Source & Souveränität
-    details: Quelloffen, weiterentwickelbar und ohne Lizenzgebühren – volle Datenhoheit für Betreiber*innen.
-  - title: Effiziente Verwaltung
-    details: Automatisierte Importe, Serientermine, Werbemittelgenerator und vieles mehr.
+    details: Quelloffen, weiterentwickelbar und ohne Lizenzgebühren: Die Plattform ist werbefrei, gewährt volle Datenhoheit für Betreiber*innen und stellt Veranstaler*innen kostenfreie Zugänge zur Verfügung.
+  - title: Effiziente Terminverwaltung
+    details: Veranstalter*innen erstellen und verwalten ihre Termine unkompliziert selbst: Serientermine angelegn, Termine aus digitalen Kalendern synchronisieren, Kalenderdateien importieren, mit dem Werbemittelgenerator Veranstaltungsankündigungen erstellen und mehr – alles an einem Ort.
   - title: Einfach & intuitiv
-    details: Eine benutzerfreundliche Oberfläche, die Nutzer*innen und Veranstalter*innen gerne benutzen.
+    details: Konzipiert für den echten Alltag: Eine benutzerfreundliche Oberfläche, die Bürger*innen und Veranstalter*innen gerne benutzen – auch ohne technische Vorkenntnisse.
 footer: Dokumentation von 54 Grad Software GmbH 
 ---
 
