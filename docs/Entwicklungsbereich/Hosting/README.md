@@ -30,7 +30,7 @@ Einen Server oder V-Server kann man zum Beispiel - sehr nachhaltig bei z.B. [Win
 
  Um zu starten brauchst du einen einen (V-)Server  und einen Rechner mit installierten Ansible. Die Informationen dazu findest auf auf der Ansible Webseite. Innerhalb des Repositories gibt es im Order ["deployment"](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/tree/main/deplyoment) alle Dateien zu Ansible. Ihr müsst euch auf dem Server per SSH verbinden können. Dort nimmst du am besten die `inventory/example.yml` als Vorlage und bennst diese um. In unserem Fall für `tavias.de.yml`. Überal wo in der Bedeutung "Anpassen:" steht, müssen auf deine Konfiguration zwingend angepasst werden!
 
-`
+
 | yml key | Beispielwert | Bedeutung |
 | -- | -- | -- |
 | ansible_host | 192.168.1.1 | Anpassen: IP-Adresse des Zielservers für die Ansible-Bereitstellung |
@@ -56,15 +56,43 @@ Einen Server oder V-Server kann man zum Beispiel - sehr nachhaltig bei z.B. [Win
 | mail_encryption | tls | Verschlüsselungsmethode für E-Mail-Versand |
 | mail_from_address | mailbot@example.de | Anpassen: Absenderadresse für ausgehende E-Mails |
 | app_name | "Mein Kalender" | Anpassen: Anzeigename der Anwendung |
-| frontend_instance_name | "TAViAS" | Anpassen: Name der Frontend-Instanz |
-| frontend_landing_page_description | "Termine in..." | BAnpassen: eschreibungstext für die Startseite |
-| frontend_operated_by | "Amt Süderbrarup" | Anpassen: Name des Betreibers der Instanz |
-| frontend_search_location_address | "24392 Süderbrarup" | Anpassen: Standardadresse für die Ortssuche |
-| frontend_search_location_geo_hash | "u1wyy3xs" | Anpassen: Geohash für die Standard-Suchposition |
-| frontend_search_target | "INTERNAL" | Anpassen: Ziel der Suche (intern oder extern) |
+| strict_mode |  "true" oder "false" | Konfiguration ob die Instanz im [Striktem Freigabemodus Modus](/Terminverwaltung/Instanz/#strikter-freigabemodus-strict-mode) läuft |
 
 Wenn ihr das alles richtig konfiguriert habt, müsst ihr einfach nur noch `ansible-playbook -i inventory/tavias.de.yml playbook.yml` ausführen.
 
 **Wichtig:** Beachtet die Punkte von `Wichtige Infos für die erste Installation`. 
 
+### Instance Config
+Damit die einzelnen Instanzen an die eigene Organisation oder Kampagne angepasst werden können, gibt es die [instanceConfig.ts](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/frontend/src/lib/instanceConfig.ts)
+
+Dies ist eine Standarddatei, die ausgetauscht werden kann. Mit dieser Datei lassen sich verschiedene Einstellungen für die Instanz vornehmen, z. B.:
+- die Anzeige der Verlinkung auf externe Navigationsdienste `showPhysicalAddressRouting`
+- die Arten der Erstellung von Terminen `allowedEventCreationsMethods`
+- Welche Texte auf der Startseite angezeigt werden, welche Bereiche angezeigt werden und wie Termine angezeigt werden: `landingPage`
+- Standardwerte für die Suchfilter, z. B. ein bestimmtes Gebiet: `searchDefaults`
+- Welche Texte und Links im Haupt-Header angezeigt werden: `mainHeader`
+- Standardwerte für die Kategorie beim Erstellen eines neuen Termins: `createEventDefaults`
+- Je nach Konfiguration kann für Veranstaltungen, die kein eigenes Bild hinterlegt haben, das Standardbild abhängig von der Kategorie angezeigt werden `defaultEventImageBasedOnCategory`
+- Standard-Kartenzentrierung und Kartenausschnitt: `eventsMap`
+
 **Hinweis:** Den Geocash könnt ihr aus den Geo Koordinaten erstellen. Z.B. [mit diesem Online Tool](https://www.movable-type.co.uk/scripts/geohash.html).
+
+### Default Dateien
+
+Mit der Instance Config lässt sich nicht nur die Instanz personalisieren, sondern es lassen sich auch sehr viele Dateien austauschen. Im Repository gibt es deswegen das Projekt `example-termine.di.day.yml` und den Ordner `deploy/roles/dsgdev/files/example-termine.di.day`, in dem sich die Beispiele für die Anpassungen von[termine.di.day](https://termine.di.day/) befinden. Der Ordner muss dabei genauso heißen wie die YAML-Datei. Es werden nur die Anpassungen übernommen, die im Ordner hinterlegt sind. Für den Rest werden die Standarddateien verwendet. 
+
+Die genaue Liste der Anpassungsmöglichkeiten findet man in folgender Datei: [deplyoment/roles/dsgdev/tasks/main.yml](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/deplyoment/roles/dsgdev/tasks/main.yml)
+
+Liste der möglichen Anpassungen:
+- Logo `logo.png`
+- Startseiten Bild `notifications.png`
+- Standardbild für Karten. Also für Veranstaltungen und Organisation `default_card.png`
+- Ordner mit diversen Dateien für Favicons z.B. erstellt mit [realfavicongenerator.net](https://realfavicongenerator.net/) `favicons`
+- Ordner mit Standardbildern für den Werbemittelgenerator `material_generator`
+- Neue Konfiguration für Kategorien und Oberkategorien und `categoryOptions.ts`
+- Die Instance Config (siehe oben) `instanceConfig.ts`
+- Für Style Anpassungen `app.scss`
+- Für Anpassungen bezüglich hinterlegte Favicons oder [Link Vorschau Informationen](https://www.seobility.net/en/wiki/Open_Graph) `index.html`
+
+### (Strikter) Freigabemodus
+Bei der Installation lässt sich der [Strikte Freigabemodus Modus](/Terminverwaltung/Instanz/#strikter-freigabemodus-strict-mode) konfigurieren. Hierbei ist zu beachten, dass bei einer bestehenden Instanz alle bestehenden Termine, Organisationen, Serientermine und Terminimporte erhalten bleiben, wenn dieser Modus geändert wird. Eine Änderung wird nicht empfohlen. **Wichtig:** In der `instanceConfig.ts` sollte unter `allowedEventCreationsMethods`  das nur `singleEvent: true` hinterlegt sein. 
