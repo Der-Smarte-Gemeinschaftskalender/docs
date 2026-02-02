@@ -31,8 +31,6 @@ footer: Dokumentation von 54 Grad Software GmbH
 
 Ein Projekt von der [**54 Grad Software GmbH**](https://54gradsoftware.de), [**Smart City Amt Süderbrarup**](https://smartcityamtsuederbrarup.de/) und dem [**Amt Süderbrarup**](https://www.amt-suederbrarup.de/).
 
-**Hinweis:** Der Smarte Gemeinschaftskalender befindet sich aktuell noch in der Entwicklung.
-
 <a href="./Einführung/" style="
   display:inline-block;
   padding:8px 16px;
@@ -41,6 +39,61 @@ Ein Projekt von der [**54 Grad Software GmbH**](https://54gradsoftware.de), [**S
   text-decoration:none;
   border-radius:4px;">Mehr über das Projekt »
 </a>
+
+## Praxisbeispiele: Der Smarte Gemeinschaftskalender im Einsatz
+
+Der Smarte Gemeinschaftskalender wird bereits in unterschiedlichen konexten produktiv eingesetzt. Die folgenden Instanzen zeigen exeplarisch, wie der Kalender sowohl auf kommunaler als auch auf landesweiter Ebene genutzt werden kann. 
+
+### TAViAS – Termine, Angebote & Veranstaltungen im Amt Süderbrarup
+
+TAViAS ist die **erste realisierte Kalenderinstanz** des Smarten Gemeinschaftskalenders. Sie richtet sich an Bürgerinnen und Bürger des **Amts Süderbrarup** und bündelt Veranstaltungen aus allen **13 amtsangehörigen Gemeinden** an einem zentralen Ort.
+
+Ziel des digitalen Kalenders ist es, einen niedrigschwelligen Überblick über lokale Veranstaltungsangebote zu ermöglichen und gleichzeitig Vereine, Initiativen und Organisationen bei der Terminverwaltung zu entlasten. 
+
+<a href="https://tavias.de" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Zur TVAiAS-Instanz »
+</a>
+
+
+### termine.di.day – Digital Independence Day (DI.DAY)
+
+Die KalenderInstanz termine.di.day wurde im Rahmen des Digital Idependence Day (DI.DAY) ins Leben gerufen. Der DI.DAY dezentrale Aktions- und Informationsinitiative, die dazu einläd, **digitale Alternativen zu marktbeherrschenden Big-tech-Plattformen kennenzulernen und auszuprobieren**. 
+
+An jeden ersten Sonntag im Monat finden anlässlich des DI.DAYs Veranstaltungen, Treffen und Aktionen statt, die auf der Kalender-Instanz gebündelt und Interessierten zugänglich bereitsgestellt werden. Ziel ist es, Menschen dabei zu unterstützen, **Schritt für Schritt digitale Selbstbestimmung und Unabhängigkeit** zu erlangen – etwa durch den Wechsel zu offenen, demokratie-freundlichen digitalen Diensten (wie dem Smarten Gemeinschaftskalender).
+
+<a href="termine.di.day" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Zur DI.DAY-Instanz »
+</a>
+
+
+### Landesweiter Veranstaltungskalender – „80 Jahre Schleswig-Holstein"
+
+Anlässlich des **80-jährigen Bestehens des Landes Schleswig-Holstein** im Jahr 2026 entsteht eine landesweite Kalenderinstanz des Smarten Gemeinschaftskalenders. Sie dient als **zentraler digitaler Veranstaltungskalender** für alle Aktivitäten rund um das Jubiläumsjahr „80 Jahre Schleswig-Holstein".
+
+Bürger*innen und Bürger, Vereine, Kommunen und Initiativen sind eingeladen, eigene Projekte und Veranstaltungen in den Kalender einzutragen. Ziel ist es, die Vielfalt der Aktionen sichtbar zu machen und **Beteiligung im ganzen Land** zu ermöglichen.  
+
+Dieser Einsatz des Smarten Gemeinschaftskalenders zeigt, wie er sich auch für den Einsatz von zeitlich begrenzten, thematisch fokussierten Großprojekten eignet. 
+
+<a href="veranstaltungen.80-jahre-sh.de" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Zur Jubiläums-Instanz "80 Jahre SH"  »
+</a>
+
+
 
 ## Auf einen Blick – Der Smarte Gemeinschaftskalender
 
@@ -56,7 +109,7 @@ Unsere Vision ist ein Netzwerk, durch das Bürger*innen einen umfassenden Überb
 
 
 > **Interesse am Smarten Gemeinschaftskalender?**  
-> Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben,  
+> Gemeinden, Vereine oder Organisationen, die den Smarten Gemeinschaftskalender nutzen möchten oder Ideen für neue Funktionen haben,  
 > können uns unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) erreichen.
 > Wir freuen uns auf Ihre Nachricht!
 
@@ -68,6 +121,7 @@ Unsere Vision ist ein Netzwerk, durch das Bürger*innen einen umfassenden Überb
   text-decoration:none;
   border-radius:4px;">Jetzt Kontakt aufnehmen »
 </a>
+
 
 ## Finanziert durch das Land
 
