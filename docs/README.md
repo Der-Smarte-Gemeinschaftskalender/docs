@@ -66,7 +66,7 @@ Die KalenderInstanz termine.di.day wurde im Rahmen des Digital Idependence Day (
 
 An jeden ersten Sonntag im Monat finden anlässlich des DI.DAYs Veranstaltungen, Treffen und Aktionen statt, die auf der Kalender-Instanz gebündelt und Interessierten zugänglich bereitsgestellt werden. Ziel ist es, Menschen dabei zu unterstützen, **Schritt für Schritt digitale Selbstbestimmung und Unabhängigkeit** zu erlangen – etwa durch den Wechsel zu offenen, demokratie-freundlichen digitalen Diensten (wie dem Smarten Gemeinschaftskalender).
 
-<a href="termine.di.day" style="
+<a href="https://termine.di.day" style="
   display:inline-block;
   padding:8px 16px;
   background-color:#2b2c6a;
@@ -84,7 +84,7 @@ Bürger*innen und Bürger, Vereine, Kommunen und Initiativen sind eingeladen, ei
 
 Dieser Einsatz des Smarten Gemeinschaftskalenders zeigt, wie er sich auch für den Einsatz von zeitlich begrenzten, thematisch fokussierten Großprojekten eignet. 
 
-<a href="veranstaltungen.80-jahre-sh.de" style="
+<a href="https://veranstaltungen.80-jahre-sh.de" style="
   display:inline-block;
   padding:8px 16px;
   background-color:#2b2c6a;
