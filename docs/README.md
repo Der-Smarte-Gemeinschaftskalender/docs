@@ -13,11 +13,11 @@ actions:
     type: secondary
 features:
   - title: Vielfältige Benachrichtigungen
-    details: "Termine flexibel verbreiten: per E-Mail-Abonnement für Bürger*innen, über Website-Integrationen sowie durch Infomonitor-Ansichten (per URL) für Veranstalter*innen – alles mit wenigen Klicks personalisierbar."
+    details: "Termine flexibel verbreiten – E-Mail-Abonnements für Bürger*innen sowie Website-Integrationen und Infomonitor-Ansichten (per URL) für Veranstalter*innen. Alles mit wenigen Klicks personalisierbar."
   - title: Barrierefreiheit
-    details: "Veranstaltungsinformationen, die für alle zugänglich sind. Inklusiv und benutzerfreundlich mit Kern-UX-Grundlage."
+    details: "Veranstaltungsinformationen, die für alle zugänglich sind. Inklusiv und benutzerfreundlich mit Kern-UX – dem UX-Standard für deutsche Verwaltungen."
   - title: Vernetzte Kalenderlandschaft
-    details: "Veranstaltungen über die Kalenderinstanz-Grenzen hinaus entdecken. Die unabhängig geführten Kalender lassen sich miteinander vernetzen."
+    details: "Veranstaltungen entdecken, die über die Grenzen der eigenen Kalenderinstanz hinaus gehen. Die unabhängig geführten Kalender lassen sich miteinander vernetzen."
   - title: Open Source & Souveränität
     details: "Quelloffen, weiterentwickelbar und ohne Lizenzgebühren: Die Plattform ist werbefrei, gewährt volle Datenhoheit für Betreiber*innen und stellt Veranstaler*innen kostenfreie Zugänge zur Verfügung."
   - title: Effiziente Terminverwaltung
