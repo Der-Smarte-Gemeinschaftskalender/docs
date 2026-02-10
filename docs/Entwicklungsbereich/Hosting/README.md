@@ -3,8 +3,6 @@
 
 # Hosting
 
-**Hinweis:** Weitere Inhalte zu diesem Bereich werden zeitnah ergänzt.
-
 ## Hinweise zur Instanzadministration
 
 Der initiale **Instanzadministrator**, der bei der technischen Einrichtung des Systems angelegt wird, sollte **nicht** für die Erstellung von Organisationen oder Benutzerprofilen verwendet werden. Dieser Administrator dient ausschließlich der **übergeordneten Instanzverwaltung** (z. B. technische Konfiguration, Systempflege).
@@ -15,20 +13,26 @@ Alle über diesen Weg angelegten Instanzadministratoren können anschließend wi
 
 Es können beliebig viele Administratoren mit Instanzrechten existieren. Diese Rechte sollten jedoch mit Bedacht vergeben werden.
 
-## Wichtige Infos für die erste Installation
+## Wichtige Informationen für die erste Installation: Registrierung freischalten
 
-Bei der ersten Installation legen wir den oben benannten Benutzer für die Instanzadministration an. Bevor sich die ersten Nutzer:innen registrieren können, muss in der Mobilizon-Oberfläche zunächst die Registrierung freigeschaltet werden. Aus Sicherheitsgründen ist diese immer zunächst deaktiviert. Das kannst du in der Oberfläche des smarten Gemeinschaftskalenders machen, indem du über das Seitenmenü auf „Instanz verwalten” => „Zur Instanzverwaltung auf Mobilizon” (mit den Zugangsdaten von der Seite) gehst, dann in der dortigen Oberfläche auf „Administration” => „Einstellungen der Instanz” und bei „Erlaube Registrierungen” Registrierungen erlaubst. Anschließend natürlich speichern.
+Bei der ersten Installation legen wir den oben genannten Benutzer für die Instanzadministration an. Bevor sich die ersten Nutzer*innen registrieren können, muss in der Mobilizon-Oberfläche zunächst die Registrierung freigeschaltet werden. Aus Sicherheitsgründen ist diese zunächst immer deaktiviert. 
+
+**Freischaltung vornehmen**: Im internen Bereich des Smarten Gemeinschaftskalenders finden Sie den Reiter „Instanz verwalten" (Seitenmenü). Hier werden Ihnen die Zugangsdaten für die Instanzadministration auf Mobilizon bereitgestellt. Über den Button „Zur Instanzverwaltung auf Mobilizon” gelangen Sie zur Mobilizon Oberfläche. Bitte loggen Sie sich mit den Zugangsdaten aus dem Bereich "Instanz verwalten" ein.
+
+Navigieren Sie zum Bereich „Administration” und dann zu „Einstellungen der Instanz”. Wählen Sie nun „Erlaube Registrierungen” aus und speichern Sie Ihre Änderungen.
 
 ## Server, Domain und Mailing
 
-Um eine eigene Instanz des smarten Gemeinschaftskalenders zu hosten, benötigst du einen Server. Je nachdem, wie viele Nutzende du erwartest und wie viele Termine du speichern möchtest, muss dieser unterschiedlich groß sein. Für den Anfang reicht etwas zwischen 2 vCPU/4 GB RAM und 4 vCPU/12 GB RAM. Außerdem brauchst du mindestens eine (Sub-)Domain, unter der die Instanz erreichbar ist, sowie eine weitere Subdomain für die Mobilizon-Installation. Mobilizon wird von unseren Installationsmöglichkeiten direkt mitinstalliert. Um E-Mails zu verschicken, benötigst du auch einen Mailpostfach mit SMTP-Zugangsdaten. Diese kannst du in der Konfiguration hinterlegen. 
-Einen Server oder V-Server kann man zum Beispiel - sehr nachhaltig bei z.B. [Windcloud](https://shop.windcloud.de/store/virtual-private-server) mieten. Es gibt aber auch noch andere Anbieter wie z.B.: [Hetzner](https://www.hetzner.com/de/cloud/) oder [Netcup](https://www.netcup.com/de/server/vps) 
+Um eine eigene Instanz des Smarten Gemeinschaftskalenders zu hosten, benötigen Sie einen Server. Je nachdem, wie viele Nutzende erwartet werden und wie viele Termine gespeichert werden sollen, muss dieser entsprechend groß sein. Für den Anfang reicht in der Regel etwas zwischen 2 vCPU/4 GB RAM und 4 vCPU/12 GB RAM. 
+
+Außerdem wird mindestens eine (Sub-)Domain benötigt, unter der die Instanz erreichbar ist sowie eine weitere Subdomain für die Mobilizon-Installation. Mobilizon wird von unseren Installationsmöglichkeiten direkt mitinstalliert. Um E-Mails zu verschicken, wird ein Mailpostfach mit SMTP-Zugangsdaten benötigt. Diese können in der Konfiguration hinterlegt werden. 
+Einen Server oder V-Server kann zum Beispiel sehr nachhaltig bei [Windcloud](https://shop.windcloud.de/store/virtual-private-server) gemietet werden. Es gibt aber auch noch andere Anbieter wie z. B.: [Hetzner](https://www.hetzner.com/de/cloud/) oder [Netcup](https://www.netcup.com/de/server/vps) 
 
 ## Ansible
 
-[Ansible](https://docs.ansible.com/) ist eine Plattform zur IT-Automatisierung, die komplexe administrative Aufgaben vereinfacht und standardisiert. Man kann damit sehr gut wiederkehrende Prozesse ("Infrastructure as Code") zeitsparend abbilden, damit ist die Installtation von dem Smartern Gemeinschaftskalender zeitsparen und reproduzierbar. Wir Empfehlen diese art der Installation.
+[Ansible](https://docs.ansible.com/) ist eine Plattform zur IT-Automatisierung, die komplexe administrative Aufgaben vereinfacht und standardisiert. Damit können wiederkehrende Prozesse ("Infrastructure as Code") sehr gut zeitsparend abgebildet werden. Damit wird die Installation des Smarten Gemeinschaftskalenders zeitsparender und reproduzierbar. Daher empfehlen wir diese Art der Installation.
 
- Um zu starten brauchst du einen einen (V-)Server  und einen Rechner mit installierten Ansible. Die Informationen dazu findest auf auf der Ansible Webseite. Innerhalb des Repositories gibt es im Order ["deployment"](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/tree/main/deplyoment) alle Dateien zu Ansible. Ihr müsst euch auf dem Server per SSH verbinden können. Dort nimmst du am besten die `inventory/example.yml` als Vorlage und bennst diese um. In unserem Fall für `tavias.de.yml`. Überal wo in der Bedeutung "Anpassen:" steht, müssen auf deine Konfiguration zwingend angepasst werden!
+Um zu starten wird ein (V-)Server und ein Rechner mit installiertem Ansible benötigt. Die Informationen dazu finden Sie auf der Ansible-Webseite. Innerhalb des Repositories gibt es in dem Ordner ["deployment"](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/tree/main/deplyoment) alle Dateien zu Ansible. Sie müssen sich auf dem Server per SSH verbinden können. Dort wird am besten die `inventory/example.yml` als Vorlage ausgewählt und umbenannt. In unserem Fall bspw. `tavias.de.yml`. Überall, wo in der Bedeutung "Anpassen:" steht, muss Ihre Konfiguration zwingend angepasst werden!
 
 
 | yml key | Beispielwert | Bedeutung |
@@ -58,9 +62,9 @@ Einen Server oder V-Server kann man zum Beispiel - sehr nachhaltig bei z.B. [Win
 | app_name | "Mein Kalender" | Anpassen: Anzeigename der Anwendung |
 | strict_mode |  "true" oder "false" | Konfiguration ob die Instanz im [Striktem Freigabemodus Modus](/Terminverwaltung/Instanz/#strikter-freigabemodus-strict-mode) läuft |
 
-Wenn ihr das alles richtig konfiguriert habt, müsst ihr einfach nur noch `ansible-playbook -i inventory/tavias.de.yml playbook.yml` ausführen.
+Wenn das alles richtig konfiguriert wurde, muss nur noch `ansible-playbook -i inventory/tavias.de.yml playbook.yml` ausgeführt werden.
 
-**Wichtig:** Beachtet die Punkte von `Wichtige Infos für die erste Installation`. 
+**Wichtig:** Beachten Sie unbedingt die Punkte zu `Wichtige Informationen für die erste Installation`. 
 
 ### Instance Config
 Damit die einzelnen Instanzen an die eigene Organisation oder Kampagne angepasst werden können, gibt es die [instanceConfig.ts](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/frontend/src/lib/instanceConfig.ts)
@@ -75,19 +79,19 @@ Dies ist eine Standarddatei, die ausgetauscht werden kann. Mit dieser Datei lass
 - Je nach Konfiguration kann für Veranstaltungen, die kein eigenes Bild hinterlegt haben, das Standardbild abhängig von der Kategorie angezeigt werden `defaultEventImageBasedOnCategory`
 - Standard-Kartenzentrierung und Kartenausschnitt: `eventsMap`
 
-**Hinweis:** Den Geocash könnt ihr aus den Geo Koordinaten erstellen. Z.B. [mit diesem Online Tool](https://www.movable-type.co.uk/scripts/geohash.html).
+**Hinweis:** Der Geohash kann aus den Geo-Koordinaten erstellt werden – z. B. [mit diesem Online-Tool](https://www.movable-type.co.uk/scripts/geohash.html).
 
 ### Default Dateien
 
-Mit der Instance Config lässt sich nicht nur die Instanz personalisieren, sondern es lassen sich auch sehr viele Dateien austauschen. Im Repository gibt es deswegen das Projekt `example-termine.di.day.yml` und den Ordner `deploy/roles/dsgdev/files/example-termine.di.day`, in dem sich die Beispiele für die Anpassungen von[termine.di.day](https://termine.di.day/) befinden. Der Ordner muss dabei genauso heißen wie die YAML-Datei. Es werden nur die Anpassungen übernommen, die im Ordner hinterlegt sind. Für den Rest werden die Standarddateien verwendet. 
+Mit der Instance Config lässt sich nicht nur die Instanz personalisieren, sondern es lassen sich auch sehr viele Dateien austauschen. Im Repository gibt es daher das Projekt `example-termine.di.day.yml` und den Ordner `deploy/roles/dsgdev/files/example-termine.di.day`, in dem sich die Beispiele für die Anpassungen von [termine.di.day](https://termine.di.day/) befinden. Der Ordner muss dabei genauso heißen wie die YAML-Datei. Es werden nur die Anpassungen übernommen, die im Ordner hinterlegt sind. Für den Rest werden die Standarddateien verwendet. 
 
-Die genaue Liste der Anpassungsmöglichkeiten findet man in folgender Datei: [deplyoment/roles/dsgdev/tasks/main.yml](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/deplyoment/roles/dsgdev/tasks/main.yml)
+Die genaue Liste der Anpassungsmöglichkeiten befinden sich in folgender Datei: [deplyoment/roles/dsgdev/tasks/main.yml](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/deplyoment/roles/dsgdev/tasks/main.yml)
 
 Liste der möglichen Anpassungen:
 - Logo `logo.png`
 - Startseiten Bild `notifications.png`
-- Standardbild für Karten. Also für Veranstaltungen und Organisation `default_card.png`
-- Ordner mit diversen Dateien für Favicons z.B. erstellt mit [realfavicongenerator.net](https://realfavicongenerator.net/) `favicons`
+- Standardbild für Karten – sowohl für Veranstaltungen als auch Organisation `default_card.png`
+- Ordner mit diversen Dateien für Favicons z. B. erstellt mit [realfavicongenerator.net](https://realfavicongenerator.net/) `favicons`
 - Ordner mit Standardbildern für den Werbemittelgenerator `material_generator`
 - Neue Konfiguration für Kategorien und Oberkategorien und `categoryOptions.ts`
 - Die Instance Config (siehe oben) `instanceConfig.ts`
@@ -95,4 +99,5 @@ Liste der möglichen Anpassungen:
 - Für Anpassungen bezüglich hinterlegte Favicons oder [Link Vorschau Informationen](https://www.seobility.net/en/wiki/Open_Graph) `index.html`
 
 ### (Strikter) Freigabemodus
-Bei der Installation lässt sich der [Strikte Freigabemodus Modus](/Terminverwaltung/Instanz/#strikter-freigabemodus-strict-mode) konfigurieren. Hierbei ist zu beachten, dass bei einer bestehenden Instanz alle bestehenden Termine, Organisationen, Serientermine und Terminimporte erhalten bleiben, wenn dieser Modus geändert wird. Eine Änderung wird nicht empfohlen. **Wichtig:** In der `instanceConfig.ts` sollte unter `allowedEventCreationsMethods`  das nur `singleEvent: true` hinterlegt sein. 
+Bei der Installation lässt sich der [strikte Freigabemodus](/Terminverwaltung/Instanz/#strikter-freigabemodus-strict-mode) konfigurieren. Hierbei ist zu beachten, dass bei einer bestehenden Instanz alle bestehenden Termine, Organisationen, Serientermine und Terminimporte erhalten bleiben, wenn dieser Modus geändert wird. Eine Änderung wird nicht empfohlen. 
+**Wichtig:** In der `instanceConfig.ts` sollte unter `allowedEventCreationsMethods` nur `singleEvent: true` hinterlegt sein. 
