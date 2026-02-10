@@ -49,7 +49,6 @@ Detailinformationen zu den Eingabefeldern können im Bereich der Einzeltermine e
 - [Sprache](/Terminverwaltung/Einzeltermine/#sprache)
 - [Status](/Terminverwaltung/Einzeltermine/#status)
 - [Webseite verlinken](/Terminverwaltung/Einzeltermine/#webseite-verlinken)
-- [Adresse und Kartenansicht](/Terminverwaltung/Einzeltermine/#adresse-und-kartenansicht)
 
 
 Nachdem Sie die Datei hochgeladen und die gewünschten Angaben ergänzt haben, klicken Sie auf **„Veranstaltungen anzeigen“**.  
@@ -58,6 +57,27 @@ Es öffnet sich eine **Übersichtstabelle**, in der alle Termine der iCal-Datei 
  ![Bildschirmaufnahme der Vorschau der Termine, die durch die iCal-Datei hochgeladen werden](./Bilder/Vorschau.png)
 
 Prüfen Sie die Angaben und klicken Sie anschließend auf **Vorschautermine anlegen**, um die Veranstaltungen im *Smarten Gemeinschaftskalender* zu speichern.
+
+### Adresse
+Wenn in der iCal-Datei **keine** Adresse hinterlegt ist, die Termine aber alle dieselbe Adresse haben,  [kann die Adresse wie beim Einzeltermin  hinterlegt werden.](/Terminverwaltung/Einzeltermine/#adresse-und-kartenansicht). 
+
+Wenn eine Adresse hinterlegt ist, versucht das System, diese in unser System zu übernehmen und zu speichern. Da wir nicht nur die Adresse, sondern auch die Geokoordinaten benötigen, z. B. für die Suche oder die Anzeige auf der Karte, muss es sich dabei um eine richtige Adresse handeln.
+
+
+**Hinweise:**
+
+- Ungültige oder unvollständige Adressen (z. B. nur „Hochschule Flensburg”) werden nicht übernommen.  
+- Die verarbeiteten Koordinaten werden automatisch für die Kartenanzeige verwendet.  
+- Bereits bestehende Adressinformationen eines Termins werden bei einer Änderung durch die automatische Adressintegration nicht aktualisiert.  
+- Einzelne Termine können nachträglich weiterhin manuell angepasst werden.
+
+#### Beispiele für gültige Adressen:
+
+- Schleswiger Str. 130, 24941 Flensburg
+- Am Toft 3, 24888 Loit
+- Plankemai 1
+   24937 Flensburg (Zeilengetrennt)
+
 
 ### Bereits vorhandene Termine
 Wenn Termine der iCal-Datei bereits im Kalendersystem hinterlegt sind, werden diese in einer separaten Tabelle ausgewiesen. Nur tatsächlich neue Termine können hochgeladen werden. 

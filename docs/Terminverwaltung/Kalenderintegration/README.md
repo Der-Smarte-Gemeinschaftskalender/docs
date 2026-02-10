@@ -47,9 +47,9 @@ Detailinformationen zu den Eingabefeldern können im Bereich der Einzeltermine e
 - [Sprache](/Terminverwaltung/Einzeltermine/#sprache)
 - [Status](/Terminverwaltung/Einzeltermine/#status)
 - [Webseite verlinken](/Terminverwaltung/Einzeltermine/#webseite-verlinken)
-- [Adresse und Kartenansicht](/Terminverwaltung/Einzeltermine/#adresse-und-kartenansicht)
 - **Organisation, Kategorien, Sprache, Status usw.:** Diese Felder funktionieren identisch wie beim [Einzeltermin](/Terminverwaltung/Einzeltermine/).  
-- **Adresse und Kartenansicht:** Falls gewünscht, können Sie eine Standardadresse für alle Termine der Integration hinterlegen.
+- **Adresse und Kartenansicht:** Falls gewünscht, können Sie eine Standardadresse für alle Termine der Integration hinterlegen. [Wenn für die einzelnen Termine im Quellkalender Adressen hinterlegt sind, finden Sie hier alle relevanten Informationen.](/Terminverwaltung/Einzeltermine/#adresse-und-kartenansicht)
+[Adresse und Kartenansicht](/Terminverwaltung/iCal-Dateien/#adresse-und-kartenansicht)
 
 Nachdem Sie die iCal-URL und alle gewünschten Angaben ergänzt haben, klicken Sie auf **+ Kalender integrieren**. Die Integration wird nun erstellt und automatisch aktiviert. 
 
