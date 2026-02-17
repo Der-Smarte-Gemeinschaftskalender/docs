@@ -14,3 +14,6 @@ h1, h2, h3, h4, h5, h6 {
 [data-theme="dark"] h6 {
   color: #ffffff !important; /* Überschriftenfarbe Darkmode */
 }
+.vp-hero-action-button:hover{
+  color: #000 !important; /* Hover-Farbe der Aktionsschaltfläche */
+}

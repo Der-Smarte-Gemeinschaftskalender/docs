@@ -56,7 +56,7 @@ Ziel des digitalen Kalenders ist es, einen niedrigschwelligen Überblick über l
   background-color:#2b2c6a;
   color:white;
   text-decoration:none;
-  border-radius:4px;">Zur TVAiAS-Instanz »
+  border-radius:4px;">Zur TAViAS-Instanz »
 </a>
 
 
