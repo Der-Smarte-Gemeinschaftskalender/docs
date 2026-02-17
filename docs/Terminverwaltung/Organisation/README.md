@@ -26,6 +26,8 @@ Um im *Smarten Gemeinschaftskalender* mitarbeiten oder Veranstaltungen verwalten
 3. Geben Sie Ihre **E-Mail-Adresse** ein. Wählen Sie zudem ein sicheres **Passwort** und bestätätigen Sie das Passwort mit einer erneuten Eingabe. 
 4. Klicken Sie auf *Jetzt registrieren*. Ihr Konto wurde nun erstellt. Nach erfolgreicher Registrierung erhalten Sie eine Bestätigungsmeldung im Browser.
 
+Hinweis: Beim Speichern der E-Mail-Adresse wird die Groß-/Kleinschreibung **nicht** berücksichtigt. 
+
 ### E-Mail bestätigen
 Bitte öffnen Sie nun die E-Mail, die Sie vom System erhalten haben, und klicken Sie auf den Bestätigungslink.  
 Anschließend werden Sie automatisch zur **Login-Seite** weitergeleitet.  
