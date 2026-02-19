@@ -2,7 +2,7 @@
 [« Zurück](/get-started)
 
 
-# Leistungen
+# Unsere Leistungen
 
 Die Entwicklung des Smarten Gemeinschaftskalenders wurde im Rahmen des *Call for Concepts 2024* vom DigitalHub.SH finanziert. Als Open-Source-Softwarelösung (AGPL-3.0) steht der Quellcode grundsätzlich transparent zur freien Verfügung und der Kalender kann eigenständig betrieben werden.
 
@@ -19,6 +19,6 @@ Beiträge aus unseren Dienstleistungspaketen fließen zudem in die kontinuierlic
 
 Eine ausführliche Übersicht aller Servicebausteine und Hintergrundinformationen finden Sie in unserer Broschüre:
 
-[![Broschüre herunterladen](./Bilder/Broschuere_Cover_DSG.png)](./Bilder/2602_Broschuere_DSG.pdf)
+[![Broschüre herunterladen](./Bilder/Broschuere_Cover_DSG.png)](Leistungen_Dateien/2602_Broschuere_DSG.pdf)
 
-[Broschüre herunterladen (PDF)](./Bilder/2602_Broschuere_DSG.pdf)
+[Broschüre herunterladen (PDF)](Leistungen_Dateien/2602_Broschuere_DSG.pdf)
