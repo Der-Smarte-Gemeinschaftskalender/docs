@@ -108,15 +108,15 @@ Wir empfehlen, mit einer passenden Positionierungsvorlage zu arbeiten, an welche
 <img src="/Werbemittelgenerator/Bilder/Ausrichtungsvorlage.png" alt="Beispiel Ausrichtungsprozess einer Veranstaltungsübersicht im Story-Format für den Chaos Computer Club Flensburg e. V. und entfernen der Vorlage vor dem Herunterladen" style="width:400px;"> 
 
 **Positionierungsvorlagen für Veranstaltungsübersichten**
-* [PNG-Positionierungsvorlage für Social-Media-Beiträge herunterladen](/vorlagen/veranstaltungsuebersicht_ig_post_1080x1350.png)
-* [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/vorlagen/veranstaltungsuebersicht_ig_story_1080x1920.png)
-* [PNG-Positionierungsvorlage für Full HD herunterladen](/vorlagen/veranstaltungsuebersicht_HD.png)
+* [PNG-Positionierungsvorlage für Social-Media-Beiträge herunterladen](/Werbemittelgenerator/Bilder/vorlagen/veranstaltungsuebersicht_ig_post_1080x1350.png)
+* [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/Werbemittelgenerator/Bilder/vorlagen/veranstaltungsuebersicht_ig_story_1080x1920.png)
+* [PNG-Positionierungsvorlage für Full HD herunterladen](/Werbemittelgenerator/Bilder/vorlagen/veranstaltungsuebersicht_HD.png)
 
 
 **Positionierungsvorlagen für einzelne Veranstaltungsankündigungen**
-* [PNG-Positionierungsvorlage für Social-Media-Beiträge herunterladen](/vorlagen/veranstaltungsankuendigung_ig_post_1080x1350.png)
-* [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/vorlagen/veranstaltungsankuendigung_ig_story_1080x1920.png)
-* [PNG-Positionierungsvorlage für Full HD herunterladen](/vorlagen/veranstaltungsankuendigung_HD.png)
+* [PNG-Positionierungsvorlage für Social-Media-Beiträge herunterladen](/Werbemittelgenerator/Bilder/vorlagen/veranstaltungsankuendigung_ig_post_1080x1350.png)
+* [PNG-Positionierungsvorlage für Social-Media-Storys herunterladen](/Werbemittelgenerator/Bilder/vorlagen/veranstaltungsankuendigung_ig_story_1080x1920.png)
+* [PNG-Positionierungsvorlage für Full HD herunterladen](/Werbemittelgenerator/Bilder/vorlagen/veranstaltungsankuendigung_HD.png)
 
 ### Hintergründe für Veranstaltungsübersichten gestalten
 
