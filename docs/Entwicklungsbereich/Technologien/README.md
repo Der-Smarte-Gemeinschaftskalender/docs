@@ -38,3 +38,40 @@ Die bereitgestellten UI-Komponenten entsprechen mindestens dem **AA-Level der BI
 
 * **Zukunftsfähig & nachnutzbar:** Kern UX ist ein wachsender Standard, der Pilotprojekte und Fachcommunity einbindet und eine sukzessive *bundesweite Ausweitung* anstrebt.  
 
+## Warum kein Upstream-Beitrag zu Mobilizon?
+
+Der Smarte Gemeinschaftskalender (DSG) basiert technisch auf [Mobilizon](https://joinmobilizon.org/) - eine bewusste Entscheidung, die wir hier erläutern möchten. DSG ist jedoch selbst eher ein Fork und kein „Upstream-Development”.
+
+### Was wir von Mobilizon übernommen haben
+
+Der DSG nutzt Mobilizon als technische Basis.
+Die **Föderationsfunktionen vollständig unverändert** unverändert. Das bedeutet: Der Smarte Gemeinschaftskalender ist mit dem Fediverse kompatibel – genauso wie Mobilizon selbst. Wir haben auf einem bewährten Fundament aufgebaut. Dies hat sich auch im finanziellen Umfang der Förderung widergespiegelt.
+
+### Warum ein eigenes Projekt?
+
+Der entscheidende Grund liegt im **Zielgruppenunterschied**:.
+
+Mobilizon ist eine internationale Plattform, die sich primär an selbstorganisierte Communities und Einzelpersonen im Fediverse richtet. Der smarte Gemeinschaftskalender hingegen richtet sich an **(deutsche) Gebietskörperschaften (wie Ämter,Komunen, Stände), Vereine und öffentliche Einrichtungen** mit spezifischen Anforderungen, die sich grundlegend von denen einer internationalen Open-Source-Community unterscheiden.
+
+Dazu gehört u. a.:
+
+- 
+  **Werbemittelgenerator, iCal-Import, Infomonitor-Ansicht:** Diese Funktionen sind auf die konkreten Arbeitsabläufe von Vereinen und Gemeindeverwaltungen zugeschnitten und bewusst einfacher gestaltet, wo Mobilizon mehr Komplexität bietet.
+
+- **UX-Standards:** Die Erstellungsansicht orientiert sich an   [Kern-UX](https://www.kern.services/), dem UX-Standard für deutsche   Verwaltungen. Diese Anpassungen wären für das internationale Mobilizon-Projekt schlicht nicht relevant. Aktuell ist die Dokumentation von Kern-UX nur auf Deutsch verfügbar.
+
+- **Strikter Moderationsmodus:** Für öffentliche Einrichtungen haben wir einen Modus entwickelt, in dem nicht nur neue Organisationen, sondern auch jede einzelne Terminerstellung und -änderung administrativ freigegeben werden muss. Dies ist eine sehr spezifische Anforderung aus dem Umfeld öffentlicher Einrichtungen und kein sinnvoller Upstream-Beitrag für eine internationale Plattform.
+
+### Bewusstes Vereinfachen statt Feature-Parität
+
+Ein weiterer wesentlicher Punkt ist, dass wir nicht **alle Mobilizon-Funktionen übernommen haben**. Das war keine Schwäche, sondern eine Designentscheidung. Unser Ziel war ein Werkzeug, das auch Menschen ohne technische Vorkenntnisse gerne nutzen, darunter Organisationen, die Social Media nie genutzt haben, aber dennoch Interesse daran haben, ihre Termine sichtbar zu machen und Menschen einzuladen.
+
+Diese Vereinfachung wäre als Upstream-Beitrag ein Rückschritt für Mobilizon gewesen.
+
+### Open Source bleibt Open Source
+
+Der smarte Gemeinschaftskalender wird unter der  **Open-Source-Lizenz** AGPL-3.0 veröffentlicht. Alle Weiterentwicklungen sind damit öffentlich einsehbar, nachnutzbar und bei bedarf rückführbar.
+
+### Fazit
+
+Die Entwicklung eines Forks oder eines eigenständigen Projekts auf Basis von Open-Source-Software stellt keine Abkehr vom Open-Source-Gedanken dar, sondern ist ein Kernelement davon. Die Entscheidung, den DSG als eigenständiges Projekt zu führen, war notwendig, um die spezifischen Bedürfnisse deutscher Kommunen und Organisationen gezielt ansprechen zu können, ohne ein internationales Projekt mit lokalspezifischen Anforderungen zu überlasten. Wären all diese Änderungen als optional konfigurierbare Optionen hinzugefügt worden, hätten sich die Entwicklungskosten vervielfacht und die Entwicklungszeit wäre immens gestiegen. Gleichzeitig wäre der Aufwand für die Entwicklung, Dokumentation und Kommunikation der Features langfristig enorm gestiegen. Gerade durch die Föderation und die Beibehaltung der Datenstruktur lassen sich DSG-Termine problemlos in einem Mobilizon anzeigen. Die Stärke des Fediverse liegt in der gemeinsamen Datenstruktur und den standardisierten Austauschmöglichkeiten. Trotzdem können Nutzende genau die Oberfläche nutzen, die für sie sinnvoll ist.
