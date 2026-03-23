@@ -1,4 +1,4 @@
-[« Zurück](/get-started)
+[« Zurück zur Handbuchübersicht](/get-started.md)
 
 # Serientermine
 

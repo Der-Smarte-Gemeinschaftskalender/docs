@@ -209,7 +209,7 @@ Erfahren Sie mehr über den technischen Aufbau, eingesetzte Frameworks und UX-Pr
 ---
 
 > 💌 **Interesse am Smarten Gemeinschaftskalender?**  
-> Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben, können uns einfach unter [kontakt@54gradsoftware.de](mailto:kontakt@54gradsoftware.de) anschreiben.
+> Gemeinden, Vereine oder Organisationen, die den DSG nutzen möchten oder Ideen für neue Funktionen haben, können uns einfach unter [der-smarte-gemeinschaftskalender@54gradsoftware.de](mailto:der-smarte-gemeinschaftskalender@54gradsoftware.de) anschreiben.
 
 ## Lizenz & Rechtliches
 
@@ -224,3 +224,15 @@ Lesen Sie nach, was diese Lizenz bedeutet und wie sie für Instanzen des SMarten
   color:white;
   text-decoration:none;
   border-radius:4px;">Mehr über die Lizenz »</a>
+
+## Unsere Leistungen
+
+Hier erhalten Sie einen Überblick über unsere Dienstleistungen, die wir rund um den **Smarten Gemeinschaftskalender** anbieten – Hosting, Betrieb, Support, Weiterentwicklung und vieles mehr. Gerne erstellen wir auf Ihre Bedürfnisse zugeschnittene und individuelle Leistungspakete.
+
+<a href="Leistungen/" style="
+  display:inline-block;
+  padding:8px 16px;
+  background-color:#2b2c6a;
+  color:white;
+  text-decoration:none;
+  border-radius:4px;">Mehr über unsere Dienstleistungen »</a>
