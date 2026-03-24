@@ -58,7 +58,7 @@ Dazu gehört u. a.:
 - 
   **Werbemittelgenerator, iCal-Import, Infomonitor-Ansicht:** Diese Funktionen sind auf die konkreten Arbeitsabläufe von Vereinen und Gemeindeverwaltungen zugeschnitten und bewusst einfacher gestaltet, wo Mobilizon mehr Komplexität bietet.
 
-- **UX-Standards:** Die Erstellungsansicht orientiert sich an   [Kern-UX](https://www.kern.services/), dem UX-Standard für deutsche   Verwaltungen. Diese Anpassungen wären für das internationale Mobilizon-Projekt schlicht nicht relevant. Aktuell ist die Dokumentation von Kern-UX nur auf Deutsch verfügbar.
+- **UX-Standards:** Die Erstellungsansicht orientiert sich an   [Kern-UX](https://www.kern-ux.de/), dem UX-Standard für deutsche   Verwaltungen. Diese Anpassungen wären für das internationale Mobilizon-Projekt schlicht nicht relevant. Aktuell ist die Dokumentation von Kern-UX nur auf Deutsch verfügbar.
 
 - **Strikter Moderationsmodus:** Für öffentliche Einrichtungen haben wir einen Modus entwickelt, in dem nicht nur neue Organisationen, sondern auch jede einzelne Terminerstellung und -änderung administrativ freigegeben werden muss. Dies ist eine sehr spezifische Anforderung aus dem Umfeld öffentlicher Einrichtungen und kein sinnvoller Upstream-Beitrag für eine internationale Plattform.
 
