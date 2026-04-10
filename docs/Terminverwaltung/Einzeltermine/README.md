@@ -69,7 +69,7 @@ Legen Sie fest, **wann** und **wie lange** Ihr Einzeltermin stattfindet.
 
 **Beginn (Uhrzeit):** Geben Sie an, zu welcher Uhrzeit der Termin startet. Im ersten Feld geben Sie die Stunde (00 - 23) und im zweiten Feld die Minuten (00-59) an.
 
-**Dauer:** Ausgehend von dem Startzeitpunkt legen Sie mit der Dauer fest, wie lange Ihre Veranstaltung stattfindet. Geben Sie bitte die Anzahl der Stunden und Minuten an und **keine Uhrzeit**.
+**Dauer:** Ausgehend von dem Startzeitpunkt legen Sie mit der Dauer fest, wie lange Ihre Veranstaltung stattfindet. Geben Sie bitte die Anzahl der Stunden und Minuten an und **keine Uhrzeit**. Die maximale mögliche dauer liegt bei `999:59` Stunden. 
 
 ### Organisation
 
