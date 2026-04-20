@@ -42,7 +42,7 @@ Ein Projekt von der [**54 Grad Software GmbH**](https://54gradsoftware.de), [**S
 
 ## Praxisbeispiele: Der Smarte Gemeinschaftskalender im Einsatz
 
-Der Smarte Gemeinschaftskalender wird bereits in unterschiedlichen konexten produktiv eingesetzt. Die folgenden Instanzen zeigen exeplarisch, wie der Kalender sowohl auf kommunaler als auch auf landesweiter Ebene genutzt werden kann. 
+Der Smarte Gemeinschaftskalender wird bereits in unterschiedlichen Kontexten produktiv eingesetzt. Die folgenden Instanzen zeigen exemplarisch, wie der Kalender sowohl auf kommunaler als auch auf landesweiter Ebene genutzt werden kann. 
 
 ### TAViAS – Termine, Angebote & Veranstaltungen im Amt Süderbrarup
 
