@@ -32,7 +32,7 @@ Einen Server oder V-Server kann zum Beispiel sehr nachhaltig bei [Windcloud](htt
 
 [Ansible](https://docs.ansible.com/) ist eine Plattform zur IT-Automatisierung, die komplexe administrative Aufgaben vereinfacht und standardisiert. Damit können wiederkehrende Prozesse ("Infrastructure as Code") sehr gut zeitsparend abgebildet werden. Damit wird die Installation des Smarten Gemeinschaftskalenders zeitsparender und reproduzierbar. Daher empfehlen wir diese Art der Installation.
 
-Um zu starten wird ein (V-)Server und ein Rechner mit installiertem Ansible benötigt. Die Informationen dazu finden Sie auf der Ansible-Webseite. Innerhalb des Repositories gibt es in dem Ordner ["deployment"](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/tree/main/deplyoment) alle Dateien zu Ansible. Sie müssen sich auf dem Server per SSH verbinden können. Dort wird am besten die `inventory/example.yml` als Vorlage ausgewählt und umbenannt. In unserem Fall bspw. `tavias.de.yml`. Überall, wo in der Bedeutung "Anpassen:" steht, muss Ihre Konfiguration zwingend angepasst werden!
+Um zu starten wird ein (V-)Server und ein Rechner mit installiertem Ansible benötigt. Die Informationen dazu finden Sie auf der Ansible-Webseite. Innerhalb des Repositories gibt es in dem Ordner ["deployment"](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/tree/main/deployment) alle Dateien zu Ansible. Sie müssen sich auf dem Server per SSH verbinden können. Dort wird am besten die `inventory/example.yml` als Vorlage ausgewählt und umbenannt. In unserem Fall bspw. `tavias.de.yml`. Überall, wo in der Bedeutung "Anpassen:" steht, muss Ihre Konfiguration zwingend angepasst werden!
 
 
 | yml key | Beispielwert | Bedeutung |
@@ -66,26 +66,73 @@ Wenn das alles richtig konfiguriert wurde, muss nur noch `ansible-playbook -i in
 
 **Wichtig:** Beachten Sie unbedingt die Punkte zu `Wichtige Informationen für die erste Installation`. 
 
-### Instance Config
-Damit die einzelnen Instanzen an die eigene Organisation oder Kampagne angepasst werden können, gibt es die [instanceConfig.ts](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/frontend/src/lib/instanceConfig.ts)
+### overwriteConfig
 
-Dies ist eine Standarddatei, die ausgetauscht werden kann. Mit dieser Datei lassen sich verschiedene Einstellungen für die Instanz vornehmen, z. B.:
-- die Anzeige der Verlinkung auf externe Navigationsdienste `showPhysicalAddressRouting`
-- die Arten der Erstellung von Terminen `allowedEventCreationsMethods`
-- Welche Texte auf der Startseite angezeigt werden, welche Bereiche angezeigt werden und wie Termine angezeigt werden: `landingPage`
-- Standardwerte für die Suchfilter, z. B. ein bestimmtes Gebiet: `searchDefaults`
-- Welche Texte und Links im Haupt-Header angezeigt werden: `mainHeader`
-- Standardwerte für die Kategorie beim Erstellen eines neuen Termins: `createEventDefaults`
-- Je nach Konfiguration kann für Veranstaltungen, die kein eigenes Bild hinterlegt haben, das Standardbild abhängig von der Kategorie angezeigt werden `defaultEventImageBasedOnCategory`
-- Standard-Kartenzentrierung und Kartenausschnitt: `eventsMap`
+Ergänzend zur [instanceConfig.ts](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/frontend/src/lib/instanceConfig.ts) gibt es die [overwriteConfig.ts](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/frontend/src/lib/overwriteConfig.ts)
+
+Dies ist eine Standarddatei, die ausgetauscht werden kann. Im Gegensatz zur `instanceConfig.ts` müssen hier **nicht alle Werte** gesetzt werden – es werden ausschließlich die Einstellungen angegeben, die für die jeweilige Instanz vom Standard abweichen sollen. Alle nicht aufgeführten Schlüssel behalten automatisch ihre Werte aus der `instanceConfig.ts`. Dadurch lässt sich eine Instanz gezielt anpassen, ohne die komplette Konfiguration zu duplizieren.
+
+#### Verfügbare Felder
+
+| Feld | Unterfeld | Typ | Beschreibung |
+| --- | --- | --- | --- |
+| `isStrictModeEnabled` | – | `boolean` | Aktiviert den strikten Modus (überschreibt die Umgebungsvariable `VITE_DSG_STRICT_MODE`). |
+| `showPhysicalAddressRouting` | `googleMaps` | `boolean` | Zeigt die Verlinkung zu Google Maps an. |
+| | `appleMaps` | `boolean` | Zeigt die Verlinkung zu Apple Maps an. |
+| | `copyAdressButton` | `boolean` | Zeigt den Button zum Kopieren der Adresse an. |
+| | `openGeoCoordinates` | `boolean` | Zeigt die Verlinkung zum Öffnen der Geo-Koordinaten an. |
+| `instanceInformation` | `name` | `string` | Name der Instanz, z. B. „Der Smarte Gemeinschaftskalender“. |
+| | `operatedBy` | `string` | Betreiber der Instanz, z. B. „Amt Süderbrarup“. |
+| `allowedEventCreationsMethods` | `singleEvent` | `boolean` | Erlaubt das Erstellen einzelner Termine. |
+| | `seriesEvent` | `boolean` | Erlaubt das Erstellen von Terminserien. |
+| | `uploadedEvent` | `boolean` | Erlaubt das Hochladen von Terminen (z. B. via Datei). |
+| | `importedEvent` | `boolean` | Erlaubt das Importieren von Terminen (z. B. via URL/Feed). |
+| `landingPage` | `heading` | `string` | Überschrift der Startseite. |
+| | `description` | `string` | Beschreibungstext der Startseite (Plain Text). |
+| | `descriptionHtml` | `string` | Beschreibungstext der Startseite als HTML (überschreibt `description`, sofern gesetzt). |
+| | `showNotification` | `boolean` | Zeigt die Benachrichtigungsbox auf der Startseite an. |
+| | `showCategories` | `boolean` | Zeigt die Kategorieübersicht auf der Startseite an. |
+| | `numberOfUpcomingEvents` | `number` | Anzahl der angezeigten kommenden Termine. |
+| | `upcomingEventsMapTitle` | `string` | Titel über der Karte mit kommenden Terminen. |
+| | `upcomingEventsMapBeforeDateFromNowInDays` | `number \| null` | Zeitraum in Tagen, für den kommende Termine auf der Karte angezeigt werden (`null` = unbegrenzt). |
+| | `showNotificationImageAlt` | `string` | Alt-Text für das Bild in der Benachrichtigungsbox. |
+| `searchPage` | `description` | `string` | Beschreibungstext der Suchseite (Plain Text). |
+| | `descriptionHtml` | `string` | Beschreibungstext der Suchseite als HTML. |
+| `searchDefaults` | `searchTerm` | `string` | Standard-Suchbegriff. |
+| | `searchRadius` | `number` | Standard-Suchradius in Kilometern. |
+| | `locationAddress` | `string` | Standard-Adresse für die Suche, z. B. „24392 Süderbrarup, Schleswig-Holstein“. |
+| | `locationGeoHash` | `string` | Geohash der Standard-Adresse (siehe Hinweis unten). |
+| | `target` | `string` | Standard-Suchziel (z. B. `INTERNAL`). |
+| `mainHeader` | `showCalendarLink` | `boolean` | Zeigt den Kalender-Link im Hauptmenü an. |
+| | `externalLinkUrl` | `string` | URL des ersten externen Links im Header. |
+| | `externalLinkText` | `string` | Anzeigetext des ersten externen Links im Header. |
+| | `externalLinkUrl2` | `string \| null` | URL des zweiten externen Links im Header (`null` = ausgeblendet). |
+| | `externalLinkText2` | `string \| null` | Anzeigetext des zweiten externen Links im Header (`null` = ausgeblendet). |
+| `mainFooter` | `disclaimerText` | `string` | Disclaimer-Text im Footer. |
+| `createEventDefaults` | `category` | `string` | Standardkategorie beim Erstellen eines neuen Termins, z. B. `NETWORKING`. |
+| `showEventPage` | `eventShareTitle` | `string` | Titel, der beim Teilen eines Termins verwendet wird. |
+| `materialGeneratorDefaults` | `underlineColor` | `string` | Standardfarbe der Unterstreichung im Materialgenerator (Hex-Code, z. B. `#800080`). |
+| `defaultEventImageBasedOnCategory` | – | `boolean` | Wenn aktiviert, wird für Termine ohne eigenes Bild das Standardbild der jeweiligen Kategorie angezeigt. |
+| `eventsMap` | `initialZoomLevel` | `number` | Standard-Zoomstufe der Terminkarte. |
+| | `defaultCenter.lat` | `number` | Breitengrad der Standard-Kartenzentrierung. |
+| | `defaultCenter.lon` | `number` | Längengrad der Standard-Kartenzentrierung. |
+| `seriesEventsHolidaysFilter` | `enabled` | `boolean` | Aktiviert den Filter für Deutsche Feiertage/Schulferien bei Terminserien. |
+| | `state` | `string` | Bundesland-Kürzel für den Feiertagsfilter, z. B. `sh` für Schleswig-Holstein. |
+
+**Hinweis:** Es sollten ausschließlich diejenigen Werte in die `overwriteConfig.ts` eingetragen werden, die tatsächlich vom Standard abweichen – alle übrigen Schlüssel können weggelassen werden und werden automatisch aus der `instanceConfig.ts` übernommen.
 
 **Hinweis:** Der Geohash kann aus den Geo-Koordinaten erstellt werden – z. B. [mit diesem Online-Tool](https://www.movable-type.co.uk/scripts/geohash.html).
 
+### Instance Config
+
+**Wichtig:** seit der V1.4.0 sollte zum konfigurieren der Instanz nicht mehr die die `instanceConfig.ts` sondern die `overwriteConfig.ts` benutzt werden.
+Damit die einzelnen Instanzen an die eigene Organisation oder Kampagne angepasst werden können, gibt es die [instanceConfig.ts](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/frontend/src/lib/instanceConfig.ts)
+
 ### Default Dateien
 
-Mit der Instance Config lässt sich nicht nur die Instanz personalisieren, sondern es lassen sich auch sehr viele Dateien austauschen. Im Repository gibt es daher das Projekt `example-termine.di.day.yml` und den Ordner `deploy/roles/dsgdev/files/example-termine.di.day`, in dem sich die Beispiele für die Anpassungen von [termine.di.day](https://termine.di.day/) befinden. Der Ordner muss dabei genauso heißen wie die YAML-Datei. Es werden nur die Anpassungen übernommen, die im Ordner hinterlegt sind. Für den Rest werden die Standarddateien verwendet. 
+Mit der overwriteConfig lässt sich nicht nur die Instanz personalisieren, sondern es lassen sich auch sehr viele Dateien austauschen. Im Repository gibt es daher das Projekt `example-termine.di.day.yml` und den Ordner `deploy/roles/dsgdev/files/example-termine.di.day`, in dem sich die Beispiele für die Anpassungen von [termine.di.day](https://termine.di.day/) befinden. Der Ordner muss dabei genauso heißen wie die YAML-Datei. Es werden nur die Anpassungen übernommen, die im Ordner hinterlegt sind. Für den Rest werden die Standarddateien verwendet. 
 
-Die genaue Liste der Anpassungsmöglichkeiten befinden sich in folgender Datei: [deplyoment/roles/dsgdev/tasks/main.yml](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/deplyoment/roles/dsgdev/tasks/main.yml)
+Die genaue Liste der Anpassungsmöglichkeiten befinden sich in folgender Datei: [deployment/roles/dsgdev/tasks/main.yml](https://github.com/Der-Smarte-Gemeinschaftskalender/der-smarte-gemeinschaftskalender/blob/main/deployment/roles/dsgdev/tasks/main.yml)
 
 Liste der möglichen Anpassungen:
 - Logo `logo.png`
@@ -94,10 +141,11 @@ Liste der möglichen Anpassungen:
 - Ordner mit diversen Dateien für Favicons z. B. erstellt mit [realfavicongenerator.net](https://realfavicongenerator.net/) `favicons`
 - Ordner mit Standardbildern für den Werbemittelgenerator `material_generator`
 - Neue Konfiguration für Kategorien und Oberkategorien und `categoryOptions.ts`
-- Die Instance Config (siehe oben) `instanceConfig.ts`
+- Die overwriteConfig (siehe oben) `overwriteConfig.ts`
 - Für Style Anpassungen `app.scss`
 - Für Anpassungen bezüglich hinterlegte Favicons oder [Link Vorschau Informationen](https://www.seobility.net/en/wiki/Open_Graph) `index.html`
+- Es kann eine custom `nginx-combined.conf` hinterlegt werden.
 
 ### (Strikter) Freigabemodus
 Bei der Installation lässt sich der [strikte Freigabemodus](/Terminverwaltung/Instanz/#strikter-freigabemodus-strict-mode) konfigurieren. Hierbei ist zu beachten, dass bei einer bestehenden Instanz alle bestehenden Termine, Organisationen, Serientermine und Terminimporte erhalten bleiben, wenn dieser Modus geändert wird. Eine Änderung wird nicht empfohlen. 
-**Wichtig:** In der `instanceConfig.ts` sollte unter `allowedEventCreationsMethods` nur `singleEvent: true` hinterlegt sein. 
+**Wichtig:** In der `overwriteConfig.ts` sollte unter `allowedEventCreationsMethods` nur `singleEvent: true` hinterlegt sein. 
