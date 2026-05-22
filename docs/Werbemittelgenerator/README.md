@@ -42,35 +42,70 @@ Der Generator bietet verschiedene Optionen, um Ihre Übersicht individuell zu ge
 
    **Hinweis:** Beim Format *Text* werden Hintergrundbild, Logo und Überschrift nicht verwendet.
 
-2. **Zeitraum:**  
-   Definieren Sie den Zeitraum, für den die Veranstaltungen angezeigt werden sollen.  
-   *Hinweis:* Es können maximal **10 Veranstaltungen** dargestellt werden.
+2. **Zeitraum und Veranstaltungsauswahl:**  
+   Definieren Sie den Zeitraum, für den die Veranstaltungen angezeigt werden sollen. Dies funktioniert über die Seitenleiste mit den Eingabefeldern für Start- und Enddatum.  
+   Um die angezeigten Veranstaltungen weiter zu spezifizieren, nutzen Sie die **„Auswählen"**-Schaltfläche in der Seitenleiste, direkt unter der Zeitraumauswahl. Wählen Sie dann aus der Liste der Veranstaltungen die gewünschten aus.  
+
+   **Hinweis:** Es können maximal **10 Veranstaltungen** im Format *Social-Media-Post* und **14 Veranstaltungen** im Format *Social-Media-Story* dargestellt werden.
 
 3. **Hintergrundbild:**  
    - Laden Sie ein Bild per **Drag & Drop** oder über die Schaltfläche *Datei auswählen* hoch.  
    - Wenn im [Markenkit](#markenkit) bereits ein Hintergrundbild hinterlegt ist, wird dieses automatisch geladen.  
    - Wenn Sie individuelle Hintergrunddesigns für Ihre Organisation gestalten möchten, finden Sie detaillierte Hinweise im Abschnitt [Richtlinien für die Hintergrunderstellung](#richtlinien-fur-die-hintergrunderstellung). Zudem können Sie unsere [gebrauchsfertigen Hintergründe](./#hintergrunde-fur-veranstaltungsubersichten) herunterladen und frei nutzen.  
-   - Bereits hochgeladene Bilder können durch das Hochladen eines neuen Bildes ersetzt werden.
+   - Bereits hochgeladene Bilder können durch das Hochladen eines neuen Bildes ersetzt werden.   
 
 4. **Logo:**  
    Logos, die im Bereich *Organisation* hinterlegt wurden, können durch die Option **Logo laden** der Grafik hinzugefügt werden.  
    Alternativ können Logos auch direkt im Hintergrundbild frei platziert werden.
 
-5. **Überschrift (optional):**  
-   - Direkt im Generator kann eine Überschrift eintragen werden. Das kann insbesondere sinnvoll sein, wenn Sie den Monat oder die Woche der Veranstaltungsübersicht in den Titel integrieren und sich dieser mit jeder Nutzung ändert.  
-   -  Sie können die **Textfarbe** anpassen, indem Sie auf das Farbsymbol klicken. Die Farbe kann über die Palette gewählt werden oder Sie fügen die RGB-, HEX- oder HSL-Werte der gewünschten Farbe ein. Sie können das Format über den Pfeil neben der Formatangabe ändern.
-   <img src="/Werbemittelgenerator/Bilder/Farbanpassung.png" alt="Beispiel Ausrichtungsprozess einer Veranstaltungsübersicht im Story-Format für den Chaos Computer Club Flensburg e. V. und entfernen der Vorlage vor dem Herunterladen" style="width:200px;">
-   - Zudem können Sie aus verschiedenen **Schriftarten** wählen.
-   - Wenn Sie die Überschrift in Ihr Hintergrundbild integrieren – weil Sie beispielsweise eine spezielle Schriftart oder Positionierung im Design benötigen –, lassen Sie das Eingabefeld einfach leer. Achten Sie auf leserliche Schriften.
- 
-6. **Veranstaltungsinformationen:**  
-   - Für die Veranstaltungsdetails und Informationen des Fußbereichs können ebenfalls **Schriftfarbe** und **Schriftart** festgelegt werden. 
-   - Auch die Farbe der **Trennlinien** kann individuell festgelegt werden.
+5. **Text einfügen:**  
+   Über die Schaltfläche **Text** in der Werkzeugleiste können Sie ein Textfeld auf der Grafik platzieren. Das Textfeld lässt sich anschließend per Drag & Drop verschieben, skalieren und drehen.  
+   Wenn ein Textfeld ausgewählt ist, erscheinen in der Werkzeugleiste die Optionen zur Textformatierung:
+   - **Schriftart** und **Textfarbe** anpassen
+   - **Schriftgröße** festlegen
+   - Text **fett** oder **unterstrichen** formatieren
 
-7. **Farbwahl**: 
+6. **Formen einfügen:**  
+   Über die Schaltfläche **Form** in der Werkzeugleiste öffnet sich ein Auswahlmenü mit folgenden Formen:  
+   *Rechteck, Kreis, Ellipse, Dreieck, Linie, Stern, Pfeil, Sechseck*  
+   Die eingefügte Form lässt sich per Drag & Drop verschieben sowie skalieren und drehen. Wenn eine Form ausgewählt ist, kann die **Füllfarbe** direkt in der Werkzeugleiste angepasst werden.
+
+7. **Bild einfügen:**  
+    Über die Schaltfläche **Bild** in der Werkzeugleiste können Sie eine Bilddatei (PNG, JPEG, WEBP oder SVG) als eigenständiges Element auf der Grafik einfügen. Das Bild wird dabei als eigene Ebene über dem Hintergrund platziert und kann per Drag & Drop frei positioniert sowie skaliert und gedreht werden.  
+    **Hinweis:** Dies ist nicht dasselbe wie das Hintergrundbild – hier wird ein zusätzliches Bildelement auf der Grafik platziert, z. B. ein Logo oder eine Deko.
+
+
+8. **Stempel:**  
+    Über die Schaltfläche **Stempel** in der Werkzeugleiste können Sie einen der vordefinierten Statusstempel auf der Grafik platzieren:  
+    - *Abgesagt*  
+    - *Verschoben*  
+    - *Aktualisiert*  
+
+    Der Stempel lässt sich per Drag & Drop positionieren, skalieren und drehen. Wenn ein Stempel ausgewählt ist, können in der Werkzeugleiste die **Hintergrundfarbe** sowie die **Rahmen- und Textfarbe** des Stempels individuell angepasst werden.
+
+9. **Ebenenreihenfolge und Objektverwaltung:**  
+    Mit einem **Rechtsklick** auf ein Element öffnet sich ein Kontextmenü mit folgenden Optionen:  
+    - **Ebene nach vorne** / **Ebene nach hinten**: verschiebt das Element eine Ebene in der Reihenfolge  
+    - **Ganz nach vorne** / **Ganz nach hinten**: verschiebt das Element an die oberste oder unterste Position  
+    - **Duplizieren**: erstellt eine Kopie des Elements  
+    - **Löschen**: entfernt das Element aus der Grafik
+
+10. **Rückgängig / Wiederholen:**  
+    Bearbeitungs-Schritte können über die Schaltflächen **Rückgängig** und **Wiederholen** in der Werkzeugleiste schrittweise zurückgenommen oder wiederhergestellt werden.
+
+11. **Vorlagen:**  
+    Im Bereich **Vorlagen** in der Seitenleiste können Sie Ihr aktuelles Design – einschließlich aller Einstellungen, Objekte und des Hintergrundbilds benennen, speichern und später erneut verwenden. So können Sie konsistente Layouts für wiederkehrende Veröffentlichungen nutzen.  
+
+    - Geben Sie einen Namen ein und klicken Sie auf **Speichern**, um eine neue Vorlage anzulegen.  
+    - Gespeicherte Vorlagen erscheinen als Schaltflächen und können per Klick geladen werden.  
+    - Vorlagen können über das Papierkorb-Symbol gelöscht werden.  
+    **Hinweis:** Vorlagen sind formatspezifisch, eine Vorlage steht nur bei Auswahl des Formats der Vorlage zur Verfügung.
+
+
+12. **Farbwahl**: 
 Achten Sie auf **barrierefreie Kontraste** (mehr dazu im Abschnitt [Barrierefreie Gestaltungsprinzipien](/Barrierefreiheit/#wahrnehmbar)).
 
-8. **Design herunterladen:**
+13. **Design herunterladen:**
 Wenn Sie mit der Gestaltung zufrieden sind, können Sie die fertige Grafik über den Button **Design herunterladen** lokal auf Ihrem Rechner speichern.
 
 
