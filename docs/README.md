@@ -24,7 +24,6 @@ features:
     details: "Veranstalter*innen erstellen und verwalten ihre Termine unkompliziert selbst: Serientermine angelegn, Termine aus digitalen Kalendern synchronisieren, Kalenderdateien importieren, mit dem Werbemittelgenerator Veranstaltungsankündigungen erstellen und mehr – alles an einem Ort."
   - title: Einfach & intuitiv
     details: "Konzipiert für den echten Alltag: Eine benutzerfreundliche Oberfläche, die Bürger*innen und Veranstalter*innen gerne benutzen – auch ohne technische Vorkenntnisse."
-footer: Dokumentation von 54 Grad Software GmbH 
 ---
 
 <img src="./DSG-Kooperation.png" alt="Logos der 3 Kooperationspartner" style="width:500px;"> 
